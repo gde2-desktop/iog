@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+ 
+[GDE2.iog]
+file_filter = po/<lang>.po
+source_file = po/iog.pot
+source_lang = en

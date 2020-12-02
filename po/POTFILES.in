@@ -1,0 +1,37 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+[encoding: UTF-8]
+cut-n-paste/toolbar-editor/egg-editable-toolbar.c
+cut-n-paste/toolbar-editor/egg-toolbar-editor.c
+data/iog.appdata.xml.in
+data/iog.desktop.in.in
+[type: gettext/glade]data/iog-image-properties-dialog.ui
+[type: gettext/glade]data/iog-multiple-save-as-dialog.ui
+[type: gettext/glade]data/iog-preferences-dialog.ui
+[type: gettext/gsettings]data/org.gde2.iog.gschema.xml.in
+plugins/fullscreen/iog-fullscreen-plugin.c
+plugins/fullscreen/fullscreen.iog-plugin.desktop.in
+plugins/reload/iog-reload-plugin.c
+plugins/reload/reload.iog-plugin.desktop.in
+plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in
+src/iog-application.c
+src/iog-close-confirmation-dialog.c
+src/iog-file-chooser.c
+src/iog-image.c
+src/iog-image-jpeg.c
+src/iog-error-message-area.c
+src/iog-exif-details.c
+src/iog-exif-util.c
+src/iog-plugin-manager.c
+src/iog-preferences-dialog.c
+src/iog-print.c
+src/iog-print-image-setup.c
+src/iog-properties-dialog.c
+src/iog-save-as-dialog-helper.c
+src/iog-statusbar.c
+src/iog-thumb-view.c
+src/iog-uri-converter.c
+src/iog-uri-converter.h
+src/iog-util.c
+src/iog-window.c
+src/main.c

@@ -1,0 +1,1498 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-13 16:02+0300\n"
+"PO-Revision-Date: 2016-03-09 18:25+0000\n"
+"Last-Translator: infirit <inactive+infirit@transifex.com>\n"
+"Language-Team: Persian (http://www.transifex.com/gde2/GDE2/language/fa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Translaters: This string is for a toggle to display a toolbar.
+#. * The name of the toolbar is automatically computed from the widgets
+#. * on the toolbar, and is placed at the %s. Note the _ before the %s
+#. * which is used to add mnemonics. We know that this is likely to
+#. * produce duplicates, but don't worry about it. If your language
+#. * normally has a mnemonic at the start, please use the _. If not,
+#. * please remove.
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:948
+#, c-format
+msgid "Show “_%s”"
+msgstr ""
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1416
+msgid "_Move on Toolbar"
+msgstr ""
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1417
+msgid "Move the selected item on the toolbar"
+msgstr ""
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1418
+msgid "_Remove from Toolbar"
+msgstr ""
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1419
+msgid "Remove the selected item from the toolbar"
+msgstr ""
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1420
+msgid "_Delete Toolbar"
+msgstr ""
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1421
+msgid "Remove the selected toolbar"
+msgstr ""
+
+#: ../cut-n-paste/toolbar-editor/egg-toolbar-editor.c:515
+msgid "Separator"
+msgstr ""
+
+#: ../data/iog.appdata.xml.in.h:1 ../src/iog-window.c:2596
+msgid "Eye of GDE2"
+msgstr "چشم گنوم"
+
+#: ../data/iog.appdata.xml.in.h:2
+msgid "Simple image viewer"
+msgstr ""
+
+#: ../data/iog.appdata.xml.in.h:3
+msgid ""
+"<p> Eye of GDE2 is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr ""
+
+#: ../data/iog.desktop.in.in.h:1 ../src/main.c:73 ../src/main.c:275
+msgid "Eye of GDE2 Image Viewer"
+msgstr ""
+
+#: ../data/iog.desktop.in.in.h:2
+msgid "Browse and rotate images"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:1
+msgid "Image Properties"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:2
+msgid "Name:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:3
+msgid "Width:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:4
+msgid "Height:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:5
+msgid "Type:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:6
+msgid "Bytes:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:7
+msgid "Location:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:8
+msgid "General"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:9
+msgid "Aperture Value:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:10
+msgid "Exposure Time:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:11
+msgid "Focal Length:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:12
+msgid "Flash:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:13
+msgid "ISO Speed Rating:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:14
+msgid "Metering Mode:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:15
+msgid "Camera Model:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:16
+msgid "Date/Time:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:17
+msgid "Description:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:18
+msgid "Keywords:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:19
+msgid "Author:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:20
+msgid "Copyright:"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:21
+msgid "Details"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:22
+msgid "Metadata"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:23
+msgid "_Previous"
+msgstr ""
+
+#: ../data/iog-image-properties-dialog.ui.h:24
+msgid "_Next"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:1
+msgid "Save As"
+msgstr "ذخیره به نام..."
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:3
+#, no-c-format
+msgid "<b>%f:</b> original filename"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:5
+#, no-c-format
+msgid "<b>%n:</b> counter"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:6
+msgid "Filename format:"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:7
+msgid "Choose a folder"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:8
+msgid "Destination folder:"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:9
+msgid "File Path Specifications"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:10
+msgid "Start counter at:"
+msgstr "شروع شمارنده از:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:11
+msgid "Replace spaces with underscores"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:12
+msgid "Options"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:13
+msgid "Rename from:"
+msgstr ""
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:14
+msgid "To:"
+msgstr "تا:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:15
+msgid "File Name Preview"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:1
+msgid "Eye of GDE2 Preferences"
+msgstr "ترجیحات چشم گنوم"
+
+#: ../data/iog-preferences-dialog.ui.h:2
+msgid "Image Enhancements"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:3
+msgid "Smooth images when zoomed-_out"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:4
+msgid "Smooth images when zoomed-_in"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:5
+msgid "_Automatic orientation"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:6
+msgid "Background"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:7
+msgid "As custom color:"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:8
+#: ../data/org.gde2.iog.gschema.xml.in.h:3
+msgid "Background Color"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:9
+msgid "Transparent Parts"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:10
+msgid "As check _pattern"
+msgstr "به شکل ش_طرنجی"
+
+#: ../data/iog-preferences-dialog.ui.h:11
+msgid "As custom c_olor:"
+msgstr "به _رنگ سفارشی:"
+
+#: ../data/iog-preferences-dialog.ui.h:12
+msgid "Color for Transparent Areas"
+msgstr "رنگ نواحی شفاف"
+
+#: ../data/iog-preferences-dialog.ui.h:13
+msgid "As _background"
+msgstr "به رنگ _پس‌زمینه"
+
+#: ../data/iog-preferences-dialog.ui.h:14
+msgid "Image View"
+msgstr "نمایش تصویر"
+
+#: ../data/iog-preferences-dialog.ui.h:15
+msgid "Image Zoom"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:16
+msgid "E_xpand images to fit screen"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:17
+msgid "Sequence"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:18
+msgid "_Switch image after:"
+msgstr "ت_عویض تصویر پس از:"
+
+#: ../data/iog-preferences-dialog.ui.h:19
+msgid "seconds"
+msgstr "ثانیه"
+
+#: ../data/iog-preferences-dialog.ui.h:20
+msgid "_Random sequence"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:21
+msgid "_Loop sequence"
+msgstr "_تکرار دنباله"
+
+#: ../data/iog-preferences-dialog.ui.h:22
+msgid "Slideshow"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:23
+msgid "Plugins"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:1
+msgid "Automatic orientation"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:2
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:4
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:5
+msgid "Use a custom background color"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:6
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:7
+msgid "Interpolate Image"
+msgstr "درون‌یابی تصویر"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:8
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:9
+msgid "Extrapolate Image"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:10
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:11
+msgid "Transparency indicator"
+msgstr "مشخصهٔ شفافیت"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:12
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:13
+msgid "Scroll wheel zoom"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:14
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:15
+msgid "Zoom multiplier"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:17
+#, no-c-format
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:18
+msgid "Transparency color"
+msgstr "رنگ شفافیت"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:19
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "اگر کلید شفافیت مقدار COLOR را داشته باشد، این کلید مقدار رنگی را که برای مشخص کردن شفافیت به کار می‌رود تعیین خواهد کرد."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:20
+msgid "Randomize the image sequence"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:21
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:22
+msgid "Loop through the image sequence"
+msgstr "حلقه در دنبالهٔ تصاویر"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:23
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:25
+#, no-c-format
+msgid "Allow zoom greater than 100% initially"
+msgstr "اجازه برای زوم بیشتر از ۱۰۰٪ در ابتدا"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:26
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "اگر FALSE تنظیم شود تصاویر کوچک از ابتدا تا جایی که هم اندازهٔ صفحه شوند کش نمی‌آیند."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:27
+msgid "Delay in seconds until showing the next image"
+msgstr "تأخیر به ثانیه تا نمایش تصویر بعد"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:28
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "مقدار بزرگ‌تر از صفر ثانیه‌هایی را معین می‌کند که تصویر، پیش از آن که تصویر بعدی به طور خودکار نمایش داده شود، روی صفحه باقی می‌ماند. صفر مرور خودکار را از کار می‌اندازد."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:29
+msgid "Show/Hide the window toolbar."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:30
+msgid "Show/Hide the window statusbar."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:31
+msgid "Show/Hide the image collection pane."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:32
+msgid "Image collection pane position."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:33
+msgid "Whether the image collection pane should be resizable."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:34
+msgid "Show/Hide the window side pane."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:35
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:36
+msgid "Close main window without asking to save changes."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:37
+msgid "Trash images without asking"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:38
+msgid ""
+"If activated, Eye of GDE2 won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:39
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:40
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:41
+msgid "External program to use for editing images"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:42
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:43
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:44
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:45
+msgid "Active plugins"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:46
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .iog-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr ""
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:1
+msgid "Fullscreen with double-click"
+msgstr ""
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:2
+msgid "Activate fullscreen mode with double-click"
+msgstr ""
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:1
+msgid "Reload Image"
+msgstr ""
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:2
+msgid "Reload current image"
+msgstr ""
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:1
+msgid "Date in statusbar"
+msgstr ""
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:2
+msgid "Shows the image date in the window statusbar"
+msgstr ""
+
+#: ../src/iog-application.c:124
+msgid "Running in fullscreen mode"
+msgstr ""
+
+#: ../src/iog-close-confirmation-dialog.c:164
+msgid "Close _without Saving"
+msgstr ""
+
+#: ../src/iog-close-confirmation-dialog.c:197
+msgid "Question"
+msgstr ""
+
+#: ../src/iog-close-confirmation-dialog.c:378
+msgid "If you don't save, your changes will be lost."
+msgstr ""
+
+#: ../src/iog-close-confirmation-dialog.c:421
+#, c-format
+msgid "Save changes to image \"%s\" before closing?"
+msgstr ""
+
+#: ../src/iog-close-confirmation-dialog.c:628
+#, c-format
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] ""
+
+#: ../src/iog-close-confirmation-dialog.c:645
+msgid "S_elect the images you want to save:"
+msgstr ""
+
+#. Secondary label
+#: ../src/iog-close-confirmation-dialog.c:667
+msgid "If you don't save, all your changes will be lost."
+msgstr ""
+
+#: ../src/iog-file-chooser.c:132
+msgid "File format is unknown or unsupported"
+msgstr ""
+
+#: ../src/iog-file-chooser.c:137
+msgid ""
+"Eye of GDE2 could not determine a supported writable file format based on "
+"the filename."
+msgstr ""
+
+#: ../src/iog-file-chooser.c:138
+msgid "Please try a different file extension like .png or .jpg."
+msgstr ""
+
+#: ../src/iog-file-chooser.c:170
+msgid "All Files"
+msgstr "همهٔ پرونده‌ها"
+
+#: ../src/iog-file-chooser.c:175
+msgid "All Images"
+msgstr "همهٔ تصاویر"
+
+#. Filter name: First description then file extension, eg. "The PNG-Format
+#. (*.png)".
+#: ../src/iog-file-chooser.c:196
+#, c-format
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+#. Pixel size of image: width x height in pixel
+#: ../src/iog-file-chooser.c:292 ../src/iog-properties-dialog.c:137
+#: ../src/iog-properties-dialog.c:139 ../src/iog-thumb-view.c:582
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] ""
+
+#: ../src/iog-file-chooser.c:443
+msgid "Open Image"
+msgstr ""
+
+#: ../src/iog-file-chooser.c:451
+msgid "Save Image"
+msgstr "ذخیرهٔ تصویر"
+
+#: ../src/iog-file-chooser.c:459
+msgid "Open Folder"
+msgstr "باز کردن پوشه"
+
+#: ../src/iog-image.c:562
+#, c-format
+msgid "Transformation on unloaded image."
+msgstr "تغییر شکل تصویر بار نشده."
+
+#: ../src/iog-image.c:590
+#, c-format
+msgid "Transformation failed."
+msgstr ""
+
+#: ../src/iog-image.c:1000
+#, c-format
+msgid "EXIF not supported for this file format."
+msgstr "‏EXIF برای این قالب پرونده پشتیبانی نمی‌شود"
+
+#: ../src/iog-image.c:1123
+#, c-format
+msgid "Image loading failed."
+msgstr ""
+
+#: ../src/iog-image.c:1652 ../src/iog-image.c:1754
+#, c-format
+msgid "No image loaded."
+msgstr "تصویری بار نشده است."
+
+#: ../src/iog-image.c:1662 ../src/iog-image.c:1766
+#, c-format
+msgid "Temporary file creation failed."
+msgstr "شکست در ایجاد پروندهٔ موقت."
+
+#: ../src/iog-image-jpeg.c:384
+#, c-format
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "ایجاد پروندهٔ موقت برای ذخیره‌سازی ممکن نیست: %s"
+
+#: ../src/iog-image-jpeg.c:395
+#, c-format
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "اختصاص حافظه برای بار کردن تصویر JPEG ممکن نیست"
+
+#: ../src/iog-error-message-area.c:124
+msgid "_Retry"
+msgstr ""
+
+#: ../src/iog-error-message-area.c:167
+#, c-format
+msgid "Could not load image '%s'."
+msgstr ""
+
+#: ../src/iog-error-message-area.c:209
+#, c-format
+msgid "No images found in '%s'."
+msgstr ""
+
+#: ../src/iog-error-message-area.c:216
+msgid "The given locations contain no images."
+msgstr ""
+
+#: ../src/iog-exif-details.c:68
+msgid "Camera"
+msgstr "دوربین"
+
+#: ../src/iog-exif-details.c:69
+msgid "Image Data"
+msgstr "داده‌های تصویر"
+
+#: ../src/iog-exif-details.c:70
+msgid "Image Taking Conditions"
+msgstr "شرایط گرفتن تصویر"
+
+#: ../src/iog-exif-details.c:71
+msgid "Maker Note"
+msgstr "یادداشت سازنده"
+
+#: ../src/iog-exif-details.c:72
+msgid "Other"
+msgstr "بقیه"
+
+#: ../src/iog-exif-details.c:74
+msgid "XMP Exif"
+msgstr ""
+
+#: ../src/iog-exif-details.c:75
+msgid "XMP IPTC"
+msgstr ""
+
+#: ../src/iog-exif-details.c:76
+msgid "XMP Rights Management"
+msgstr ""
+
+#: ../src/iog-exif-details.c:77
+msgid "XMP Other"
+msgstr ""
+
+#: ../src/iog-exif-details.c:251
+msgid "Tag"
+msgstr "برچسب"
+
+#: ../src/iog-exif-details.c:258
+msgid "Value"
+msgstr "مقدار"
+
+#. A strftime-formatted string, to display the date the image was taken.
+#: ../src/iog-exif-util.c:121 ../src/iog-exif-util.c:161
+msgid "%a, %d %B %Y  %X"
+msgstr ""
+
+#. A strftime-formatted string, to display the date the image was taken, for
+#. the case we don't have the time.
+#: ../src/iog-exif-util.c:155
+msgid "%a, %d %B %Y"
+msgstr ""
+
+#: ../src/iog-plugin-manager.c:55
+msgid "Plugin"
+msgstr ""
+
+#: ../src/iog-plugin-manager.c:56
+msgid "Enabled"
+msgstr "فعال شده"
+
+#: ../src/iog-plugin-manager.c:509 ../src/iog-window.c:3673
+msgid "_About"
+msgstr "_درباره"
+
+#: ../src/iog-plugin-manager.c:517
+msgid "C_onfigure"
+msgstr ""
+
+#: ../src/iog-plugin-manager.c:527
+msgid "A_ctivate"
+msgstr ""
+
+#: ../src/iog-plugin-manager.c:539
+msgid "Ac_tivate All"
+msgstr ""
+
+#: ../src/iog-plugin-manager.c:544
+msgid "_Deactivate All"
+msgstr ""
+
+#: ../src/iog-plugin-manager.c:853
+msgid "Active _Plugins:"
+msgstr ""
+
+#: ../src/iog-plugin-manager.c:890
+msgid "_About Plugin"
+msgstr ""
+
+#: ../src/iog-plugin-manager.c:897
+msgid "C_onfigure Plugin"
+msgstr ""
+
+#: ../src/iog-print.c:219
+msgid "Image Settings"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:873
+msgid "Image"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:874
+msgid "The image whose printing properties will be set up"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:880
+msgid "Page Setup"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:881
+msgid "The information for the page where the image will be printed"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:914 ../src/iog-print-image-setup.c:928
+msgid "Position"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:918 ../src/iog-print-image-setup.c:933
+msgid "_Left:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:920 ../src/iog-print-image-setup.c:934
+msgid "_Right:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:921 ../src/iog-print-image-setup.c:935
+msgid "_Top:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:922 ../src/iog-print-image-setup.c:936
+msgid "_Bottom:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:939
+msgid "C_enter:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:948
+msgid "None"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:950
+msgid "Horizontal"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:952
+msgid "Vertical"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:954
+msgid "Both"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:980 ../src/iog-print-image-setup.c:991
+msgid "Size"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:983 ../src/iog-print-image-setup.c:996
+msgid "_Width:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:985 ../src/iog-print-image-setup.c:998
+msgid "_Height:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:1002
+msgid "_Scaling:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:1026
+msgid "_Unit:"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:1035
+msgid "Millimeters"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:1037
+msgid "Inches"
+msgstr ""
+
+#: ../src/iog-print-image-setup.c:1074
+msgid "Preview"
+msgstr ""
+
+#: ../src/iog-properties-dialog.c:154
+msgid "Unknown"
+msgstr ""
+
+#. TRANSLATORS: This is the actual focal length used when
+#. the image was taken.
+#: ../src/iog-properties-dialog.c:232
+#, c-format
+msgid "%.1f (lens)"
+msgstr ""
+
+#. Print as float to get a similar look as above.
+#. TRANSLATORS: This is the equivalent focal length assuming
+#. a 35mm film camera.
+#: ../src/iog-properties-dialog.c:243
+#, c-format
+msgid "%.1f (35mm film)"
+msgstr ""
+
+#: ../src/iog-save-as-dialog-helper.c:161
+msgid "as is"
+msgstr "همین طور که هست"
+
+#. Translators: This string is displayed in the statusbar.
+#. * The first token is the image number, the second is total image
+#. * count.
+#. *
+#. * Translate to "%Id" if you want to use localized digits, or
+#. * translate to "%d" otherwise.
+#. *
+#. * Note that translating this doesn't guarantee that you get localized
+#. * digits. That needs support from your system and locale definition
+#. * too.
+#: ../src/iog-statusbar.c:134
+#, c-format
+msgid "%d / %d"
+msgstr ""
+
+#: ../src/iog-thumb-view.c:610
+msgid "Taken on"
+msgstr ""
+
+#: ../src/iog-uri-converter.c:984
+#, c-format
+msgid "At least two file names are equal."
+msgstr "دست کم دو پرونده همنام هستند."
+
+#: ../src/iog-util.c:68
+msgid "Could not display help for Eye of GDE2"
+msgstr "نمایش راهنمای چشم گنوم ممکن نبود"
+
+#: ../src/iog-util.c:116
+msgid " (invalid Unicode)"
+msgstr " (یونی‌کد نامعتبر)"
+
+#. Translators: This is the string displayed in the statusbar
+#. * The tokens are from left to right:
+#. * - image width
+#. * - image height
+#. * - image size in bytes
+#. * - zoom in percent
+#: ../src/iog-window.c:516
+#, c-format
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] ""
+
+#: ../src/iog-window.c:817
+msgid "_Reload"
+msgstr ""
+
+#: ../src/iog-window.c:819 ../src/iog-window.c:2717
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr ""
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:829
+#, c-format
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr ""
+
+#: ../src/iog-window.c:1002
+#, c-format
+msgid "Use \"%s\" to open the selected image"
+msgstr ""
+
+#. Translators: This string is displayed in the statusbar
+#. * while saving images. The tokens are from left to right:
+#. * - the original filename
+#. * - the current image's position in the queue
+#. * - the total number of images queued for saving
+#: ../src/iog-window.c:1158
+#, c-format
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr ""
+
+#: ../src/iog-window.c:1516
+#, c-format
+msgid "Opening image \"%s\""
+msgstr ""
+
+#: ../src/iog-window.c:2214
+#, c-format
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr ""
+
+#: ../src/iog-window.c:2476
+msgid "Toolbar Editor"
+msgstr ""
+
+#: ../src/iog-window.c:2479
+msgid "_Reset to Default"
+msgstr ""
+
+#: ../src/iog-window.c:2572
+msgid "translator-credits"
+msgstr "روزبه پورنادر <roozbeh@farsiweb.info>\nمیلاد زکریا <meelad@farsiweb.info>\nالناز سربر <elnaz@farsiweb.info>"
+
+#: ../src/iog-window.c:2575
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr "این برنامه نرم‌افزار آزاد است؛ یعنی می‌توانید تحت شرایط مجوز عمومی همگانی گنو منتشر شده توسط بنیاد نرم‌افزارهای آزاد (نسخهٔ 2.0 یا نسخه‌های بعدی) آن را تغییر داده یا مجدداً توزیع کنید.\n"
+
+#: ../src/iog-window.c:2579
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr "این برنامه به این امید توزیع می‌شود که سودمند باشد ولی هیچ‌گونه ضمانتی ندارد؛ حتی این ضمانت که قابل فروش باشد یا برای منظور بخصوصی مناسب باشد. برای جزئیات بیشتر متن مجوز عمومی همگانی گنو را ببینید.\n"
+
+#: ../src/iog-window.c:2583
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr ""
+
+#: ../src/iog-window.c:2601
+msgid "The GDE2 image viewer."
+msgstr ""
+
+#. I18N: When setting mnemonics for these strings, watch out to not
+#. clash with mnemonics from iog's menubar
+#: ../src/iog-window.c:2715
+msgid "_Open Background Preferences"
+msgstr ""
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:2731
+#, c-format
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr ""
+
+#: ../src/iog-window.c:3133
+msgid "Saving image locally…"
+msgstr ""
+
+#: ../src/iog-window.c:3213
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr "آیا واقعاً می‌خواهید «%s» را\nدر زباله‌دان بیندازید؟"
+
+#: ../src/iog-window.c:3216
+#, c-format
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr ""
+
+#: ../src/iog-window.c:3221
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] ""
+
+#: ../src/iog-window.c:3226
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr ""
+
+#: ../src/iog-window.c:3243 ../src/iog-window.c:3727 ../src/iog-window.c:3754
+msgid "Move to _Trash"
+msgstr "انداختن در _زباله‌دان"
+
+#: ../src/iog-window.c:3245
+msgid "_Do not ask again during this session"
+msgstr ""
+
+#: ../src/iog-window.c:3290 ../src/iog-window.c:3304
+#, c-format
+msgid "Couldn't access trash."
+msgstr "دسترسی به زباله‌دان مقدور نیست."
+
+#: ../src/iog-window.c:3312
+#, c-format
+msgid "Couldn't delete file"
+msgstr ""
+
+#: ../src/iog-window.c:3409
+#, c-format
+msgid "Error on deleting image %s"
+msgstr "خطا در حذف تصویر %s"
+
+#: ../src/iog-window.c:3651
+msgid "_Image"
+msgstr "_تصویر"
+
+#: ../src/iog-window.c:3652
+msgid "_Edit"
+msgstr "_ویرایش"
+
+#: ../src/iog-window.c:3653
+msgid "_View"
+msgstr "_نما"
+
+#: ../src/iog-window.c:3654
+msgid "_Go"
+msgstr "ر_فتن"
+
+#: ../src/iog-window.c:3655
+msgid "_Tools"
+msgstr ""
+
+#: ../src/iog-window.c:3656
+msgid "_Help"
+msgstr "_راهنما"
+
+#: ../src/iog-window.c:3658
+msgid "_Open…"
+msgstr ""
+
+#: ../src/iog-window.c:3659
+msgid "Open a file"
+msgstr "باز کردن پرونده"
+
+#: ../src/iog-window.c:3661
+msgid "_Close"
+msgstr "بس_تن"
+
+#: ../src/iog-window.c:3662
+msgid "Close window"
+msgstr "بستن پنجره"
+
+#: ../src/iog-window.c:3664
+msgid "T_oolbar"
+msgstr ""
+
+#: ../src/iog-window.c:3665
+msgid "Edit the application toolbar"
+msgstr ""
+
+#: ../src/iog-window.c:3667
+msgid "Prefere_nces"
+msgstr "ترجی_حات"
+
+#: ../src/iog-window.c:3668
+msgid "Preferences for Eye of GDE2"
+msgstr "ترجیحات چشم گنوم"
+
+#: ../src/iog-window.c:3670
+msgid "_Contents"
+msgstr "_محتویات"
+
+#: ../src/iog-window.c:3671
+msgid "Help on this application"
+msgstr ""
+
+#: ../src/iog-window.c:3674
+msgid "About this application"
+msgstr "دربارهٔ این برنامه"
+
+#: ../src/iog-window.c:3679
+msgid "_Toolbar"
+msgstr "نوار _ابزار"
+
+#: ../src/iog-window.c:3680
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "حالت مرئی بودن یا نبودن نوار ابزار در پنجرهٔ فعلی را تغییر می‌دهد"
+
+#: ../src/iog-window.c:3682
+msgid "_Statusbar"
+msgstr "نوار _وضعیت"
+
+#: ../src/iog-window.c:3683
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "حالت مرئی بودن یا نبودن نوار وضعیت در پنجرهٔ فعلی را تغییر می‌دهد"
+
+#: ../src/iog-window.c:3685
+msgid "_Image Collection"
+msgstr "مجموعه _تصویر"
+
+#: ../src/iog-window.c:3686
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "حالت مرئی بودن یا نبودن قاب مجموعه تصویر را در پنجرهٔ فعلی تغییر می‌دهد"
+
+#: ../src/iog-window.c:3688
+msgid "Side _Pane"
+msgstr ""
+
+#: ../src/iog-window.c:3689
+msgid "Changes the visibility of the side pane in the current window"
+msgstr ""
+
+#: ../src/iog-window.c:3694
+msgid "_Save"
+msgstr "_ذخیره"
+
+#: ../src/iog-window.c:3695
+msgid "Save changes in currently selected images"
+msgstr ""
+
+#: ../src/iog-window.c:3697
+msgid "Open _with"
+msgstr ""
+
+#: ../src/iog-window.c:3698
+msgid "Open the selected image with a different application"
+msgstr ""
+
+#: ../src/iog-window.c:3700
+msgid "Save _As…"
+msgstr ""
+
+#: ../src/iog-window.c:3701
+msgid "Save the selected images with a different name"
+msgstr ""
+
+#: ../src/iog-window.c:3703
+msgid "_Print…"
+msgstr ""
+
+#: ../src/iog-window.c:3704
+msgid "Print the selected image"
+msgstr ""
+
+#: ../src/iog-window.c:3706
+msgid "Prope_rties"
+msgstr ""
+
+#: ../src/iog-window.c:3707
+msgid "Show the properties and metadata of the selected image"
+msgstr ""
+
+#: ../src/iog-window.c:3709
+msgid "_Undo"
+msgstr "_برگردان"
+
+#: ../src/iog-window.c:3710
+msgid "Undo the last change in the image"
+msgstr ""
+
+#: ../src/iog-window.c:3712
+msgid "Flip _Horizontal"
+msgstr "پشت و رو کردن ا_فقی"
+
+#: ../src/iog-window.c:3713
+msgid "Mirror the image horizontally"
+msgstr ""
+
+#: ../src/iog-window.c:3715
+msgid "Flip _Vertical"
+msgstr "پشت و رو کردن _عمودی"
+
+#: ../src/iog-window.c:3716
+msgid "Mirror the image vertically"
+msgstr ""
+
+#: ../src/iog-window.c:3718
+msgid "_Rotate Clockwise"
+msgstr "چرخاندن در _جهت عقربه‌های ساعت"
+
+#: ../src/iog-window.c:3719
+msgid "Rotate the image 90 degrees to the right"
+msgstr ""
+
+#: ../src/iog-window.c:3721
+msgid "Rotate Counterc_lockwise"
+msgstr ""
+
+#: ../src/iog-window.c:3722
+msgid "Rotate the image 90 degrees to the left"
+msgstr ""
+
+#: ../src/iog-window.c:3724
+msgid "Set as _Desktop Background"
+msgstr ""
+
+#: ../src/iog-window.c:3725
+msgid "Set the selected image as the desktop background"
+msgstr ""
+
+#: ../src/iog-window.c:3728
+msgid "Move the selected image to the trash folder"
+msgstr ""
+
+#: ../src/iog-window.c:3730
+msgid "_Copy"
+msgstr ""
+
+#: ../src/iog-window.c:3731
+msgid "Copy the selected image to the clipboard"
+msgstr ""
+
+#: ../src/iog-window.c:3733 ../src/iog-window.c:3745 ../src/iog-window.c:3748
+msgid "_Zoom In"
+msgstr "زوم به _داخل"
+
+#: ../src/iog-window.c:3734 ../src/iog-window.c:3746
+msgid "Enlarge the image"
+msgstr ""
+
+#: ../src/iog-window.c:3736 ../src/iog-window.c:3751
+msgid "Zoom _Out"
+msgstr "زوم به _خارج"
+
+#: ../src/iog-window.c:3737 ../src/iog-window.c:3749 ../src/iog-window.c:3752
+msgid "Shrink the image"
+msgstr ""
+
+#: ../src/iog-window.c:3739
+msgid "_Normal Size"
+msgstr "اندازهٔ _عادی"
+
+#: ../src/iog-window.c:3740
+msgid "Show the image at its normal size"
+msgstr ""
+
+#: ../src/iog-window.c:3742
+msgid "_Best Fit"
+msgstr ""
+
+#: ../src/iog-window.c:3743
+msgid "Fit the image to the window"
+msgstr ""
+
+#: ../src/iog-window.c:3760
+msgid "_Fullscreen"
+msgstr ""
+
+#: ../src/iog-window.c:3761
+msgid "Show the current image in fullscreen mode"
+msgstr ""
+
+#: ../src/iog-window.c:3763
+msgid "Pause Slideshow"
+msgstr ""
+
+#: ../src/iog-window.c:3764
+msgid "Pause or resume the slideshow"
+msgstr ""
+
+#: ../src/iog-window.c:3769 ../src/iog-window.c:3784
+msgid "_Previous Image"
+msgstr "تصویر _قبلی"
+
+#: ../src/iog-window.c:3770
+msgid "Go to the previous image of the collection"
+msgstr ""
+
+#: ../src/iog-window.c:3772
+msgid "_Next Image"
+msgstr "تصویر _بعدی"
+
+#: ../src/iog-window.c:3773
+msgid "Go to the next image of the collection"
+msgstr ""
+
+#: ../src/iog-window.c:3775 ../src/iog-window.c:3787
+msgid "_First Image"
+msgstr "_اولین تصویر"
+
+#: ../src/iog-window.c:3776
+msgid "Go to the first image of the collection"
+msgstr ""
+
+#: ../src/iog-window.c:3778 ../src/iog-window.c:3790
+msgid "_Last Image"
+msgstr "آ_خرین تصویر"
+
+#: ../src/iog-window.c:3779
+msgid "Go to the last image of the collection"
+msgstr ""
+
+#: ../src/iog-window.c:3781
+msgid "_Random Image"
+msgstr ""
+
+#: ../src/iog-window.c:3782
+msgid "Go to a random image of the collection"
+msgstr ""
+
+#: ../src/iog-window.c:3796
+msgid "S_lideshow"
+msgstr ""
+
+#: ../src/iog-window.c:3797
+msgid "Start a slideshow view of the images"
+msgstr ""
+
+#: ../src/iog-window.c:3863
+msgid "Previous"
+msgstr "قبلی"
+
+#: ../src/iog-window.c:3867
+msgid "Next"
+msgstr "بعدی"
+
+#: ../src/iog-window.c:3871
+msgid "Right"
+msgstr "راست"
+
+#: ../src/iog-window.c:3874
+msgid "Left"
+msgstr "چپ"
+
+#: ../src/iog-window.c:3877
+msgid "In"
+msgstr "داخل"
+
+#: ../src/iog-window.c:3880
+msgid "Out"
+msgstr "خارج"
+
+#: ../src/iog-window.c:3883
+msgid "Normal"
+msgstr "عادی"
+
+#: ../src/iog-window.c:3886
+msgid "Fit"
+msgstr "اندازه کردن"
+
+#: ../src/iog-window.c:3889
+msgid "Collection"
+msgstr ""
+
+#: ../src/iog-window.c:3892
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr ""
+
+#: ../src/iog-window.c:4245
+#, c-format
+msgid "Edit the current image using %s"
+msgstr ""
+
+#: ../src/iog-window.c:4247
+msgid "Edit Image"
+msgstr ""
+
+#: ../src/main.c:80
+msgid "Open in fullscreen mode"
+msgstr ""
+
+#: ../src/main.c:81
+msgid "Disable image collection"
+msgstr ""
+
+#: ../src/main.c:82
+msgid "Open in slideshow mode"
+msgstr ""
+
+#: ../src/main.c:84
+msgid "Start a new instance instead of reusing an existing one"
+msgstr ""
+
+#: ../src/main.c:87
+msgid "Show the application's version"
+msgstr ""
+
+#: ../src/main.c:88
+msgid "[FILE…]"
+msgstr ""
+
+#. I18N: The '%s' is replaced with iog's command name.
+#: ../src/main.c:219
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr ""

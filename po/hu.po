@@ -1,0 +1,1504 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# kami911 <kami911@gmail.com>, 2014
+# Rezső Páder <rezso@rezso.net>, 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-13 16:02+0300\n"
+"PO-Revision-Date: 2015-10-11 15:54+0000\n"
+"Last-Translator: Rezső Páder <rezso@rezso.net>\n"
+"Language-Team: Hungarian (http://www.transifex.com/gde2/GDE2/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translaters: This string is for a toggle to display a toolbar.
+#. * The name of the toolbar is automatically computed from the widgets
+#. * on the toolbar, and is placed at the %s. Note the _ before the %s
+#. * which is used to add mnemonics. We know that this is likely to
+#. * produce duplicates, but don't worry about it. If your language
+#. * normally has a mnemonic at the start, please use the _. If not,
+#. * please remove.
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:948
+#, c-format
+msgid "Show “_%s”"
+msgstr "„_%s” megjelenítése"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1416
+msgid "_Move on Toolbar"
+msgstr "Át_helyezés az eszköztáron"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1417
+msgid "Move the selected item on the toolbar"
+msgstr "A kijelölt elem áthelyezése az eszköztáron"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1418
+msgid "_Remove from Toolbar"
+msgstr "_Eltávolítás az eszköztárról"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1419
+msgid "Remove the selected item from the toolbar"
+msgstr "A kijelölt elem eltávolítása az eszköztárról"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1420
+msgid "_Delete Toolbar"
+msgstr "_Eszköztár törlése"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1421
+msgid "Remove the selected toolbar"
+msgstr "A kijelölt eszköztár eltávolítása"
+
+#: ../cut-n-paste/toolbar-editor/egg-toolbar-editor.c:515
+msgid "Separator"
+msgstr "Elválasztó"
+
+#: ../data/iog.appdata.xml.in.h:1 ../src/iog-window.c:2596
+msgid "Eye of GDE2"
+msgstr "Eye of GDE2"
+
+#: ../data/iog.appdata.xml.in.h:2
+msgid "Simple image viewer"
+msgstr "Egyszerű képmegjelenítő"
+
+#: ../data/iog.appdata.xml.in.h:3
+msgid ""
+"<p> Eye of GDE2 is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr "<p> Az Eye of GDE2 egy egyszerű képnézegető program. A kép betöltésekor az nagyítható és forgatható, és a képet tartalmazó könyvtár képi is megnézhetőek. </p>"
+
+#: ../data/iog.desktop.in.in.h:1 ../src/main.c:73 ../src/main.c:275
+msgid "Eye of GDE2 Image Viewer"
+msgstr "Eye of GDE2 képmegjelenítő"
+
+#: ../data/iog.desktop.in.in.h:2
+msgid "Browse and rotate images"
+msgstr "Képek böngészése és forgatása"
+
+#: ../data/iog-image-properties-dialog.ui.h:1
+msgid "Image Properties"
+msgstr "Képtulajdonságok"
+
+#: ../data/iog-image-properties-dialog.ui.h:2
+msgid "Name:"
+msgstr "Név:"
+
+#: ../data/iog-image-properties-dialog.ui.h:3
+msgid "Width:"
+msgstr "Szélesség:"
+
+#: ../data/iog-image-properties-dialog.ui.h:4
+msgid "Height:"
+msgstr "Magasság:"
+
+#: ../data/iog-image-properties-dialog.ui.h:5
+msgid "Type:"
+msgstr "Típus:"
+
+#: ../data/iog-image-properties-dialog.ui.h:6
+msgid "Bytes:"
+msgstr "Bájt:"
+
+#: ../data/iog-image-properties-dialog.ui.h:7
+msgid "Location:"
+msgstr "Hely:"
+
+#: ../data/iog-image-properties-dialog.ui.h:8
+msgid "General"
+msgstr "Általános"
+
+#: ../data/iog-image-properties-dialog.ui.h:9
+msgid "Aperture Value:"
+msgstr "Apertúraérték:"
+
+#: ../data/iog-image-properties-dialog.ui.h:10
+msgid "Exposure Time:"
+msgstr "Expozíciós idő:"
+
+#: ../data/iog-image-properties-dialog.ui.h:11
+msgid "Focal Length:"
+msgstr "Fókusztávolság:"
+
+#: ../data/iog-image-properties-dialog.ui.h:12
+msgid "Flash:"
+msgstr "Vaku:"
+
+#: ../data/iog-image-properties-dialog.ui.h:13
+msgid "ISO Speed Rating:"
+msgstr "ISO sebességérték:"
+
+#: ../data/iog-image-properties-dialog.ui.h:14
+msgid "Metering Mode:"
+msgstr "Mérési mód:"
+
+#: ../data/iog-image-properties-dialog.ui.h:15
+msgid "Camera Model:"
+msgstr "Fényképezőgép típusa:"
+
+#: ../data/iog-image-properties-dialog.ui.h:16
+msgid "Date/Time:"
+msgstr "Dátum/idő:"
+
+#: ../data/iog-image-properties-dialog.ui.h:17
+msgid "Description:"
+msgstr "Leírás:"
+
+#: ../data/iog-image-properties-dialog.ui.h:18
+msgid "Keywords:"
+msgstr "Kulcsszavak:"
+
+#: ../data/iog-image-properties-dialog.ui.h:19
+msgid "Author:"
+msgstr "Szerző:"
+
+#: ../data/iog-image-properties-dialog.ui.h:20
+msgid "Copyright:"
+msgstr "Copyright:"
+
+#: ../data/iog-image-properties-dialog.ui.h:21
+msgid "Details"
+msgstr "Részletek"
+
+#: ../data/iog-image-properties-dialog.ui.h:22
+msgid "Metadata"
+msgstr "Metaadat"
+
+#: ../data/iog-image-properties-dialog.ui.h:23
+msgid "_Previous"
+msgstr "_Előző"
+
+#: ../data/iog-image-properties-dialog.ui.h:24
+msgid "_Next"
+msgstr "_Következő"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:1
+msgid "Save As"
+msgstr "Mentés másként"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:3
+#, no-c-format
+msgid "<b>%f:</b> original filename"
+msgstr "<b>%f:</b> eredeti fájlnév"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:5
+#, no-c-format
+msgid "<b>%n:</b> counter"
+msgstr "<b>%n:</b> számláló"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:6
+msgid "Filename format:"
+msgstr "Fájlnév formátuma:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:7
+msgid "Choose a folder"
+msgstr "Válasszon mappát"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:8
+msgid "Destination folder:"
+msgstr "Célmappa:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:9
+msgid "File Path Specifications"
+msgstr "Fájlútvonal-specifikációk"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:10
+msgid "Start counter at:"
+msgstr "Számláló indítása ennél:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:11
+msgid "Replace spaces with underscores"
+msgstr "Szóközök cseréje aláhúzás karakterekre"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:12
+msgid "Options"
+msgstr "Beállítások"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:13
+msgid "Rename from:"
+msgstr "Átnevezés erről:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:14
+msgid "To:"
+msgstr "Erre:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:15
+msgid "File Name Preview"
+msgstr "Fájlnév előnézete"
+
+#: ../data/iog-preferences-dialog.ui.h:1
+msgid "Eye of GDE2 Preferences"
+msgstr "Az Eye of GDE2 beállításai"
+
+#: ../data/iog-preferences-dialog.ui.h:2
+msgid "Image Enhancements"
+msgstr "Kép javításai"
+
+#: ../data/iog-preferences-dialog.ui.h:3
+msgid "Smooth images when zoomed-_out"
+msgstr "Képek _simítása kicsinyítéskor"
+
+#: ../data/iog-preferences-dialog.ui.h:4
+msgid "Smooth images when zoomed-_in"
+msgstr "Képek _simítása nagyításkor"
+
+#: ../data/iog-preferences-dialog.ui.h:5
+msgid "_Automatic orientation"
+msgstr "_Automatikus tájolás"
+
+#: ../data/iog-preferences-dialog.ui.h:6
+msgid "Background"
+msgstr "Háttér"
+
+#: ../data/iog-preferences-dialog.ui.h:7
+msgid "As custom color:"
+msgstr "Egyéni színként:"
+
+#: ../data/iog-preferences-dialog.ui.h:8
+#: ../data/org.gde2.iog.gschema.xml.in.h:3
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#: ../data/iog-preferences-dialog.ui.h:9
+msgid "Transparent Parts"
+msgstr "Átlátszó részek"
+
+#: ../data/iog-preferences-dialog.ui.h:10
+msgid "As check _pattern"
+msgstr "_Rácsmintaként"
+
+#: ../data/iog-preferences-dialog.ui.h:11
+msgid "As custom c_olor:"
+msgstr "Egyéni _színként:"
+
+#: ../data/iog-preferences-dialog.ui.h:12
+msgid "Color for Transparent Areas"
+msgstr "Az átlátszó területek színe"
+
+#: ../data/iog-preferences-dialog.ui.h:13
+msgid "As _background"
+msgstr "_Háttérként"
+
+#: ../data/iog-preferences-dialog.ui.h:14
+msgid "Image View"
+msgstr "Képnézet"
+
+#: ../data/iog-preferences-dialog.ui.h:15
+msgid "Image Zoom"
+msgstr "Kép nagyítása"
+
+#: ../data/iog-preferences-dialog.ui.h:16
+msgid "E_xpand images to fit screen"
+msgstr "Képek _nagyítása a képernyő méretéhez"
+
+#: ../data/iog-preferences-dialog.ui.h:17
+msgid "Sequence"
+msgstr "Sorozat"
+
+#: ../data/iog-preferences-dialog.ui.h:18
+msgid "_Switch image after:"
+msgstr "Ké_p váltása:"
+
+#: ../data/iog-preferences-dialog.ui.h:19
+msgid "seconds"
+msgstr "másodperc után"
+
+#: ../data/iog-preferences-dialog.ui.h:20
+msgid "_Random sequence"
+msgstr "_Véletlen sorozat"
+
+#: ../data/iog-preferences-dialog.ui.h:21
+msgid "_Loop sequence"
+msgstr "_Végtelenített sorozat"
+
+#: ../data/iog-preferences-dialog.ui.h:22
+msgid "Slideshow"
+msgstr "Diavetítés"
+
+#: ../data/iog-preferences-dialog.ui.h:23
+msgid "Plugins"
+msgstr "Bővítmények"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:1
+msgid "Automatic orientation"
+msgstr "Automatikus tájolás"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:2
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr "A kép automatikusan elforgatandó-e az EXIF tájolás alapján."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:4
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr "A kép mögötti terület kitöltésére használt szín. Ha a use-background-color kulcs nem engedélyezett, akkor a színt az aktív GTK+ téma adja meg."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:5
+msgid "Use a custom background color"
+msgstr "Egyéni háttérszín használata"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:6
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr "Ha be van kapcsolva, akkor a background-color kulcsban beállított szín lesz felhasználva a kép mögötti terület kitöltésére. Ha nincs beállítva, akkor az aktuális GTK téma fogja meghatározni a kitöltésszínt."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:7
+msgid "Interpolate Image"
+msgstr "Kép interpolálása"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:8
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr "Legyen-e a kép interpolálva a kicsinyítéskor. Ez jobb képminőséget eredményez, de kicsit lassabb."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:9
+msgid "Extrapolate Image"
+msgstr "Kép extrapolálása"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:10
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr "Legyen-e a kép extrapolálva a nagyításkor. Ez a képminőség elmosódását eredményezi, és kicsit lassabb a nem extrapolált képek használatánál."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:11
+msgid "Transparency indicator"
+msgstr "Átlátszóság jelzése"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:12
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr "Meghatározza az átlátszóság kijelzésének módját. Az érvényes értékek: checked, color és none. A color választása esetén a trans-color kulcs határozza meg a használt színértéket."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:13
+msgid "Scroll wheel zoom"
+msgstr "Egérgörgő nagyítása"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:14
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr "Az egérgörgő használandó-e nagyításra."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:15
+msgid "Zoom multiplier"
+msgstr "Nagyítás szorzója"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:17
+#, no-c-format
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr "Az egérgörgő nagyításra való használatakor alkalmazandó szorzó. Ez az érték megadja az egyes görgetési eseményekhez használt nagyítási lépést. A 0,05 érték például 5% nagyítási növekedést eredményez minden görgetési eseményhez, az 1,00 pedig 100% nagyítási növekedést."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:18
+msgid "Transparency color"
+msgstr "Átlátszóságot jelző szín"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:19
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "Ha a transparency kulcs értéke COLOR, akkor ez a kulcs határozza meg az átlátszóság kijelzéséhez használt színt."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:20
+msgid "Randomize the image sequence"
+msgstr "Képek véletlenszerű sorozata"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:21
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr "A képek sorozata véletlen sorrendben és ismétlésben legyen-e megjelenítve."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:22
+msgid "Loop through the image sequence"
+msgstr "A képsorozat ismétlése"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:23
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr "A képek sorozata végtelen ismétlésben legyen-e megjelenítve."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:25
+#, no-c-format
+msgid "Allow zoom greater than 100% initially"
+msgstr "100 százaléknál nagyobb kezdeti nagyítás engedélyezése"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:26
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "Ha nincs beállítva, kezdetben a kis képek nem lesznek kifeszítve a teljes képernyőre."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:27
+msgid "Delay in seconds until showing the next image"
+msgstr "Késleltetés másodpercben a következő kép mutatásáig"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:28
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "0-nál nagyobb érték megadja a másodperceket, amíg egy kép a képernyőn marad mielőtt a következő automatikusan megjelenne. A nulla kikapcsolja az automatikus böngészést."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:29
+msgid "Show/Hide the window toolbar."
+msgstr "Az ablak eszköztárának megjelenítése/elrejtése."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:30
+msgid "Show/Hide the window statusbar."
+msgstr "Az ablak állapotsorának megjelenítése/elrejtése."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:31
+msgid "Show/Hide the image collection pane."
+msgstr "A képgyűjteménysáv megjelenítése/elrejtése."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:32
+msgid "Image collection pane position."
+msgstr "A képgyűjteménysáv helyzete."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:33
+msgid "Whether the image collection pane should be resizable."
+msgstr "A képgyűjteménysáv átméretezhető legyen-e."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:34
+msgid "Show/Hide the window side pane."
+msgstr "Az ablak oldalsávjának megjelenítése/elrejtése."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:35
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr "A képgyűjteménysáv görgetőgombjainak megjelenítése/elrejtése."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:36
+msgid "Close main window without asking to save changes."
+msgstr "A fő ablak bezárása a változások mentésének kérdezése nélkül."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:37
+msgid "Trash images without asking"
+msgstr "Képek Kukába dobása kérdés nélkül"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:38
+msgid ""
+"If activated, Eye of GDE2 won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr "Ha be van kapcsolva, az IOG nem kér megerősítést a képek Kukába mozgatásakor. Továbbra is rákérdez, ha a fájlok valamelyike nem helyezhető át, és helyette törlésre kerülne."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:39
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr "A tulajdonságok ablak metaadatlistája saját oldalon jelenjen-e meg?"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:40
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr "Ha be van kapcsolva, akkor a részletes metaadatlista a tulajdonságok ablakban saját lapot kap az ablakban. Ez az ablakot használhatóbbá teszi kisebb képernyőkön, például netbookokon. Ha le van tiltva, a felületi elem a „Metaadatok” lapon beágyazva jelenik meg."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:41
+msgid "External program to use for editing images"
+msgstr "A képek szerkesztéséhez használt külső program"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:42
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr "A képek szerkesztéséhez használt program desktop fájljának neve (a \".desktop\"-pal együtt)  (a \"Kép szerkesztése\" toolbar gombra kattintáskor). Ha nincs megadva, ez a lehetőség tiltva lesz."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:43
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr "A fájlválasztó megjelenítse-e a felhasználó Képek mappáját, ha nincsenek betöltve képek."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:44
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr "Ha be van kapcsolva, és nincs kép betöltve az aktív ablakban, akkor a fájlválasztó megjeleníti a felhasználó Képek mappáját a speciális XDG felhasználói könyvtár használatával. Ha ki van kapcsolva, vagy a képek mappa nincs beállítva, akkor az aktuális munkakönyvtárat jeleníti meg."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:45
+msgid "Active plugins"
+msgstr "Aktív bővítmények"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:46
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .iog-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr "Az aktív bővítmények listája. Ez nem tartalmazza az aktív bővítmények „helyét”. Adott bővítmény „helyének” lekérésével kapcsolatban nézze meg a .iog-plugin fájlt."
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:1
+msgid "Fullscreen with double-click"
+msgstr "Teljes képernyő dupla kattintásra"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:2
+msgid "Activate fullscreen mode with double-click"
+msgstr "Teljes képernyős mód aktiválása dupla kattintásra"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:1
+msgid "Reload Image"
+msgstr "Kép újratöltése"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:2
+msgid "Reload current image"
+msgstr "Aktuális kép újratöltése"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:1
+msgid "Date in statusbar"
+msgstr "Dátum az állapotsorban"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:2
+msgid "Shows the image date in the window statusbar"
+msgstr "Megjeleníti a kép dátumát az ablak állapotsorában"
+
+#: ../src/iog-application.c:124
+msgid "Running in fullscreen mode"
+msgstr "Futás teljes képernyős módban"
+
+#: ../src/iog-close-confirmation-dialog.c:164
+msgid "Close _without Saving"
+msgstr "Bezárás mentés _nélkül"
+
+#: ../src/iog-close-confirmation-dialog.c:197
+msgid "Question"
+msgstr "Kérdés"
+
+#: ../src/iog-close-confirmation-dialog.c:378
+msgid "If you don't save, your changes will be lost."
+msgstr "Ha nem ment, akkor változtatásai elvesznek."
+
+#: ../src/iog-close-confirmation-dialog.c:421
+#, c-format
+msgid "Save changes to image \"%s\" before closing?"
+msgstr "Menti a(z) „%s” kép változtatásait bezárás előtt?"
+
+#: ../src/iog-close-confirmation-dialog.c:628
+#, c-format
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] "%d kép nem mentett változtatásokat tartalmaz. Bezárás előtt menti a változtatásokat?"
+msgstr[1] "%d kép nem mentett változtatásokat tartalmaz. Bezárás előtt menti a változtatásokat?"
+
+#: ../src/iog-close-confirmation-dialog.c:645
+msgid "S_elect the images you want to save:"
+msgstr "_Válassza ki a mentendő képeket:"
+
+#. Secondary label
+#: ../src/iog-close-confirmation-dialog.c:667
+msgid "If you don't save, all your changes will be lost."
+msgstr "Ha nem ment, az összes változtatása elvész."
+
+#: ../src/iog-file-chooser.c:132
+msgid "File format is unknown or unsupported"
+msgstr "A fájlformátum ismeretlen vagy nem támogatott"
+
+#: ../src/iog-file-chooser.c:137
+msgid ""
+"Eye of GDE2 could not determine a supported writable file format based on "
+"the filename."
+msgstr "Az Eye of GDE2 a fájlnév alapján nem tudott támogatott írható fájlformátumot meghatározni."
+
+#: ../src/iog-file-chooser.c:138
+msgid "Please try a different file extension like .png or .jpg."
+msgstr "Próbálkozzon másik kiterjesztéssel, mint például a .png vagy .jpg."
+
+#: ../src/iog-file-chooser.c:170
+msgid "All Files"
+msgstr "Minden fájl"
+
+#: ../src/iog-file-chooser.c:175
+msgid "All Images"
+msgstr "Minden kép"
+
+#. Filter name: First description then file extension, eg. "The PNG-Format
+#. (*.png)".
+#: ../src/iog-file-chooser.c:196
+#, c-format
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+#. Pixel size of image: width x height in pixel
+#: ../src/iog-file-chooser.c:292 ../src/iog-properties-dialog.c:137
+#: ../src/iog-properties-dialog.c:139 ../src/iog-thumb-view.c:582
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "képpont"
+msgstr[1] "képpont"
+
+#: ../src/iog-file-chooser.c:443
+msgid "Open Image"
+msgstr "Kép megnyitása"
+
+#: ../src/iog-file-chooser.c:451
+msgid "Save Image"
+msgstr "Kép mentése"
+
+#: ../src/iog-file-chooser.c:459
+msgid "Open Folder"
+msgstr "Mappa megnyitása"
+
+#: ../src/iog-image.c:562
+#, c-format
+msgid "Transformation on unloaded image."
+msgstr "Átalakítás a be nem töltött képen."
+
+#: ../src/iog-image.c:590
+#, c-format
+msgid "Transformation failed."
+msgstr "Az átalakítás meghiúsult."
+
+#: ../src/iog-image.c:1000
+#, c-format
+msgid "EXIF not supported for this file format."
+msgstr "Az EXIF nem támogatott ehhez a fájlformátumhoz."
+
+#: ../src/iog-image.c:1123
+#, c-format
+msgid "Image loading failed."
+msgstr "A kép betöltése meghiúsult."
+
+#: ../src/iog-image.c:1652 ../src/iog-image.c:1754
+#, c-format
+msgid "No image loaded."
+msgstr "Nincs kép betöltve."
+
+#: ../src/iog-image.c:1662 ../src/iog-image.c:1766
+#, c-format
+msgid "Temporary file creation failed."
+msgstr "Átmeneti fájl létrehozása sikertelen."
+
+#: ../src/iog-image-jpeg.c:384
+#, c-format
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "Nem sikerült ideiglenes könyvtárat létrehozni a mentéshez: %s"
+
+#: ../src/iog-image-jpeg.c:395
+#, c-format
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "Nem sikerült a memóriafoglalás a JPEG-fájl betöltéséhez"
+
+#: ../src/iog-error-message-area.c:124
+msgid "_Retry"
+msgstr "Ú_jra"
+
+#: ../src/iog-error-message-area.c:167
+#, c-format
+msgid "Could not load image '%s'."
+msgstr "Nem tölthető be a következő kép: „%s”."
+
+#: ../src/iog-error-message-area.c:209
+#, c-format
+msgid "No images found in '%s'."
+msgstr "Nem találhatók képek itt: „%s”."
+
+#: ../src/iog-error-message-area.c:216
+msgid "The given locations contain no images."
+msgstr "Az adott helyek nem tartalmaznak képeket."
+
+#: ../src/iog-exif-details.c:68
+msgid "Camera"
+msgstr "Fényképezőgép"
+
+#: ../src/iog-exif-details.c:69
+msgid "Image Data"
+msgstr "Kép adat"
+
+#: ../src/iog-exif-details.c:70
+msgid "Image Taking Conditions"
+msgstr "Képkészítés körülményei"
+
+#: ../src/iog-exif-details.c:71
+msgid "Maker Note"
+msgstr "Készítői megjegyzés"
+
+#: ../src/iog-exif-details.c:72
+msgid "Other"
+msgstr "Egyéb"
+
+#: ../src/iog-exif-details.c:74
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+#: ../src/iog-exif-details.c:75
+msgid "XMP IPTC"
+msgstr "XMP IPTC"
+
+#: ../src/iog-exif-details.c:76
+msgid "XMP Rights Management"
+msgstr "XMP jogkezelés"
+
+#: ../src/iog-exif-details.c:77
+msgid "XMP Other"
+msgstr "XMP Egyéb"
+
+#: ../src/iog-exif-details.c:251
+msgid "Tag"
+msgstr "Tag"
+
+#: ../src/iog-exif-details.c:258
+msgid "Value"
+msgstr "Érték"
+
+#. A strftime-formatted string, to display the date the image was taken.
+#: ../src/iog-exif-util.c:121 ../src/iog-exif-util.c:161
+msgid "%a, %d %B %Y  %X"
+msgstr "%Y. %B %e. %a,  %X"
+
+#. A strftime-formatted string, to display the date the image was taken, for
+#. the case we don't have the time.
+#: ../src/iog-exif-util.c:155
+msgid "%a, %d %B %Y"
+msgstr "%Y. %B %e. %a"
+
+#: ../src/iog-plugin-manager.c:55
+msgid "Plugin"
+msgstr "Bővítmény"
+
+#: ../src/iog-plugin-manager.c:56
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+#: ../src/iog-plugin-manager.c:509 ../src/iog-window.c:3673
+msgid "_About"
+msgstr "_Névjegy"
+
+#: ../src/iog-plugin-manager.c:517
+msgid "C_onfigure"
+msgstr "_Beállítás"
+
+#: ../src/iog-plugin-manager.c:527
+msgid "A_ctivate"
+msgstr "_Aktiválás"
+
+#: ../src/iog-plugin-manager.c:539
+msgid "Ac_tivate All"
+msgstr "Összes a_ktiválása"
+
+#: ../src/iog-plugin-manager.c:544
+msgid "_Deactivate All"
+msgstr "Összes l_etiltása"
+
+#: ../src/iog-plugin-manager.c:853
+msgid "Active _Plugins:"
+msgstr "A_ktív bővítmények:"
+
+#: ../src/iog-plugin-manager.c:890
+msgid "_About Plugin"
+msgstr "Bővítmény _névjegye"
+
+#: ../src/iog-plugin-manager.c:897
+msgid "C_onfigure Plugin"
+msgstr "Bővítmény b_eállítása"
+
+#: ../src/iog-print.c:219
+msgid "Image Settings"
+msgstr "Képbeállítások"
+
+#: ../src/iog-print-image-setup.c:873
+msgid "Image"
+msgstr "Kép"
+
+#: ../src/iog-print-image-setup.c:874
+msgid "The image whose printing properties will be set up"
+msgstr "A kép, amely nyomtatási tulajdonságai beállításra kerülnek"
+
+#: ../src/iog-print-image-setup.c:880
+msgid "Page Setup"
+msgstr "Oldalbeállítás"
+
+#: ../src/iog-print-image-setup.c:881
+msgid "The information for the page where the image will be printed"
+msgstr "Az oldal információi, amelyre az oldal nyomtatásra kerül"
+
+#: ../src/iog-print-image-setup.c:914 ../src/iog-print-image-setup.c:928
+msgid "Position"
+msgstr "Pozíció"
+
+#: ../src/iog-print-image-setup.c:918 ../src/iog-print-image-setup.c:933
+msgid "_Left:"
+msgstr "_Bal oldal:"
+
+#: ../src/iog-print-image-setup.c:920 ../src/iog-print-image-setup.c:934
+msgid "_Right:"
+msgstr "_Jobb oldal:"
+
+#: ../src/iog-print-image-setup.c:921 ../src/iog-print-image-setup.c:935
+msgid "_Top:"
+msgstr "_Fent:"
+
+#: ../src/iog-print-image-setup.c:922 ../src/iog-print-image-setup.c:936
+msgid "_Bottom:"
+msgstr "_Alul:"
+
+#: ../src/iog-print-image-setup.c:939
+msgid "C_enter:"
+msgstr "_Középre:"
+
+#: ../src/iog-print-image-setup.c:948
+msgid "None"
+msgstr "Nincs"
+
+#: ../src/iog-print-image-setup.c:950
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+#: ../src/iog-print-image-setup.c:952
+msgid "Vertical"
+msgstr "Függőleges"
+
+#: ../src/iog-print-image-setup.c:954
+msgid "Both"
+msgstr "Mindkettő"
+
+#: ../src/iog-print-image-setup.c:980 ../src/iog-print-image-setup.c:991
+msgid "Size"
+msgstr "Méret"
+
+#: ../src/iog-print-image-setup.c:983 ../src/iog-print-image-setup.c:996
+msgid "_Width:"
+msgstr "_Szélesség:"
+
+#: ../src/iog-print-image-setup.c:985 ../src/iog-print-image-setup.c:998
+msgid "_Height:"
+msgstr "_Magasság:"
+
+#: ../src/iog-print-image-setup.c:1002
+msgid "_Scaling:"
+msgstr "_Méretezés:"
+
+#: ../src/iog-print-image-setup.c:1026
+msgid "_Unit:"
+msgstr "_Egység:"
+
+#: ../src/iog-print-image-setup.c:1035
+msgid "Millimeters"
+msgstr "Milliméter"
+
+#: ../src/iog-print-image-setup.c:1037
+msgid "Inches"
+msgstr "Hüvelyk"
+
+#: ../src/iog-print-image-setup.c:1074
+msgid "Preview"
+msgstr "Előnézet"
+
+#: ../src/iog-properties-dialog.c:154
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#. TRANSLATORS: This is the actual focal length used when
+#. the image was taken.
+#: ../src/iog-properties-dialog.c:232
+#, c-format
+msgid "%.1f (lens)"
+msgstr "%.1f (lencse)"
+
+#. Print as float to get a similar look as above.
+#. TRANSLATORS: This is the equivalent focal length assuming
+#. a 35mm film camera.
+#: ../src/iog-properties-dialog.c:243
+#, c-format
+msgid "%.1f (35mm film)"
+msgstr "%.1f (35 mm film)"
+
+#: ../src/iog-save-as-dialog-helper.c:161
+msgid "as is"
+msgstr "ahogy van"
+
+#. Translators: This string is displayed in the statusbar.
+#. * The first token is the image number, the second is total image
+#. * count.
+#. *
+#. * Translate to "%Id" if you want to use localized digits, or
+#. * translate to "%d" otherwise.
+#. *
+#. * Note that translating this doesn't guarantee that you get localized
+#. * digits. That needs support from your system and locale definition
+#. * too.
+#: ../src/iog-statusbar.c:134
+#, c-format
+msgid "%d / %d"
+msgstr "%d / %d"
+
+#: ../src/iog-thumb-view.c:610
+msgid "Taken on"
+msgstr "Készült"
+
+#: ../src/iog-uri-converter.c:984
+#, c-format
+msgid "At least two file names are equal."
+msgstr "Legalább két fájlnév azonos."
+
+#: ../src/iog-util.c:68
+msgid "Could not display help for Eye of GDE2"
+msgstr "Nem sikerült megjeleníteni az Eye of GDE2 súgóját"
+
+#: ../src/iog-util.c:116
+msgid " (invalid Unicode)"
+msgstr " (érvénytelen Unicode)"
+
+#. Translators: This is the string displayed in the statusbar
+#. * The tokens are from left to right:
+#. * - image width
+#. * - image height
+#. * - image size in bytes
+#. * - zoom in percent
+#: ../src/iog-window.c:516
+#, c-format
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] "%i × %i képpont,  %s    %i%%"
+msgstr[1] "%i × %i képpont,  %s    %i%%"
+
+#: ../src/iog-window.c:817
+msgid "_Reload"
+msgstr "Újr_atöltés"
+
+#: ../src/iog-window.c:819 ../src/iog-window.c:2717
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr "_Elrejtés"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:829
+#, c-format
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr "A(z) „%s” képet egy külső alkalmazás módosította.\nSzeretné újratölteni?"
+
+#: ../src/iog-window.c:1002
+#, c-format
+msgid "Use \"%s\" to open the selected image"
+msgstr "A kijelölt kép megnyitása ezzel: „%s”"
+
+#. Translators: This string is displayed in the statusbar
+#. * while saving images. The tokens are from left to right:
+#. * - the original filename
+#. * - the current image's position in the queue
+#. * - the total number of images queued for saving
+#: ../src/iog-window.c:1158
+#, c-format
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "„%s” kép mentése (%u/%u)"
+
+#: ../src/iog-window.c:1516
+#, c-format
+msgid "Opening image \"%s\""
+msgstr "„%s” kép betöltése"
+
+#: ../src/iog-window.c:2214
+#, c-format
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr "Hiba a fájl nyomtatása közben:\n%s"
+
+#: ../src/iog-window.c:2476
+msgid "Toolbar Editor"
+msgstr "Eszköztárszerkesztő"
+
+#: ../src/iog-window.c:2479
+msgid "_Reset to Default"
+msgstr "Alapér_telmezett"
+
+#: ../src/iog-window.c:2572
+msgid "translator-credits"
+msgstr "Dvornik László <dvornik at gde2 dot hu>\nÉrdi Gergő <cactus at cactus dot rulez dot org>\nKelemen Gábor <kelemeng at gde2 dot hu>\nMáthé Zoltán <mathzoltan at gmail dot com>\nTímár András <timar at gde2 dot hu>"
+
+#: ../src/iog-window.c:2575
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr "Ez a program szabad szoftver, terjesztheti és/vagy módosíthatja a Free Software Foundation által kiadott GNU General Public License második (vagy bármely későbbi) változatában foglaltak alapján.\n"
+
+#: ../src/iog-window.c:2579
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr "A programot abban a reményben terjesztjük, hogy hasznos lesz, de nem vállalunk SEMMIFÉLE GARANCIÁT, még olyan értelemben sem, hogy a program alkalmas-e a KÖZREADÁSRA vagy EGY BIZONYOS FELADAT ELVÉGZÉSÉRE. További részletekért tanulmányozza a GNU GPL licencet.\n"
+
+#: ../src/iog-window.c:2583
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr "A programhoz a GNU General Public License egy példánya is jár, ha nem kapta meg, írjon a Free Software Foundation Inc.-nek. Levélcímük: 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+
+#: ../src/iog-window.c:2601
+msgid "The GDE2 image viewer."
+msgstr "A GDE2 képmegjelenítője."
+
+#. I18N: When setting mnemonics for these strings, watch out to not
+#. clash with mnemonics from iog's menubar
+#: ../src/iog-window.c:2715
+msgid "_Open Background Preferences"
+msgstr "_Háttérbeállítások megnyitása"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:2731
+#, c-format
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr "A(z) „%s” kép az asztal háttereként lett beállítva.\nKívánja módosítani a megjelenését?"
+
+#: ../src/iog-window.c:3133
+msgid "Saving image locally…"
+msgstr "Kép mentése helyileg…"
+
+#: ../src/iog-window.c:3213
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr "Biztosan át akarja helyezni a(z)\n„%s” képet a Kukába?"
+
+#: ../src/iog-window.c:3216
+#, c-format
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr "Nem található %s kukája. Véglegesen el kívánja távolítani ezt a képet?"
+
+#: ../src/iog-window.c:3221
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] "Biztos át akarja helyezni a\nkijelölt képet a Kukába?"
+msgstr[1] "Biztos át akarja helyezni a\nkijelölt %d képet a Kukába?"
+
+#: ../src/iog-window.c:3226
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr "Néhány kiválasztott kép nem helyezhető át a Kukába és véglegesen törlésre kerül. Biztosan folytatja?"
+
+#: ../src/iog-window.c:3243 ../src/iog-window.c:3727 ../src/iog-window.c:3754
+msgid "Move to _Trash"
+msgstr "Áthelyezés a _Kukába"
+
+#: ../src/iog-window.c:3245
+msgid "_Do not ask again during this session"
+msgstr "_Ne kérdezze újra ebben a munkamenetben"
+
+#: ../src/iog-window.c:3290 ../src/iog-window.c:3304
+#, c-format
+msgid "Couldn't access trash."
+msgstr "A Kuka nem érhető el."
+
+#: ../src/iog-window.c:3312
+#, c-format
+msgid "Couldn't delete file"
+msgstr "A fájl nem törölhető"
+
+#: ../src/iog-window.c:3409
+#, c-format
+msgid "Error on deleting image %s"
+msgstr "Hiba a(z) %s kép törlése közben"
+
+#: ../src/iog-window.c:3651
+msgid "_Image"
+msgstr "_Kép"
+
+#: ../src/iog-window.c:3652
+msgid "_Edit"
+msgstr "S_zerkesztés"
+
+#: ../src/iog-window.c:3653
+msgid "_View"
+msgstr "_Nézet"
+
+#: ../src/iog-window.c:3654
+msgid "_Go"
+msgstr "_Ugrás"
+
+#: ../src/iog-window.c:3655
+msgid "_Tools"
+msgstr "_Eszközök"
+
+#: ../src/iog-window.c:3656
+msgid "_Help"
+msgstr "_Súgó"
+
+#: ../src/iog-window.c:3658
+msgid "_Open…"
+msgstr "_Megnyitás…"
+
+#: ../src/iog-window.c:3659
+msgid "Open a file"
+msgstr "Fájl megnyitása"
+
+#: ../src/iog-window.c:3661
+msgid "_Close"
+msgstr "_Bezárás"
+
+#: ../src/iog-window.c:3662
+msgid "Close window"
+msgstr "Ablak bezárása"
+
+#: ../src/iog-window.c:3664
+msgid "T_oolbar"
+msgstr "Eszköz_tár"
+
+#: ../src/iog-window.c:3665
+msgid "Edit the application toolbar"
+msgstr "Az alkalmazás eszköztár szerkesztése"
+
+#: ../src/iog-window.c:3667
+msgid "Prefere_nces"
+msgstr "_Beállítások"
+
+#: ../src/iog-window.c:3668
+msgid "Preferences for Eye of GDE2"
+msgstr "Az Eye of GDE2 beállításai"
+
+#: ../src/iog-window.c:3670
+msgid "_Contents"
+msgstr "_Tartalom"
+
+#: ../src/iog-window.c:3671
+msgid "Help on this application"
+msgstr "Az alkalmazás súgója"
+
+#: ../src/iog-window.c:3674
+msgid "About this application"
+msgstr "Az alkalmazás névjegye"
+
+#: ../src/iog-window.c:3679
+msgid "_Toolbar"
+msgstr "_Eszköztár"
+
+#: ../src/iog-window.c:3680
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "A jelenlegi ablakban megváltoztatja az eszköztár láthatóságát"
+
+#: ../src/iog-window.c:3682
+msgid "_Statusbar"
+msgstr "Á_llapotsor"
+
+#: ../src/iog-window.c:3683
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "A jelenlegi ablakban megváltoztatja az állapotsor láthatóságát"
+
+#: ../src/iog-window.c:3685
+msgid "_Image Collection"
+msgstr "_Képgyűjtemény"
+
+#: ../src/iog-window.c:3686
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "A jelenlegi ablakban megváltoztatja a képgyűjteménysáv láthatóságát"
+
+#: ../src/iog-window.c:3688
+msgid "Side _Pane"
+msgstr "Oldal_sáv"
+
+#: ../src/iog-window.c:3689
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "A jelenlegi ablakban megváltoztatja az oldalsáv láthatóságát"
+
+#: ../src/iog-window.c:3694
+msgid "_Save"
+msgstr "M_entés"
+
+#: ../src/iog-window.c:3695
+msgid "Save changes in currently selected images"
+msgstr "A jelenleg kiválasztott kép változtatásainak mentése"
+
+#: ../src/iog-window.c:3697
+msgid "Open _with"
+msgstr "Megnyitás e_zzel"
+
+#: ../src/iog-window.c:3698
+msgid "Open the selected image with a different application"
+msgstr "A kijelölt kép megnyitása más programmal"
+
+#: ../src/iog-window.c:3700
+msgid "Save _As…"
+msgstr "Men_tés másként…"
+
+#: ../src/iog-window.c:3701
+msgid "Save the selected images with a different name"
+msgstr "A kijelölt képek mentése más néven"
+
+#: ../src/iog-window.c:3703
+msgid "_Print…"
+msgstr "_Nyomtatás…"
+
+#: ../src/iog-window.c:3704
+msgid "Print the selected image"
+msgstr "A kiválasztott kép nyomtatása"
+
+#: ../src/iog-window.c:3706
+msgid "Prope_rties"
+msgstr "T_ulajdonságok"
+
+#: ../src/iog-window.c:3707
+msgid "Show the properties and metadata of the selected image"
+msgstr "A kiválasztott kép tulajdonságainak és metaadatainak megjelenítése"
+
+#: ../src/iog-window.c:3709
+msgid "_Undo"
+msgstr "_Visszavonás"
+
+#: ../src/iog-window.c:3710
+msgid "Undo the last change in the image"
+msgstr "A kép utolsó változtatásának visszavonása"
+
+#: ../src/iog-window.c:3712
+msgid "Flip _Horizontal"
+msgstr "_Vízszintes tükrözés"
+
+#: ../src/iog-window.c:3713
+msgid "Mirror the image horizontally"
+msgstr "Kép tükrözése vízszintesen"
+
+#: ../src/iog-window.c:3715
+msgid "Flip _Vertical"
+msgstr "_Függőleges tükrözés"
+
+#: ../src/iog-window.c:3716
+msgid "Mirror the image vertically"
+msgstr "Kép tükrözése függőlegesen"
+
+#: ../src/iog-window.c:3718
+msgid "_Rotate Clockwise"
+msgstr "Forgatás az ó_ramutató irányába"
+
+#: ../src/iog-window.c:3719
+msgid "Rotate the image 90 degrees to the right"
+msgstr "Kép forgatása 90 fokkal jobbra"
+
+#: ../src/iog-window.c:3721
+msgid "Rotate Counterc_lockwise"
+msgstr "Forgatás az óramutatóval _ellentétesen"
+
+#: ../src/iog-window.c:3722
+msgid "Rotate the image 90 degrees to the left"
+msgstr "Kép forgatása 90 fokkal balra"
+
+#: ../src/iog-window.c:3724
+msgid "Set as _Desktop Background"
+msgstr "Beállítás _asztalháttérként"
+
+#: ../src/iog-window.c:3725
+msgid "Set the selected image as the desktop background"
+msgstr "A kijelölt kép beállítása asztalháttérként"
+
+#: ../src/iog-window.c:3728
+msgid "Move the selected image to the trash folder"
+msgstr "A kijelölt kép áthelyezése a kukába"
+
+#: ../src/iog-window.c:3730
+msgid "_Copy"
+msgstr "_Másolás"
+
+#: ../src/iog-window.c:3731
+msgid "Copy the selected image to the clipboard"
+msgstr "A kijelölt kép másolása a vágólapra"
+
+#: ../src/iog-window.c:3733 ../src/iog-window.c:3745 ../src/iog-window.c:3748
+msgid "_Zoom In"
+msgstr "_Nagyítás"
+
+#: ../src/iog-window.c:3734 ../src/iog-window.c:3746
+msgid "Enlarge the image"
+msgstr "Kép nagyítása"
+
+#: ../src/iog-window.c:3736 ../src/iog-window.c:3751
+msgid "Zoom _Out"
+msgstr "_Kicsinyítés"
+
+#: ../src/iog-window.c:3737 ../src/iog-window.c:3749 ../src/iog-window.c:3752
+msgid "Shrink the image"
+msgstr "Kép kicsinyítése"
+
+#: ../src/iog-window.c:3739
+msgid "_Normal Size"
+msgstr "_Normál méret"
+
+#: ../src/iog-window.c:3740
+msgid "Show the image at its normal size"
+msgstr "Kép normál mérete"
+
+#: ../src/iog-window.c:3742
+msgid "_Best Fit"
+msgstr "Teljes _oldal"
+
+#: ../src/iog-window.c:3743
+msgid "Fit the image to the window"
+msgstr "Kép igazítása az ablakhoz"
+
+#: ../src/iog-window.c:3760
+msgid "_Fullscreen"
+msgstr "_Teljes képernyő"
+
+#: ../src/iog-window.c:3761
+msgid "Show the current image in fullscreen mode"
+msgstr "Kép megjelenítése teljes képernyős módban"
+
+#: ../src/iog-window.c:3763
+msgid "Pause Slideshow"
+msgstr "Diavetítés megállítása"
+
+#: ../src/iog-window.c:3764
+msgid "Pause or resume the slideshow"
+msgstr "A diavetítés megállítása vagy folytatása"
+
+#: ../src/iog-window.c:3769 ../src/iog-window.c:3784
+msgid "_Previous Image"
+msgstr "_Előző kép"
+
+#: ../src/iog-window.c:3770
+msgid "Go to the previous image of the collection"
+msgstr "Ugrás a gyűjtemény előző képére"
+
+#: ../src/iog-window.c:3772
+msgid "_Next Image"
+msgstr "_Következő kép"
+
+#: ../src/iog-window.c:3773
+msgid "Go to the next image of the collection"
+msgstr "Ugrás a gyűjtemény következő képére"
+
+#: ../src/iog-window.c:3775 ../src/iog-window.c:3787
+msgid "_First Image"
+msgstr "_Első kép"
+
+#: ../src/iog-window.c:3776
+msgid "Go to the first image of the collection"
+msgstr "Ugrás a gyűjtemény első képére"
+
+#: ../src/iog-window.c:3778 ../src/iog-window.c:3790
+msgid "_Last Image"
+msgstr "_Utolsó kép"
+
+#: ../src/iog-window.c:3779
+msgid "Go to the last image of the collection"
+msgstr "Ugrás a gyűjtemény utolsó képére"
+
+#: ../src/iog-window.c:3781
+msgid "_Random Image"
+msgstr "_Véletlen kép"
+
+#: ../src/iog-window.c:3782
+msgid "Go to a random image of the collection"
+msgstr "Ugrás a gyűjtemény egy véletlen képére"
+
+#: ../src/iog-window.c:3796
+msgid "S_lideshow"
+msgstr "D_iavetítés"
+
+#: ../src/iog-window.c:3797
+msgid "Start a slideshow view of the images"
+msgstr "Diavetítés indítása a képekből"
+
+#: ../src/iog-window.c:3863
+msgid "Previous"
+msgstr "Előző"
+
+#: ../src/iog-window.c:3867
+msgid "Next"
+msgstr "Következő"
+
+#: ../src/iog-window.c:3871
+msgid "Right"
+msgstr "Jobbra"
+
+#: ../src/iog-window.c:3874
+msgid "Left"
+msgstr "Balra"
+
+#: ../src/iog-window.c:3877
+msgid "In"
+msgstr "Be"
+
+#: ../src/iog-window.c:3880
+msgid "Out"
+msgstr "Ki"
+
+#: ../src/iog-window.c:3883
+msgid "Normal"
+msgstr "Normál"
+
+#: ../src/iog-window.c:3886
+msgid "Fit"
+msgstr "Igazítás"
+
+#: ../src/iog-window.c:3889
+msgid "Collection"
+msgstr "Gyűjtemény"
+
+#: ../src/iog-window.c:3892
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr "Kukába"
+
+#: ../src/iog-window.c:4245
+#, c-format
+msgid "Edit the current image using %s"
+msgstr "Az aktuális kép szerkesztése %s használatával"
+
+#: ../src/iog-window.c:4247
+msgid "Edit Image"
+msgstr "Kép szerkesztése"
+
+#: ../src/main.c:80
+msgid "Open in fullscreen mode"
+msgstr "Megnyitás teljes képernyős módban"
+
+#: ../src/main.c:81
+msgid "Disable image collection"
+msgstr "Képgyűjtemény letiltása"
+
+#: ../src/main.c:82
+msgid "Open in slideshow mode"
+msgstr "Megnyitás diavetítés módban"
+
+#: ../src/main.c:84
+msgid "Start a new instance instead of reusing an existing one"
+msgstr "Új példány indítása a meglévő újrahasznosítása helyett"
+
+#: ../src/main.c:87
+msgid "Show the application's version"
+msgstr "Az alkalmazás verziószámának megjelenítése"
+
+#: ../src/main.c:88
+msgid "[FILE…]"
+msgstr "[FÁJL…]"
+
+#. I18N: The '%s' is replaced with iog's command name.
+#: ../src/main.c:219
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "Futtassa a(z) „%s --help” parancsot a parancssori kapcsolók listájáért."

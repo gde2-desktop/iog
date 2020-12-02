@@ -1,0 +1,1501 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Mingcong Bai <jeffbai@aosc.xyz>, 2014
+# liushuyu011 <liushuyu011@gmail.com>, 2014
+# Wylmer Wang, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-13 16:02+0300\n"
+"PO-Revision-Date: 2015-11-13 01:32+0000\n"
+"Last-Translator: Mingcong Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/gde2/GDE2/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Translaters: This string is for a toggle to display a toolbar.
+#. * The name of the toolbar is automatically computed from the widgets
+#. * on the toolbar, and is placed at the %s. Note the _ before the %s
+#. * which is used to add mnemonics. We know that this is likely to
+#. * produce duplicates, but don't worry about it. If your language
+#. * normally has a mnemonic at the start, please use the _. If not,
+#. * please remove.
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:948
+#, c-format
+msgid "Show “_%s”"
+msgstr "显示“%s”"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1416
+msgid "_Move on Toolbar"
+msgstr "在工具栏上移动(_M)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1417
+msgid "Move the selected item on the toolbar"
+msgstr "将选中项在工具栏上移动"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1418
+msgid "_Remove from Toolbar"
+msgstr "从工具栏删除(_R)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1419
+msgid "Remove the selected item from the toolbar"
+msgstr "从工具栏中删除选中项目"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1420
+msgid "_Delete Toolbar"
+msgstr "删除工具栏(_D)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1421
+msgid "Remove the selected toolbar"
+msgstr "删除选中的工具栏"
+
+#: ../cut-n-paste/toolbar-editor/egg-toolbar-editor.c:515
+msgid "Separator"
+msgstr "分隔符"
+
+#: ../data/iog.appdata.xml.in.h:1 ../src/iog-window.c:2596
+msgid "Eye of GDE2"
+msgstr "GDE2 之眼"
+
+#: ../data/iog.appdata.xml.in.h:2
+msgid "Simple image viewer"
+msgstr "简单的图像查看器"
+
+#: ../data/iog.appdata.xml.in.h:3
+msgid ""
+"<p> Eye of GDE2 is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr "<p> GDE2 之眼是一个简易的图像浏览器。图像完全载入后，你可以缩放和旋转图像，也可以显示存放于某个目录中的图像序列。</p>"
+
+#: ../data/iog.desktop.in.in.h:1 ../src/main.c:73 ../src/main.c:275
+msgid "Eye of GDE2 Image Viewer"
+msgstr "GDE2 之眼图像查看器"
+
+#: ../data/iog.desktop.in.in.h:2
+msgid "Browse and rotate images"
+msgstr "浏览及旋转图像"
+
+#: ../data/iog-image-properties-dialog.ui.h:1
+msgid "Image Properties"
+msgstr "图像属性"
+
+#: ../data/iog-image-properties-dialog.ui.h:2
+msgid "Name:"
+msgstr "名称："
+
+#: ../data/iog-image-properties-dialog.ui.h:3
+msgid "Width:"
+msgstr "宽度："
+
+#: ../data/iog-image-properties-dialog.ui.h:4
+msgid "Height:"
+msgstr "高度："
+
+#: ../data/iog-image-properties-dialog.ui.h:5
+msgid "Type:"
+msgstr "类型："
+
+#: ../data/iog-image-properties-dialog.ui.h:6
+msgid "Bytes:"
+msgstr "字节数："
+
+#: ../data/iog-image-properties-dialog.ui.h:7
+msgid "Location:"
+msgstr "位置："
+
+#: ../data/iog-image-properties-dialog.ui.h:8
+msgid "General"
+msgstr "常规"
+
+#: ../data/iog-image-properties-dialog.ui.h:9
+msgid "Aperture Value:"
+msgstr "光圈值："
+
+#: ../data/iog-image-properties-dialog.ui.h:10
+msgid "Exposure Time:"
+msgstr "曝光时间："
+
+#: ../data/iog-image-properties-dialog.ui.h:11
+msgid "Focal Length:"
+msgstr "焦距："
+
+#: ../data/iog-image-properties-dialog.ui.h:12
+msgid "Flash:"
+msgstr "闪光灯："
+
+#: ../data/iog-image-properties-dialog.ui.h:13
+msgid "ISO Speed Rating:"
+msgstr "ISO 速度评分："
+
+#: ../data/iog-image-properties-dialog.ui.h:14
+msgid "Metering Mode:"
+msgstr "测量模式："
+
+#: ../data/iog-image-properties-dialog.ui.h:15
+msgid "Camera Model:"
+msgstr "相机型号："
+
+#: ../data/iog-image-properties-dialog.ui.h:16
+msgid "Date/Time:"
+msgstr "日期/时间："
+
+#: ../data/iog-image-properties-dialog.ui.h:17
+msgid "Description:"
+msgstr "描述："
+
+#: ../data/iog-image-properties-dialog.ui.h:18
+msgid "Keywords:"
+msgstr "关键字："
+
+#: ../data/iog-image-properties-dialog.ui.h:19
+msgid "Author:"
+msgstr "作者："
+
+#: ../data/iog-image-properties-dialog.ui.h:20
+msgid "Copyright:"
+msgstr "版权："
+
+#: ../data/iog-image-properties-dialog.ui.h:21
+msgid "Details"
+msgstr "细节"
+
+#: ../data/iog-image-properties-dialog.ui.h:22
+msgid "Metadata"
+msgstr "元数据"
+
+#: ../data/iog-image-properties-dialog.ui.h:23
+msgid "_Previous"
+msgstr "上一张(_P)"
+
+#: ../data/iog-image-properties-dialog.ui.h:24
+msgid "_Next"
+msgstr "下一张(_N)"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:1
+msgid "Save As"
+msgstr "另存为"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:3
+#, no-c-format
+msgid "<b>%f:</b> original filename"
+msgstr "<b>%f:</b> 原始文件名"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:5
+#, no-c-format
+msgid "<b>%n:</b> counter"
+msgstr "<b>%n:</b> 计数"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:6
+msgid "Filename format:"
+msgstr "文件名格式："
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:7
+msgid "Choose a folder"
+msgstr "选择文件夹"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:8
+msgid "Destination folder:"
+msgstr "目标文件夹："
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:9
+msgid "File Path Specifications"
+msgstr "文件路径规范"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:10
+msgid "Start counter at:"
+msgstr "开始计数："
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:11
+msgid "Replace spaces with underscores"
+msgstr "将空格替换为下划线"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:12
+msgid "Options"
+msgstr "选项"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:13
+msgid "Rename from:"
+msgstr "重命名自："
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:14
+msgid "To:"
+msgstr "到："
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:15
+msgid "File Name Preview"
+msgstr "文件名预览"
+
+#: ../data/iog-preferences-dialog.ui.h:1
+msgid "Eye of GDE2 Preferences"
+msgstr "GDE2 之眼首选项"
+
+#: ../data/iog-preferences-dialog.ui.h:2
+msgid "Image Enhancements"
+msgstr "图像增强"
+
+#: ../data/iog-preferences-dialog.ui.h:3
+msgid "Smooth images when zoomed-_out"
+msgstr "放大时平滑图像(_O)"
+
+#: ../data/iog-preferences-dialog.ui.h:4
+msgid "Smooth images when zoomed-_in"
+msgstr "缩小时平滑图像(_I)"
+
+#: ../data/iog-preferences-dialog.ui.h:5
+msgid "_Automatic orientation"
+msgstr "自动旋转(_A)"
+
+#: ../data/iog-preferences-dialog.ui.h:6
+msgid "Background"
+msgstr "背景"
+
+#: ../data/iog-preferences-dialog.ui.h:7
+msgid "As custom color:"
+msgstr "为自定义颜色："
+
+#: ../data/iog-preferences-dialog.ui.h:8
+#: ../data/org.gde2.iog.gschema.xml.in.h:3
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: ../data/iog-preferences-dialog.ui.h:9
+msgid "Transparent Parts"
+msgstr "透明部分"
+
+#: ../data/iog-preferences-dialog.ui.h:10
+msgid "As check _pattern"
+msgstr "为十字图案(_P)"
+
+#: ../data/iog-preferences-dialog.ui.h:11
+msgid "As custom c_olor:"
+msgstr "为自定义颜色(_O)："
+
+#: ../data/iog-preferences-dialog.ui.h:12
+msgid "Color for Transparent Areas"
+msgstr "透明区域的颜色"
+
+#: ../data/iog-preferences-dialog.ui.h:13
+msgid "As _background"
+msgstr "与背景相同(_B)"
+
+#: ../data/iog-preferences-dialog.ui.h:14
+msgid "Image View"
+msgstr "图像查看"
+
+#: ../data/iog-preferences-dialog.ui.h:15
+msgid "Image Zoom"
+msgstr "图像缩放"
+
+#: ../data/iog-preferences-dialog.ui.h:16
+msgid "E_xpand images to fit screen"
+msgstr "将图像扩展以适合屏幕(_X)"
+
+#: ../data/iog-preferences-dialog.ui.h:17
+msgid "Sequence"
+msgstr "序列"
+
+#: ../data/iog-preferences-dialog.ui.h:18
+msgid "_Switch image after:"
+msgstr "切换图像的时间(_S)："
+
+#: ../data/iog-preferences-dialog.ui.h:19
+msgid "seconds"
+msgstr "秒"
+
+#: ../data/iog-preferences-dialog.ui.h:20
+msgid "_Random sequence"
+msgstr "随机顺序/(_R)"
+
+#: ../data/iog-preferences-dialog.ui.h:21
+msgid "_Loop sequence"
+msgstr "循环(_L)"
+
+#: ../data/iog-preferences-dialog.ui.h:22
+msgid "Slideshow"
+msgstr "幻灯片放映"
+
+#: ../data/iog-preferences-dialog.ui.h:23
+msgid "Plugins"
+msgstr "插件"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:1
+msgid "Automatic orientation"
+msgstr "自动调整方向"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:2
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr "是否应该根据 EXIF 方向自动旋转图像。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:4
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr "用于填充图像背后区域的颜色。如果未设置 use-background-color 键，则根据所启用的 GTK+ 主题决定颜色"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:5
+msgid "Use a custom background color"
+msgstr "使用自定义的背景颜色"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:6
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr "如果启用，将使用背景色键值所设的颜色填充图像后的区域。如果未设置它，则由当前的 GTK+ 主题决定填充颜色。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:7
+msgid "Interpolate Image"
+msgstr "插补图像"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:8
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr "在缩小时是否对图像进行内插补。这会提升图像质量，不过比不插补时稍慢。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:9
+msgid "Extrapolate Image"
+msgstr "外插补图像"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:10
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr "在放大时是否对图像进行外插补。这会使图像更平滑，不过比不插补时稍慢。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:11
+msgid "Transparency indicator"
+msgstr "透明区域指示"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:12
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr "决定如何标示透明区域。可用的值有 checked, color 以及 none。如果选择了 color，则使用的颜色值将由 trans-color 键值决定。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:13
+msgid "Scroll wheel zoom"
+msgstr "使用滚轮缩放"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:14
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr "是否使用鼠标滚轮控制缩放。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:15
+msgid "Zoom multiplier"
+msgstr "缩放比例"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:17
+#, no-c-format
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr "使用鼠标滚轮缩放时的比例系数。该值定义了每一次滚动事件的缩放步幅。例如：0.05 会在每次缩放事件时放大 5% 而 1.00 则会放大 100%。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:18
+msgid "Transparency color"
+msgstr "透明区域颜色"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:19
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "如果透明键值是 COLOR，这个键值则确定用来表示透明区域的颜色。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:20
+msgid "Randomize the image sequence"
+msgstr "随机图像顺序"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:21
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr "是否以随机循环方式显示图像序列。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:22
+msgid "Loop through the image sequence"
+msgstr "图像序列循环播放"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:23
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr "图像序列是否要无穷循环显示。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:25
+#, no-c-format
+msgid "Allow zoom greater than 100% initially"
+msgstr "允许放大至超过原大"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:26
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "如果设置为 FALSE，则小图像将不会放大至适合屏幕大小。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:27
+msgid "Delay in seconds until showing the next image"
+msgstr "显示下张图像前延迟的秒数"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:28
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "大于 0 的值将决定自动显示下张图像之前当前图像要在屏幕上停留几秒。0 代表禁用自动浏览。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:29
+msgid "Show/Hide the window toolbar."
+msgstr "显示/隐藏窗口工具栏。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:30
+msgid "Show/Hide the window statusbar."
+msgstr "显示/隐藏窗口状态栏。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:31
+msgid "Show/Hide the image collection pane."
+msgstr "显示/隐藏图集面板。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:32
+msgid "Image collection pane position."
+msgstr "图集面板位置"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:33
+msgid "Whether the image collection pane should be resizable."
+msgstr "图集面板是否可缩放。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:34
+msgid "Show/Hide the window side pane."
+msgstr "显示/隐藏窗口侧边栏。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:35
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr "显示/隐藏图集面板滚动按钮。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:36
+msgid "Close main window without asking to save changes."
+msgstr "在关闭窗口前不询问是否保存改动。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:37
+msgid "Trash images without asking"
+msgstr "把图像移除到回收站而不询问"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:38
+msgid ""
+"If activated, Eye of GDE2 won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr "如果启用，那么 GDE2 之眼将不会在移动图像到回收站的时候要求确认。但是如果文件不能被移动到回收站而是被删除的话，那么它仍将询问。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:39
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr "属性对话框中的元数据列表是否有自己的页面。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:40
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr "如果启用，属性对话框中的详细的元数据列表将移动对话框到其单独的页面中。这可提高此对话框在小屏幕上的可用性，例如用于上网本。如果禁用，此控件将被嵌入到“Metadata”页中。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:41
+msgid "External program to use for editing images"
+msgstr "用于编辑图片的外部程序"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:42
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr "要使用的图像编辑应用（当按下“编辑图像”工具栏按钮时）的 desktop 文件名（包括 \"*.desktop\"）。设置为空值以禁用此特性。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:43
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr "如果没有加载图像，文件选择器是否应当显示用户的图像文件夹。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:44
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr "如果启用，并且没有在活动窗口中加载图像，文件选择器将使用 XDG 指定的用户目录来显示用户的图像文件夹。如果禁用或没有设置图像文件夹，那么它将显示当前的工作目录。"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:45
+msgid "Active plugins"
+msgstr "活动插件"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:46
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .iog-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr "已激活插件列表。它并不包含激活插件的位置。参见 .iog-plugin 文件以获得相应插件的位置。"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:1
+msgid "Fullscreen with double-click"
+msgstr "双击切换全屏"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:2
+msgid "Activate fullscreen mode with double-click"
+msgstr "双击启用全屏模式"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:1
+msgid "Reload Image"
+msgstr "重新装入图像"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:2
+msgid "Reload current image"
+msgstr "重新装入当前图像"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:1
+msgid "Date in statusbar"
+msgstr "在状态栏中显示日期"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:2
+msgid "Shows the image date in the window statusbar"
+msgstr "在窗口状态栏中显示图像日期"
+
+#: ../src/iog-application.c:124
+msgid "Running in fullscreen mode"
+msgstr "在全屏模式中运行"
+
+#: ../src/iog-close-confirmation-dialog.c:164
+msgid "Close _without Saving"
+msgstr "关闭而不保存(_W)"
+
+#: ../src/iog-close-confirmation-dialog.c:197
+msgid "Question"
+msgstr "问题"
+
+#: ../src/iog-close-confirmation-dialog.c:378
+msgid "If you don't save, your changes will be lost."
+msgstr "如果不保存，您的更改将会丢失。"
+
+#: ../src/iog-close-confirmation-dialog.c:421
+#, c-format
+msgid "Save changes to image \"%s\" before closing?"
+msgstr "在关闭之前保存更改到图像“%s”？"
+
+#: ../src/iog-close-confirmation-dialog.c:628
+#, c-format
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] "还有 %d 幅图像有没有保存的更改。在关闭之前保存更改？"
+
+#: ../src/iog-close-confirmation-dialog.c:645
+msgid "S_elect the images you want to save:"
+msgstr "选择您想保存的图像(_E)："
+
+#. Secondary label
+#: ../src/iog-close-confirmation-dialog.c:667
+msgid "If you don't save, all your changes will be lost."
+msgstr "如果不保存，您的所有更改都会丢失。"
+
+#: ../src/iog-file-chooser.c:132
+msgid "File format is unknown or unsupported"
+msgstr "文件格式未知或不支持"
+
+#: ../src/iog-file-chooser.c:137
+msgid ""
+"Eye of GDE2 could not determine a supported writable file format based on "
+"the filename."
+msgstr "GDE2 之眼无法从文件名推测出被支持的可写入的文件格式。"
+
+#: ../src/iog-file-chooser.c:138
+msgid "Please try a different file extension like .png or .jpg."
+msgstr "请尝试一个不同的扩展名如 .png 或 .jpg。"
+
+#: ../src/iog-file-chooser.c:170
+msgid "All Files"
+msgstr "全部文件"
+
+#: ../src/iog-file-chooser.c:175
+msgid "All Images"
+msgstr "全部图像"
+
+#. Filter name: First description then file extension, eg. "The PNG-Format
+#. (*.png)".
+#: ../src/iog-file-chooser.c:196
+#, c-format
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+#. Pixel size of image: width x height in pixel
+#: ../src/iog-file-chooser.c:292 ../src/iog-properties-dialog.c:137
+#: ../src/iog-properties-dialog.c:139 ../src/iog-thumb-view.c:582
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "像素"
+
+#: ../src/iog-file-chooser.c:443
+msgid "Open Image"
+msgstr "打开图像"
+
+#: ../src/iog-file-chooser.c:451
+msgid "Save Image"
+msgstr "保存图像"
+
+#: ../src/iog-file-chooser.c:459
+msgid "Open Folder"
+msgstr "打开文件夹"
+
+#: ../src/iog-image.c:562
+#, c-format
+msgid "Transformation on unloaded image."
+msgstr "卸载图像时的变形。"
+
+#: ../src/iog-image.c:590
+#, c-format
+msgid "Transformation failed."
+msgstr "变形失败。"
+
+#: ../src/iog-image.c:1000
+#, c-format
+msgid "EXIF not supported for this file format."
+msgstr "这种文件格式不支持 EXIF。"
+
+#: ../src/iog-image.c:1123
+#, c-format
+msgid "Image loading failed."
+msgstr "图像装入失败。"
+
+#: ../src/iog-image.c:1652 ../src/iog-image.c:1754
+#, c-format
+msgid "No image loaded."
+msgstr "没有装入图像。"
+
+#: ../src/iog-image.c:1662 ../src/iog-image.c:1766
+#, c-format
+msgid "Temporary file creation failed."
+msgstr "临时文件创建失败。"
+
+#: ../src/iog-image-jpeg.c:384
+#, c-format
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "无法创建临时文件来保存 %s"
+
+#: ../src/iog-image-jpeg.c:395
+#, c-format
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "无法分配内存装入 JPEG 文件"
+
+#: ../src/iog-error-message-area.c:124
+msgid "_Retry"
+msgstr "重试(_R)"
+
+#: ../src/iog-error-message-area.c:167
+#, c-format
+msgid "Could not load image '%s'."
+msgstr "无法装入图像“%s”。"
+
+#: ../src/iog-error-message-area.c:209
+#, c-format
+msgid "No images found in '%s'."
+msgstr "“%s”中无图像。"
+
+#: ../src/iog-error-message-area.c:216
+msgid "The given locations contain no images."
+msgstr "给定的位置不包含图像。"
+
+#: ../src/iog-exif-details.c:68
+msgid "Camera"
+msgstr "相机"
+
+#: ../src/iog-exif-details.c:69
+msgid "Image Data"
+msgstr "图像数据"
+
+#: ../src/iog-exif-details.c:70
+msgid "Image Taking Conditions"
+msgstr "图像获取条件"
+
+#: ../src/iog-exif-details.c:71
+msgid "Maker Note"
+msgstr "制作者备忘"
+
+#: ../src/iog-exif-details.c:72
+msgid "Other"
+msgstr "其它"
+
+#: ../src/iog-exif-details.c:74
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+#: ../src/iog-exif-details.c:75
+msgid "XMP IPTC"
+msgstr "XMP IPTC"
+
+#: ../src/iog-exif-details.c:76
+msgid "XMP Rights Management"
+msgstr "XMP 权限管理"
+
+#: ../src/iog-exif-details.c:77
+msgid "XMP Other"
+msgstr "XMP 其它"
+
+#: ../src/iog-exif-details.c:251
+msgid "Tag"
+msgstr "标记"
+
+#: ../src/iog-exif-details.c:258
+msgid "Value"
+msgstr "值"
+
+#. A strftime-formatted string, to display the date the image was taken.
+#: ../src/iog-exif-util.c:121 ../src/iog-exif-util.c:161
+msgid "%a, %d %B %Y  %X"
+msgstr "%Y年%m月%d日 %X"
+
+#. A strftime-formatted string, to display the date the image was taken, for
+#. the case we don't have the time.
+#: ../src/iog-exif-util.c:155
+msgid "%a, %d %B %Y"
+msgstr "%Y年%m月%d日%A"
+
+#: ../src/iog-plugin-manager.c:55
+msgid "Plugin"
+msgstr "插件"
+
+#: ../src/iog-plugin-manager.c:56
+msgid "Enabled"
+msgstr "已启用"
+
+#: ../src/iog-plugin-manager.c:509 ../src/iog-window.c:3673
+msgid "_About"
+msgstr "关于(_A)"
+
+#: ../src/iog-plugin-manager.c:517
+msgid "C_onfigure"
+msgstr "配置(_O)"
+
+#: ../src/iog-plugin-manager.c:527
+msgid "A_ctivate"
+msgstr "激活(_C)"
+
+#: ../src/iog-plugin-manager.c:539
+msgid "Ac_tivate All"
+msgstr "全部激活(_T)"
+
+#: ../src/iog-plugin-manager.c:544
+msgid "_Deactivate All"
+msgstr "全部禁用(_D)"
+
+#: ../src/iog-plugin-manager.c:853
+msgid "Active _Plugins:"
+msgstr "活动插件(_P)："
+
+#: ../src/iog-plugin-manager.c:890
+msgid "_About Plugin"
+msgstr "关于插件(_A)"
+
+#: ../src/iog-plugin-manager.c:897
+msgid "C_onfigure Plugin"
+msgstr "配置插件(_O)"
+
+#: ../src/iog-print.c:219
+msgid "Image Settings"
+msgstr "图像设置"
+
+#: ../src/iog-print-image-setup.c:873
+msgid "Image"
+msgstr "图像"
+
+#: ../src/iog-print-image-setup.c:874
+msgid "The image whose printing properties will be set up"
+msgstr "要设置打印属性的图像"
+
+#: ../src/iog-print-image-setup.c:880
+msgid "Page Setup"
+msgstr "页面设置"
+
+#: ../src/iog-print-image-setup.c:881
+msgid "The information for the page where the image will be printed"
+msgstr "即将用来打印图像的页面的信息"
+
+#: ../src/iog-print-image-setup.c:914 ../src/iog-print-image-setup.c:928
+msgid "Position"
+msgstr "位置"
+
+#: ../src/iog-print-image-setup.c:918 ../src/iog-print-image-setup.c:933
+msgid "_Left:"
+msgstr "左(_L)："
+
+#: ../src/iog-print-image-setup.c:920 ../src/iog-print-image-setup.c:934
+msgid "_Right:"
+msgstr "右(_R)："
+
+#: ../src/iog-print-image-setup.c:921 ../src/iog-print-image-setup.c:935
+msgid "_Top:"
+msgstr "上(_T)："
+
+#: ../src/iog-print-image-setup.c:922 ../src/iog-print-image-setup.c:936
+msgid "_Bottom:"
+msgstr "下(_B)："
+
+#: ../src/iog-print-image-setup.c:939
+msgid "C_enter:"
+msgstr "中(_E)："
+
+#: ../src/iog-print-image-setup.c:948
+msgid "None"
+msgstr "无"
+
+#: ../src/iog-print-image-setup.c:950
+msgid "Horizontal"
+msgstr "水平"
+
+#: ../src/iog-print-image-setup.c:952
+msgid "Vertical"
+msgstr "垂直"
+
+#: ../src/iog-print-image-setup.c:954
+msgid "Both"
+msgstr "双向"
+
+#: ../src/iog-print-image-setup.c:980 ../src/iog-print-image-setup.c:991
+msgid "Size"
+msgstr "大小"
+
+#: ../src/iog-print-image-setup.c:983 ../src/iog-print-image-setup.c:996
+msgid "_Width:"
+msgstr "宽度(_W)："
+
+#: ../src/iog-print-image-setup.c:985 ../src/iog-print-image-setup.c:998
+msgid "_Height:"
+msgstr "高度(_H)："
+
+#: ../src/iog-print-image-setup.c:1002
+msgid "_Scaling:"
+msgstr "缩放(_S)："
+
+#: ../src/iog-print-image-setup.c:1026
+msgid "_Unit:"
+msgstr "单位(_U)："
+
+#: ../src/iog-print-image-setup.c:1035
+msgid "Millimeters"
+msgstr "毫米"
+
+#: ../src/iog-print-image-setup.c:1037
+msgid "Inches"
+msgstr "英寸"
+
+#: ../src/iog-print-image-setup.c:1074
+msgid "Preview"
+msgstr "预览"
+
+#: ../src/iog-properties-dialog.c:154
+msgid "Unknown"
+msgstr "未知"
+
+#. TRANSLATORS: This is the actual focal length used when
+#. the image was taken.
+#: ../src/iog-properties-dialog.c:232
+#, c-format
+msgid "%.1f (lens)"
+msgstr "%.1f (镜头)"
+
+#. Print as float to get a similar look as above.
+#. TRANSLATORS: This is the equivalent focal length assuming
+#. a 35mm film camera.
+#: ../src/iog-properties-dialog.c:243
+#, c-format
+msgid "%.1f (35mm film)"
+msgstr "%.1f (35mm 电影胶片)"
+
+#: ../src/iog-save-as-dialog-helper.c:161
+msgid "as is"
+msgstr "原样"
+
+#. Translators: This string is displayed in the statusbar.
+#. * The first token is the image number, the second is total image
+#. * count.
+#. *
+#. * Translate to "%Id" if you want to use localized digits, or
+#. * translate to "%d" otherwise.
+#. *
+#. * Note that translating this doesn't guarantee that you get localized
+#. * digits. That needs support from your system and locale definition
+#. * too.
+#: ../src/iog-statusbar.c:134
+#, c-format
+msgid "%d / %d"
+msgstr "第 %d 张，共 %d 张"
+
+#: ../src/iog-thumb-view.c:610
+msgid "Taken on"
+msgstr "摄于"
+
+#: ../src/iog-uri-converter.c:984
+#, c-format
+msgid "At least two file names are equal."
+msgstr "至少两个文件名相等。"
+
+#: ../src/iog-util.c:68
+msgid "Could not display help for Eye of GDE2"
+msgstr "无法显示 GDE2 之眼的帮助"
+
+#: ../src/iog-util.c:116
+msgid " (invalid Unicode)"
+msgstr " (无效的 Unicode)"
+
+#. Translators: This is the string displayed in the statusbar
+#. * The tokens are from left to right:
+#. * - image width
+#. * - image height
+#. * - image size in bytes
+#. * - zoom in percent
+#: ../src/iog-window.c:516
+#, c-format
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] "%i × %i 像素  %s    %i%%"
+
+#: ../src/iog-window.c:817
+msgid "_Reload"
+msgstr "重新载入(_R)"
+
+#: ../src/iog-window.c:819 ../src/iog-window.c:2717
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr "隐藏(_D)"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:829
+#, c-format
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr "图片 “%s” 已被外部程序修改。\n您想重新载入吗？"
+
+#: ../src/iog-window.c:1002
+#, c-format
+msgid "Use \"%s\" to open the selected image"
+msgstr "使用“%s”打开选中图像"
+
+#. Translators: This string is displayed in the statusbar
+#. * while saving images. The tokens are from left to right:
+#. * - the original filename
+#. * - the current image's position in the queue
+#. * - the total number of images queued for saving
+#: ../src/iog-window.c:1158
+#, c-format
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "保存图像“%s”(第%u个，共%u个)"
+
+#: ../src/iog-window.c:1516
+#, c-format
+msgid "Opening image \"%s\""
+msgstr "正在打开图像“%s”"
+
+#: ../src/iog-window.c:2214
+#, c-format
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr "打印文件出错：\n%s"
+
+#: ../src/iog-window.c:2476
+msgid "Toolbar Editor"
+msgstr "工具栏编辑器"
+
+#: ../src/iog-window.c:2479
+msgid "_Reset to Default"
+msgstr "重设为默认值(_R)"
+
+#: ../src/iog-window.c:2572
+msgid "translator-credits"
+msgstr "开源软件国际化之简体中文组\nYangZhang <zyangmath@gmail.com>, 2008\nXiyue Deng <manphiz@gmail.com>, 2009\nYunQiang Su <wzssyqa@gmail.com> 2010"
+
+#: ../src/iog-window.c:2575
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr "此程序是自由软件；您可以按照自由软件基金会所发表的 GNU GPL 协议自由发放和/或修改它；GPL 协议应该采用第二版或您所喜欢的第二版之后的任何版本。\n"
+
+#: ../src/iog-window.c:2579
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr "此程序发表的目的是希望它能够对您有用，但我们没有任何保证；对于以任何用途使用它所造成的任何直接或间接后果都不承担任何责任。请参看 GNU GPL 协议中的细节。\n"
+
+#: ../src/iog-window.c:2583
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr "你应该已经随本程序一起收到一份 GNU 通用公共许可证副本；如果没有，你可以写信给 \"\"the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, \"\"MA 02110-1301, USA \""
+
+#: ../src/iog-window.c:2601
+msgid "The GDE2 image viewer."
+msgstr "GDE2 之眼图像查看器。"
+
+#. I18N: When setting mnemonics for these strings, watch out to not
+#. clash with mnemonics from iog's menubar
+#: ../src/iog-window.c:2715
+msgid "_Open Background Preferences"
+msgstr "打开背景首选项(_O)"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:2731
+#, c-format
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr "“%s” 这张图已设为桌面背景。\n您想修改它的外观吗？"
+
+#: ../src/iog-window.c:3133
+msgid "Saving image locally…"
+msgstr "本地保存图像..."
+
+#: ../src/iog-window.c:3213
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr "您真的想要将“%s”\n移至回收站吗？"
+
+#: ../src/iog-window.c:3216
+#, c-format
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr "无法找到可用于“%s”的回收站。您想要将此图片永久移除吗？"
+
+#: ../src/iog-window.c:3221
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] "您真的想要将 %d 个\n选中的图像移至回收站吗？"
+
+#: ../src/iog-window.c:3226
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr "有些所选择的图片无法移动到回收站并将永久移除。您确定要这样进行吗？"
+
+#: ../src/iog-window.c:3243 ../src/iog-window.c:3727 ../src/iog-window.c:3754
+msgid "Move to _Trash"
+msgstr "移至回收站(_T)"
+
+#: ../src/iog-window.c:3245
+msgid "_Do not ask again during this session"
+msgstr "在这个会话期间不再询问(_D)"
+
+#: ../src/iog-window.c:3290 ../src/iog-window.c:3304
+#, c-format
+msgid "Couldn't access trash."
+msgstr "无法访问回收站。"
+
+#: ../src/iog-window.c:3312
+#, c-format
+msgid "Couldn't delete file"
+msgstr "无法删除文件"
+
+#: ../src/iog-window.c:3409
+#, c-format
+msgid "Error on deleting image %s"
+msgstr "删除图像 %s 出错"
+
+#: ../src/iog-window.c:3651
+msgid "_Image"
+msgstr "图像(_I)"
+
+#: ../src/iog-window.c:3652
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+#: ../src/iog-window.c:3653
+msgid "_View"
+msgstr "查看(_V)"
+
+#: ../src/iog-window.c:3654
+msgid "_Go"
+msgstr "转到(_G)"
+
+#: ../src/iog-window.c:3655
+msgid "_Tools"
+msgstr "工具(_T)"
+
+#: ../src/iog-window.c:3656
+msgid "_Help"
+msgstr "帮助(_H)"
+
+#: ../src/iog-window.c:3658
+msgid "_Open…"
+msgstr "打开(_O)..."
+
+#: ../src/iog-window.c:3659
+msgid "Open a file"
+msgstr "打开一个文件"
+
+#: ../src/iog-window.c:3661
+msgid "_Close"
+msgstr "关闭(_C)"
+
+#: ../src/iog-window.c:3662
+msgid "Close window"
+msgstr "关闭窗口"
+
+#: ../src/iog-window.c:3664
+msgid "T_oolbar"
+msgstr "工具栏(_O)"
+
+#: ../src/iog-window.c:3665
+msgid "Edit the application toolbar"
+msgstr "编辑应用程序工具栏"
+
+#: ../src/iog-window.c:3667
+msgid "Prefere_nces"
+msgstr "首选项(_N)"
+
+#: ../src/iog-window.c:3668
+msgid "Preferences for Eye of GDE2"
+msgstr "GDE2 之眼的首选项"
+
+#: ../src/iog-window.c:3670
+msgid "_Contents"
+msgstr "内容(_C)"
+
+#: ../src/iog-window.c:3671
+msgid "Help on this application"
+msgstr "关于此应用程序的帮助"
+
+#: ../src/iog-window.c:3674
+msgid "About this application"
+msgstr "关于此应用程序"
+
+#: ../src/iog-window.c:3679
+msgid "_Toolbar"
+msgstr "工具栏(_T)"
+
+#: ../src/iog-window.c:3680
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "更改当前窗口工具栏的可见性"
+
+#: ../src/iog-window.c:3682
+msgid "_Statusbar"
+msgstr "状态栏(_S)"
+
+#: ../src/iog-window.c:3683
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "更改当前窗口状态栏的可见性"
+
+#: ../src/iog-window.c:3685
+msgid "_Image Collection"
+msgstr "图集 (_I)"
+
+#: ../src/iog-window.c:3686
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "更改当前窗口中图集面板的可见性"
+
+#: ../src/iog-window.c:3688
+msgid "Side _Pane"
+msgstr "侧边栏(_P)"
+
+#: ../src/iog-window.c:3689
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "更改当前窗口侧边栏的可见性"
+
+#: ../src/iog-window.c:3694
+msgid "_Save"
+msgstr "保存(_S)"
+
+#: ../src/iog-window.c:3695
+msgid "Save changes in currently selected images"
+msgstr "保存更改到当前选中图像"
+
+#: ../src/iog-window.c:3697
+msgid "Open _with"
+msgstr "打开方式(_W)"
+
+#: ../src/iog-window.c:3698
+msgid "Open the selected image with a different application"
+msgstr "用一个不同的应用程序打开选中图片"
+
+#: ../src/iog-window.c:3700
+msgid "Save _As…"
+msgstr "另存为"
+
+#: ../src/iog-window.c:3701
+msgid "Save the selected images with a different name"
+msgstr "以一个不同的名字保存选中图片"
+
+#: ../src/iog-window.c:3703
+msgid "_Print…"
+msgstr "打印(_P)..."
+
+#: ../src/iog-window.c:3704
+msgid "Print the selected image"
+msgstr "打印选中图像"
+
+#: ../src/iog-window.c:3706
+msgid "Prope_rties"
+msgstr "属性(_R)"
+
+#: ../src/iog-window.c:3707
+msgid "Show the properties and metadata of the selected image"
+msgstr "显示选中图片的属性和元数据"
+
+#: ../src/iog-window.c:3709
+msgid "_Undo"
+msgstr "撤销(_U)"
+
+#: ../src/iog-window.c:3710
+msgid "Undo the last change in the image"
+msgstr "撤销上一次对图片的修改"
+
+#: ../src/iog-window.c:3712
+msgid "Flip _Horizontal"
+msgstr "水平翻转(_H)"
+
+#: ../src/iog-window.c:3713
+msgid "Mirror the image horizontally"
+msgstr "水平翻转图片"
+
+#: ../src/iog-window.c:3715
+msgid "Flip _Vertical"
+msgstr "垂直翻转(_V)"
+
+#: ../src/iog-window.c:3716
+msgid "Mirror the image vertically"
+msgstr "垂直翻转图片"
+
+#: ../src/iog-window.c:3718
+msgid "_Rotate Clockwise"
+msgstr "顺时针旋转(_R)"
+
+#: ../src/iog-window.c:3719
+msgid "Rotate the image 90 degrees to the right"
+msgstr "将图片顺时针旋转90度"
+
+#: ../src/iog-window.c:3721
+msgid "Rotate Counterc_lockwise"
+msgstr "逆时针旋转(_L)"
+
+#: ../src/iog-window.c:3722
+msgid "Rotate the image 90 degrees to the left"
+msgstr "将图片逆时针旋转90度"
+
+#: ../src/iog-window.c:3724
+msgid "Set as _Desktop Background"
+msgstr "设为桌面背景(_D)"
+
+#: ../src/iog-window.c:3725
+msgid "Set the selected image as the desktop background"
+msgstr "将选中图像设为桌面背景"
+
+#: ../src/iog-window.c:3728
+msgid "Move the selected image to the trash folder"
+msgstr "将选中图像移至回收站文件夹"
+
+#: ../src/iog-window.c:3730
+msgid "_Copy"
+msgstr "复制(_C)"
+
+#: ../src/iog-window.c:3731
+msgid "Copy the selected image to the clipboard"
+msgstr "把选中的图像复制到剪贴板"
+
+#: ../src/iog-window.c:3733 ../src/iog-window.c:3745 ../src/iog-window.c:3748
+msgid "_Zoom In"
+msgstr "放大(_Z)"
+
+#: ../src/iog-window.c:3734 ../src/iog-window.c:3746
+msgid "Enlarge the image"
+msgstr "放大图片"
+
+#: ../src/iog-window.c:3736 ../src/iog-window.c:3751
+msgid "Zoom _Out"
+msgstr "缩小(_O)"
+
+#: ../src/iog-window.c:3737 ../src/iog-window.c:3749 ../src/iog-window.c:3752
+msgid "Shrink the image"
+msgstr "缩小图片"
+
+#: ../src/iog-window.c:3739
+msgid "_Normal Size"
+msgstr "正常大小(_N)"
+
+#: ../src/iog-window.c:3740
+msgid "Show the image at its normal size"
+msgstr "以正常大小显示图片"
+
+#: ../src/iog-window.c:3742
+msgid "_Best Fit"
+msgstr "最佳长度 (_B)"
+
+#: ../src/iog-window.c:3743
+msgid "Fit the image to the window"
+msgstr "使图像适合窗口"
+
+#: ../src/iog-window.c:3760
+msgid "_Fullscreen"
+msgstr "全屏(_F)"
+
+#: ../src/iog-window.c:3761
+msgid "Show the current image in fullscreen mode"
+msgstr "在全屏模式中显示当前图像"
+
+#: ../src/iog-window.c:3763
+msgid "Pause Slideshow"
+msgstr "暂停放映"
+
+#: ../src/iog-window.c:3764
+msgid "Pause or resume the slideshow"
+msgstr "暂停或继续幻灯片放映"
+
+#: ../src/iog-window.c:3769 ../src/iog-window.c:3784
+msgid "_Previous Image"
+msgstr "上一个图像(_P)"
+
+#: ../src/iog-window.c:3770
+msgid "Go to the previous image of the collection"
+msgstr "转到图集中上一个图像"
+
+#: ../src/iog-window.c:3772
+msgid "_Next Image"
+msgstr "下一个图像(_N)"
+
+#: ../src/iog-window.c:3773
+msgid "Go to the next image of the collection"
+msgstr "转到图集中下一个图像"
+
+#: ../src/iog-window.c:3775 ../src/iog-window.c:3787
+msgid "_First Image"
+msgstr "第一个图像(_F)"
+
+#: ../src/iog-window.c:3776
+msgid "Go to the first image of the collection"
+msgstr "转到图集中第一个图像"
+
+#: ../src/iog-window.c:3778 ../src/iog-window.c:3790
+msgid "_Last Image"
+msgstr "最后一个图像(_L)"
+
+#: ../src/iog-window.c:3779
+msgid "Go to the last image of the collection"
+msgstr "转到图集中最后一个图像"
+
+#: ../src/iog-window.c:3781
+msgid "_Random Image"
+msgstr "随机图像(_R)"
+
+#: ../src/iog-window.c:3782
+msgid "Go to a random image of the collection"
+msgstr "转到图集中下一个图像"
+
+#: ../src/iog-window.c:3796
+msgid "S_lideshow"
+msgstr "幻灯片 (_L)"
+
+#: ../src/iog-window.c:3797
+msgid "Start a slideshow view of the images"
+msgstr "以幻灯片方式查看图片"
+
+#: ../src/iog-window.c:3863
+msgid "Previous"
+msgstr "上一张"
+
+#: ../src/iog-window.c:3867
+msgid "Next"
+msgstr "下一张"
+
+#: ../src/iog-window.c:3871
+msgid "Right"
+msgstr "顺时针"
+
+#: ../src/iog-window.c:3874
+msgid "Left"
+msgstr "逆时针"
+
+#: ../src/iog-window.c:3877
+msgid "In"
+msgstr "放大"
+
+#: ../src/iog-window.c:3880
+msgid "Out"
+msgstr "缩小"
+
+#: ../src/iog-window.c:3883
+msgid "Normal"
+msgstr "正常"
+
+#: ../src/iog-window.c:3886
+msgid "Fit"
+msgstr "适合"
+
+#: ../src/iog-window.c:3889
+msgid "Collection"
+msgstr "收藏"
+
+#: ../src/iog-window.c:3892
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr "移入回收站"
+
+#: ../src/iog-window.c:4245
+#, c-format
+msgid "Edit the current image using %s"
+msgstr "使用 %s 编辑当前图片"
+
+#: ../src/iog-window.c:4247
+msgid "Edit Image"
+msgstr "编辑图片"
+
+#: ../src/main.c:80
+msgid "Open in fullscreen mode"
+msgstr "在全屏模式中打开"
+
+#: ../src/main.c:81
+msgid "Disable image collection"
+msgstr "禁用图集"
+
+#: ../src/main.c:82
+msgid "Open in slideshow mode"
+msgstr "在幻灯片放映模式中打开"
+
+#: ../src/main.c:84
+msgid "Start a new instance instead of reusing an existing one"
+msgstr "启动新例程，而不是重用现有例程"
+
+#: ../src/main.c:87
+msgid "Show the application's version"
+msgstr "显示应用程序版本"
+
+#: ../src/main.c:88
+msgid "[FILE…]"
+msgstr "[文件...]"
+
+#. I18N: The '%s' is replaced with iog's command name.
+#: ../src/main.c:219
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "运行“%s --help”来查看可用命令行选项的完整列表。"

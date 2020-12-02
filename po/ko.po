@@ -1,0 +1,1502 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Alan Lee <bkrhlim@aol.com>, 2013
+# 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>, 2016
+# Alan Lee <bkrhlim@aol.com>, 2013
+# Seong-ho Cho <darkcircle.0426@gmail.com>, 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-13 16:02+0300\n"
+"PO-Revision-Date: 2016-04-07 11:49+0000\n"
+"Last-Translator: 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>\n"
+"Language-Team: Korean (http://www.transifex.com/gde2/GDE2/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Translaters: This string is for a toggle to display a toolbar.
+#. * The name of the toolbar is automatically computed from the widgets
+#. * on the toolbar, and is placed at the %s. Note the _ before the %s
+#. * which is used to add mnemonics. We know that this is likely to
+#. * produce duplicates, but don't worry about it. If your language
+#. * normally has a mnemonic at the start, please use the _. If not,
+#. * please remove.
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:948
+#, c-format
+msgid "Show “_%s”"
+msgstr "“_%s” 보이기"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1416
+msgid "_Move on Toolbar"
+msgstr "도구 모음에서 옮기기(_M)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1417
+msgid "Move the selected item on the toolbar"
+msgstr "도구 모음에서 선택한 항목을 옮깁니다"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1418
+msgid "_Remove from Toolbar"
+msgstr "도구 모음에서 제거(_R)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1419
+msgid "Remove the selected item from the toolbar"
+msgstr "도구 모음에서 선택한 항목을 제거합니다"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1420
+msgid "_Delete Toolbar"
+msgstr "도구 모음 삭제(_D)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1421
+msgid "Remove the selected toolbar"
+msgstr "선택한 도구 모음을 제거합니다"
+
+#: ../cut-n-paste/toolbar-editor/egg-toolbar-editor.c:515
+msgid "Separator"
+msgstr "구분선"
+
+#: ../data/iog.appdata.xml.in.h:1 ../src/iog-window.c:2596
+msgid "Eye of GDE2"
+msgstr "마테의 눈"
+
+#: ../data/iog.appdata.xml.in.h:2
+msgid "Simple image viewer"
+msgstr "간단한 그림 보기 프로그램"
+
+#: ../data/iog.appdata.xml.in.h:3
+msgid ""
+"<p> Eye of GDE2 is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr "<p> 마테의 눈은 컴퓨터의 그림을 찾다보는 간단한 그림 보기 프로그램입니다. 그림을 불러오면 그림을 확대, 축소, 회전할 수 있으며, 그림을 불러온 디렉터리의 각각의 여러가지 그림도 살펴볼 수 있습니다. </p>"
+
+#: ../data/iog.desktop.in.in.h:1 ../src/main.c:73 ../src/main.c:275
+msgid "Eye of GDE2 Image Viewer"
+msgstr "마테의 눈 그림 뷰어"
+
+#: ../data/iog.desktop.in.in.h:2
+msgid "Browse and rotate images"
+msgstr "그림 살펴보기 및 돌리기"
+
+#: ../data/iog-image-properties-dialog.ui.h:1
+msgid "Image Properties"
+msgstr "그림 등록정보"
+
+#: ../data/iog-image-properties-dialog.ui.h:2
+msgid "Name:"
+msgstr "이름:"
+
+#: ../data/iog-image-properties-dialog.ui.h:3
+msgid "Width:"
+msgstr "너비:"
+
+#: ../data/iog-image-properties-dialog.ui.h:4
+msgid "Height:"
+msgstr "높이:"
+
+#: ../data/iog-image-properties-dialog.ui.h:5
+msgid "Type:"
+msgstr "종류:"
+
+#: ../data/iog-image-properties-dialog.ui.h:6
+msgid "Bytes:"
+msgstr "바이트:"
+
+#: ../data/iog-image-properties-dialog.ui.h:7
+msgid "Location:"
+msgstr "장소:"
+
+#: ../data/iog-image-properties-dialog.ui.h:8
+msgid "General"
+msgstr "일반"
+
+#: ../data/iog-image-properties-dialog.ui.h:9
+msgid "Aperture Value:"
+msgstr "조리개 값:"
+
+#: ../data/iog-image-properties-dialog.ui.h:10
+msgid "Exposure Time:"
+msgstr "노출 시간:"
+
+#: ../data/iog-image-properties-dialog.ui.h:11
+msgid "Focal Length:"
+msgstr "초점 거리:"
+
+#: ../data/iog-image-properties-dialog.ui.h:12
+msgid "Flash:"
+msgstr "플래시:"
+
+#: ../data/iog-image-properties-dialog.ui.h:13
+msgid "ISO Speed Rating:"
+msgstr "ISO 감광도:"
+
+#: ../data/iog-image-properties-dialog.ui.h:14
+msgid "Metering Mode:"
+msgstr "측광 방식:"
+
+#: ../data/iog-image-properties-dialog.ui.h:15
+msgid "Camera Model:"
+msgstr "카메라 모델:"
+
+#: ../data/iog-image-properties-dialog.ui.h:16
+msgid "Date/Time:"
+msgstr "날짜/시간:"
+
+#: ../data/iog-image-properties-dialog.ui.h:17
+msgid "Description:"
+msgstr "설명:"
+
+#: ../data/iog-image-properties-dialog.ui.h:18
+msgid "Keywords:"
+msgstr "검색단어:"
+
+#: ../data/iog-image-properties-dialog.ui.h:19
+msgid "Author:"
+msgstr "촬영자:"
+
+#: ../data/iog-image-properties-dialog.ui.h:20
+msgid "Copyright:"
+msgstr "저작권:"
+
+#: ../data/iog-image-properties-dialog.ui.h:21
+msgid "Details"
+msgstr "자세히"
+
+#: ../data/iog-image-properties-dialog.ui.h:22
+msgid "Metadata"
+msgstr "메타데이터"
+
+#: ../data/iog-image-properties-dialog.ui.h:23
+msgid "_Previous"
+msgstr "이전(_P)"
+
+#: ../data/iog-image-properties-dialog.ui.h:24
+msgid "_Next"
+msgstr "다음(_N)"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:1
+msgid "Save As"
+msgstr "다른 이름으로 저장"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:3
+#, no-c-format
+msgid "<b>%f:</b> original filename"
+msgstr "<b>%f:</b> 원래 파일 이름"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:5
+#, no-c-format
+msgid "<b>%n:</b> counter"
+msgstr "<b>%n:</b> 일련번호"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:6
+msgid "Filename format:"
+msgstr "파일 이름 형식:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:7
+msgid "Choose a folder"
+msgstr "폴더 선택"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:8
+msgid "Destination folder:"
+msgstr "저장할 폴더:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:9
+msgid "File Path Specifications"
+msgstr "파일 경로 지정"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:10
+msgid "Start counter at:"
+msgstr "일련번호 시작:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:11
+msgid "Replace spaces with underscores"
+msgstr "공백을 밑줄로 바꾸기"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:12
+msgid "Options"
+msgstr "옵션"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:13
+msgid "Rename from:"
+msgstr "원래 이름:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:14
+msgid "To:"
+msgstr "바꿀 이름:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:15
+msgid "File Name Preview"
+msgstr "파일 이름 미리 보기"
+
+#: ../data/iog-preferences-dialog.ui.h:1
+msgid "Eye of GDE2 Preferences"
+msgstr "마테의 눈 기본 설정"
+
+#: ../data/iog-preferences-dialog.ui.h:2
+msgid "Image Enhancements"
+msgstr "그림 개선"
+
+#: ../data/iog-preferences-dialog.ui.h:3
+msgid "Smooth images when zoomed-_out"
+msgstr "축소할 때 그림 부드럽게(_O)"
+
+#: ../data/iog-preferences-dialog.ui.h:4
+msgid "Smooth images when zoomed-_in"
+msgstr "확대할 때 그림 부드럽게(_I)"
+
+#: ../data/iog-preferences-dialog.ui.h:5
+msgid "_Automatic orientation"
+msgstr "자동 방향(_A)"
+
+#: ../data/iog-preferences-dialog.ui.h:6
+msgid "Background"
+msgstr "배경"
+
+#: ../data/iog-preferences-dialog.ui.h:7
+msgid "As custom color:"
+msgstr "사용자 지정 색:"
+
+#: ../data/iog-preferences-dialog.ui.h:8
+#: ../data/org.gde2.iog.gschema.xml.in.h:3
+msgid "Background Color"
+msgstr "배경색"
+
+#: ../data/iog-preferences-dialog.ui.h:9
+msgid "Transparent Parts"
+msgstr "투명한 부분"
+
+#: ../data/iog-preferences-dialog.ui.h:10
+msgid "As check _pattern"
+msgstr "체크무늬로(_P)"
+
+#: ../data/iog-preferences-dialog.ui.h:11
+msgid "As custom c_olor:"
+msgstr "지정한 색으로(_O):"
+
+#: ../data/iog-preferences-dialog.ui.h:12
+msgid "Color for Transparent Areas"
+msgstr "투명한 부분의 색"
+
+#: ../data/iog-preferences-dialog.ui.h:13
+msgid "As _background"
+msgstr "배경으로(_B)"
+
+#: ../data/iog-preferences-dialog.ui.h:14
+msgid "Image View"
+msgstr "그림 보기"
+
+#: ../data/iog-preferences-dialog.ui.h:15
+msgid "Image Zoom"
+msgstr "그림 확대/축소"
+
+#: ../data/iog-preferences-dialog.ui.h:16
+msgid "E_xpand images to fit screen"
+msgstr "화면에 맞게 그림 크기 조정(_X)"
+
+#: ../data/iog-preferences-dialog.ui.h:17
+msgid "Sequence"
+msgstr "차례"
+
+#: ../data/iog-preferences-dialog.ui.h:18
+msgid "_Switch image after:"
+msgstr "그림을 다음 시간 후 바꿈(_S):"
+
+#: ../data/iog-preferences-dialog.ui.h:19
+msgid "seconds"
+msgstr "초"
+
+#: ../data/iog-preferences-dialog.ui.h:20
+msgid "_Random sequence"
+msgstr "임의 순서(_R)"
+
+#: ../data/iog-preferences-dialog.ui.h:21
+msgid "_Loop sequence"
+msgstr "반복(_L)"
+
+#: ../data/iog-preferences-dialog.ui.h:22
+msgid "Slideshow"
+msgstr "슬라이드 쇼"
+
+#: ../data/iog-preferences-dialog.ui.h:23
+msgid "Plugins"
+msgstr "플러그인"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:1
+msgid "Automatic orientation"
+msgstr "자동 방향"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:2
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr "EXIF 방향 정보에 따라 그림을 자동으로 회전할 지 여부."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:4
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr "이미지 뒤 영역을 칠할 색상입니다. use-background-color 키를 설정하지 않으면, 활성화된 GTK+ 테마에서 대신 색상을 선택합니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:5
+msgid "Use a custom background color"
+msgstr "사용자 정의 배경색 사용"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:6
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr "활성화하면, 배경색 키로 설정한 색상 설정을 이미지 뒤의 공간을 채우는데 사용합니다. 설정하지 않았다면 현재 GTK+ 테마가 채울 색상을 결정합니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:7
+msgid "Interpolate Image"
+msgstr "그림 인터폴레이션"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:8
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr "축소 보기할 때 이미지를 인터폴레이션 할지 결정합니다. 인터폴레이션을 적용하지 않은 그림보다 화질은 좋아질 수 있으나 표시 속도는 느려집니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:9
+msgid "Extrapolate Image"
+msgstr "그림 엑스트라폴레이션"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:10
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr "축소에서 그림에 엑스트라폴레이션을 할지 여부. 엑스트라폴레이션을 하면 그림이 흐릿해지고, 엑스트라폴레이션을 하지 않는 경우보다 약간 느립니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:11
+msgid "Transparency indicator"
+msgstr "투명한 부분 나타내기"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:12
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr "얼마나 투명하게 나타낼지를 결정합니다. 유효한 값은 표시, 색상, 없음 입니다. 색상을 선택하면 색상 투명화 키에서 처리할 색상을 결정합니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:13
+msgid "Scroll wheel zoom"
+msgstr "휠로 확대/축소"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:14
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr "스크롤 휠로 확대/축소를 할지 여부."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:15
+msgid "Zoom multiplier"
+msgstr "확대 비율"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:17
+#, no-c-format
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr "스크롤 휠로 확대/축소를 사용할 때 적용되는 비율. 각각의 스크롤 이벤트가 생길 때 적용되는 확대/축소 비율입니다. 0.05로 설정되면 각각의 스크롤 이벤트가 발생될 때 5%씩 확대증가가 되고, 1.00이면 100% 확대증가가 됩니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:18
+msgid "Transparency color"
+msgstr "투명 색"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:19
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "transparency 키 값이 COLOR일 경우, 이 키 값이 투명한 부분에 사용될 색이 됩니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:20
+msgid "Randomize the image sequence"
+msgstr "그림 순서를 임의화합니다"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:21
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr "이미지 표시 순서의 임의 순환 방식 표시 여부입니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:22
+msgid "Loop through the image sequence"
+msgstr "그림 순서를 반복합니다"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:23
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr "무한 루프에서 그림 시퀀스를 반복해서 표시할 지 여부."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:25
+#, no-c-format
+msgid "Allow zoom greater than 100% initially"
+msgstr "최초에 100%보다 크게 허용합니다"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:26
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "거짓이면, 최초의 작은 그림을 화면에 맞게 늘리지 않습니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:27
+msgid "Delay in seconds until showing the next image"
+msgstr "다음 그림을 표시할 때까지 지연 시간(초 단위)"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:28
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "0보다 큰 값이면 다음 그림으로 자동으로 넘어갈 때까지 유지할 시간입니다. 0이면 자동 넘어가기를 끕니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:29
+msgid "Show/Hide the window toolbar."
+msgstr "창 도구 모음을 보이거나 감춥니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:30
+msgid "Show/Hide the window statusbar."
+msgstr "창 상태 표시줄을 보이거나 감춥니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:31
+msgid "Show/Hide the image collection pane."
+msgstr "그림 모음창을 보입니다/감춥니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:32
+msgid "Image collection pane position."
+msgstr "그림 모아보기 창의 위치입니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:33
+msgid "Whether the image collection pane should be resizable."
+msgstr "그림 모음 창의 크기를 조절할 수 있도록 합니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:34
+msgid "Show/Hide the window side pane."
+msgstr "창 가장자리 창을 보이거나 감춥니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:35
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr "그림 모음창의 스크롤 단추를 보입니다/감춥니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:36
+msgid "Close main window without asking to save changes."
+msgstr "바뀐 내용을 저장할지 물어보지 말고 메인 창을 닫습니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:37
+msgid "Trash images without asking"
+msgstr "물어보지 않고 휴지통에 그림 버리기"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:38
+msgid ""
+"If activated, Eye of GDE2 won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr "활성화하면, 그림을 휴지통으로 이동할 때 마테의 눈에서 물어보지 않습니다. 휴지통에 옮길 수 없어 대신 삭제할 경우에도 묻습니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:39
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr "속성 창의 메타데이터 목록을 별도 페이지에 표시할지 여부."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:40
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr "활성화하면, 속성 대화 상자의 자세한 메타데이터 목록을 대화 상자의 자체 페이지로 이동합니다. 이 동작은 작은 화면(예: 넷북 사용)에서 대화 상자를 쓸모있게 합니다. 비활성화하면, 위젯을 \"메타데이터\" 페이지에 내장합니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:41
+msgid "External program to use for editing images"
+msgstr "그림을 편집할 때 사용할 외부 프로그램"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:42
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr "그림을 편집할 때(\"그림 편집\" 도구 모듬 단추를 누를 경우) 사용할 프로그램의 desktop 파일 이름(\".desktop\" 포함)입니다. 이 기능을 사용하지 않으려면 입력하지 마십시오."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:43
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr "그림을 읽어들이지 않았을 때 파일 선택 창에서 사용자의 그림 폴더를 표시할 지 여부."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:44
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr "활성화하고 활성 창에 불러온 그림이 없다면, 파일 선택 항은 XDG 특수 사용자 디렉터리를 활용하여 사용자의 그림 폴더 내용을 표시합니다. 비활성화하거나 그림 폴더를 설정하지 않았다면 현재 작업 디렉터리를 보여줍니다."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:45
+msgid "Active plugins"
+msgstr "사용중인 플러그인"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:46
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .iog-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr "사용중인 플러그인 목록. 사용중인 플러그인의 \"위치\"는 포함하지 않습니다. 주어진 플러그인의 \"위치\"는 .iog-plugin 파일을 참고하십시오."
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:1
+msgid "Fullscreen with double-click"
+msgstr "두 번 누르면 전체 화면"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:2
+msgid "Activate fullscreen mode with double-click"
+msgstr "두 번 누르면 전체 화면으로 합니다"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:1
+msgid "Reload Image"
+msgstr "그림 다시 읽기"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:2
+msgid "Reload current image"
+msgstr "현재 그림을 다시 읽습니다"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:1
+msgid "Date in statusbar"
+msgstr "상태 표시줄에 시각"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:2
+msgid "Shows the image date in the window statusbar"
+msgstr "창의 상태 표시줄에 그림의 시각을 표시합니다"
+
+#: ../src/iog-application.c:124
+msgid "Running in fullscreen mode"
+msgstr "전체화면 모드에서 실행"
+
+#: ../src/iog-close-confirmation-dialog.c:164
+msgid "Close _without Saving"
+msgstr "저장하지 않고 닫기(_W)"
+
+#: ../src/iog-close-confirmation-dialog.c:197
+msgid "Question"
+msgstr "물음"
+
+#: ../src/iog-close-confirmation-dialog.c:378
+msgid "If you don't save, your changes will be lost."
+msgstr "저장하지 않으면 바뀐 사항을 잃어버립니다."
+
+#: ../src/iog-close-confirmation-dialog.c:421
+#, c-format
+msgid "Save changes to image \"%s\" before closing?"
+msgstr "바뀐 사항을 \"%s\" 그림에 닫기 전에 저장하시겠습니까?"
+
+#: ../src/iog-close-confirmation-dialog.c:628
+#, c-format
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] "바뀐 사항을 저장하지 않은 그림이 %d개 있습니다. 닫기 전에 저장하시겠습니까?"
+
+#: ../src/iog-close-confirmation-dialog.c:645
+msgid "S_elect the images you want to save:"
+msgstr "저장하려는 그림 선택(_E):"
+
+#. Secondary label
+#: ../src/iog-close-confirmation-dialog.c:667
+msgid "If you don't save, all your changes will be lost."
+msgstr "저장하지 않으면 바뀐 사항을 잃어버립니다."
+
+#: ../src/iog-file-chooser.c:132
+msgid "File format is unknown or unsupported"
+msgstr "파일 형식이 알 수 없거나 지원하지 않습니다"
+
+#: ../src/iog-file-chooser.c:137
+msgid ""
+"Eye of GDE2 could not determine a supported writable file format based on "
+"the filename."
+msgstr "마테의 눈이 파일 이름으로 저장할 수 있는 파일 형식을 알아낼 수 없습니다."
+
+#: ../src/iog-file-chooser.c:138
+msgid "Please try a different file extension like .png or .jpg."
+msgstr ".png나 .jpg같은 파일 확장자로 다시 시도하십시오."
+
+#: ../src/iog-file-chooser.c:170
+msgid "All Files"
+msgstr "모든 파일"
+
+#: ../src/iog-file-chooser.c:175
+msgid "All Images"
+msgstr "모든 그림"
+
+#. Filter name: First description then file extension, eg. "The PNG-Format
+#. (*.png)".
+#: ../src/iog-file-chooser.c:196
+#, c-format
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+#. Pixel size of image: width x height in pixel
+#: ../src/iog-file-chooser.c:292 ../src/iog-properties-dialog.c:137
+#: ../src/iog-properties-dialog.c:139 ../src/iog-thumb-view.c:582
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "픽셀"
+
+#: ../src/iog-file-chooser.c:443
+msgid "Open Image"
+msgstr "그림 열기"
+
+#: ../src/iog-file-chooser.c:451
+msgid "Save Image"
+msgstr "그림 저장"
+
+#: ../src/iog-file-chooser.c:459
+msgid "Open Folder"
+msgstr "폴더 열기"
+
+#: ../src/iog-image.c:562
+#, c-format
+msgid "Transformation on unloaded image."
+msgstr "읽지 않은 그림 변환."
+
+#: ../src/iog-image.c:590
+#, c-format
+msgid "Transformation failed."
+msgstr "그림 변환 실패."
+
+#: ../src/iog-image.c:1000
+#, c-format
+msgid "EXIF not supported for this file format."
+msgstr "이 파일형식은 EXIF를 지원하지 않습니다."
+
+#: ../src/iog-image.c:1123
+#, c-format
+msgid "Image loading failed."
+msgstr "그림을 읽는 데 실패했습니다."
+
+#: ../src/iog-image.c:1652 ../src/iog-image.c:1754
+#, c-format
+msgid "No image loaded."
+msgstr "읽어 온 그림이 없습니다."
+
+#: ../src/iog-image.c:1662 ../src/iog-image.c:1766
+#, c-format
+msgid "Temporary file creation failed."
+msgstr "임시 파일 만들기가 실패했습니다."
+
+#: ../src/iog-image-jpeg.c:384
+#, c-format
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "저장할 때 쓸 임시 파일을 만들지 못했습니다: %s"
+
+#: ../src/iog-image-jpeg.c:395
+#, c-format
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "JPEG 파일을 읽어들일 때 필요한 메모리를 할당하지 못했습니다"
+
+#: ../src/iog-error-message-area.c:124
+msgid "_Retry"
+msgstr "다시 시도(_R)"
+
+#: ../src/iog-error-message-area.c:167
+#, c-format
+msgid "Could not load image '%s'."
+msgstr "`%s' 그림을 읽어들일 수 없습니다."
+
+#: ../src/iog-error-message-area.c:209
+#, c-format
+msgid "No images found in '%s'."
+msgstr "'%s'에서 그림을 찾을 수 없습니다."
+
+#: ../src/iog-error-message-area.c:216
+msgid "The given locations contain no images."
+msgstr "주어진 위치에 아무 그림이 없습니다."
+
+#: ../src/iog-exif-details.c:68
+msgid "Camera"
+msgstr "카메라"
+
+#: ../src/iog-exif-details.c:69
+msgid "Image Data"
+msgstr "그림 데이터"
+
+#: ../src/iog-exif-details.c:70
+msgid "Image Taking Conditions"
+msgstr "사진 찍을 때 조건"
+
+#: ../src/iog-exif-details.c:71
+msgid "Maker Note"
+msgstr "만든 사람 메모"
+
+#: ../src/iog-exif-details.c:72
+msgid "Other"
+msgstr "기타"
+
+#: ../src/iog-exif-details.c:74
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+#: ../src/iog-exif-details.c:75
+msgid "XMP IPTC"
+msgstr "XMP IPTC"
+
+#: ../src/iog-exif-details.c:76
+msgid "XMP Rights Management"
+msgstr "XMP 권한 관리"
+
+#: ../src/iog-exif-details.c:77
+msgid "XMP Other"
+msgstr "XMP 기타"
+
+#: ../src/iog-exif-details.c:251
+msgid "Tag"
+msgstr "태그"
+
+#: ../src/iog-exif-details.c:258
+msgid "Value"
+msgstr "값"
+
+#. A strftime-formatted string, to display the date the image was taken.
+#: ../src/iog-exif-util.c:121 ../src/iog-exif-util.c:161
+msgid "%a, %d %B %Y  %X"
+msgstr "%Y년 %B %d일 %a  %X"
+
+#. A strftime-formatted string, to display the date the image was taken, for
+#. the case we don't have the time.
+#: ../src/iog-exif-util.c:155
+msgid "%a, %d %B %Y"
+msgstr "%Y년 %B %d일 %a"
+
+#: ../src/iog-plugin-manager.c:55
+msgid "Plugin"
+msgstr "플러그인"
+
+#: ../src/iog-plugin-manager.c:56
+msgid "Enabled"
+msgstr "사용중"
+
+#: ../src/iog-plugin-manager.c:509 ../src/iog-window.c:3673
+msgid "_About"
+msgstr "정보(_A)"
+
+#: ../src/iog-plugin-manager.c:517
+msgid "C_onfigure"
+msgstr "설정(_O)"
+
+#: ../src/iog-plugin-manager.c:527
+msgid "A_ctivate"
+msgstr "사용하기(_C)"
+
+#: ../src/iog-plugin-manager.c:539
+msgid "Ac_tivate All"
+msgstr "모두 사용(_T)"
+
+#: ../src/iog-plugin-manager.c:544
+msgid "_Deactivate All"
+msgstr "모두 사용하지 않기(_D)"
+
+#: ../src/iog-plugin-manager.c:853
+msgid "Active _Plugins:"
+msgstr "사용중인 플러그인(_P):"
+
+#: ../src/iog-plugin-manager.c:890
+msgid "_About Plugin"
+msgstr "플러그인 정보(_A)"
+
+#: ../src/iog-plugin-manager.c:897
+msgid "C_onfigure Plugin"
+msgstr "플러그인 설정(_O)"
+
+#: ../src/iog-print.c:219
+msgid "Image Settings"
+msgstr "그림 설정"
+
+#: ../src/iog-print-image-setup.c:873
+msgid "Image"
+msgstr "그림"
+
+#: ../src/iog-print-image-setup.c:874
+msgid "The image whose printing properties will be set up"
+msgstr "인쇄 속성을 설정할 그림"
+
+#: ../src/iog-print-image-setup.c:880
+msgid "Page Setup"
+msgstr "페이지 설정"
+
+#: ../src/iog-print-image-setup.c:881
+msgid "The information for the page where the image will be printed"
+msgstr "그림을 인쇄할 페이지의 정보"
+
+#: ../src/iog-print-image-setup.c:914 ../src/iog-print-image-setup.c:928
+msgid "Position"
+msgstr "위치"
+
+#: ../src/iog-print-image-setup.c:918 ../src/iog-print-image-setup.c:933
+msgid "_Left:"
+msgstr "왼쪽(_L):"
+
+#: ../src/iog-print-image-setup.c:920 ../src/iog-print-image-setup.c:934
+msgid "_Right:"
+msgstr "오른쪽(_R):"
+
+#: ../src/iog-print-image-setup.c:921 ../src/iog-print-image-setup.c:935
+msgid "_Top:"
+msgstr "위(_T):"
+
+#: ../src/iog-print-image-setup.c:922 ../src/iog-print-image-setup.c:936
+msgid "_Bottom:"
+msgstr "아래(_B):"
+
+#: ../src/iog-print-image-setup.c:939
+msgid "C_enter:"
+msgstr "가운데(_E):"
+
+#: ../src/iog-print-image-setup.c:948
+msgid "None"
+msgstr "없음"
+
+#: ../src/iog-print-image-setup.c:950
+msgid "Horizontal"
+msgstr "가로 방향"
+
+#: ../src/iog-print-image-setup.c:952
+msgid "Vertical"
+msgstr "세로 방향"
+
+#: ../src/iog-print-image-setup.c:954
+msgid "Both"
+msgstr "양쪽"
+
+#: ../src/iog-print-image-setup.c:980 ../src/iog-print-image-setup.c:991
+msgid "Size"
+msgstr "크기"
+
+#: ../src/iog-print-image-setup.c:983 ../src/iog-print-image-setup.c:996
+msgid "_Width:"
+msgstr "너비(_W):"
+
+#: ../src/iog-print-image-setup.c:985 ../src/iog-print-image-setup.c:998
+msgid "_Height:"
+msgstr "높이(_H):"
+
+#: ../src/iog-print-image-setup.c:1002
+msgid "_Scaling:"
+msgstr "크기 조정(_S):"
+
+#: ../src/iog-print-image-setup.c:1026
+msgid "_Unit:"
+msgstr "단위(_U):"
+
+#: ../src/iog-print-image-setup.c:1035
+msgid "Millimeters"
+msgstr "밀리미터"
+
+#: ../src/iog-print-image-setup.c:1037
+msgid "Inches"
+msgstr "인치"
+
+#: ../src/iog-print-image-setup.c:1074
+msgid "Preview"
+msgstr "미리 보기"
+
+#: ../src/iog-properties-dialog.c:154
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#. TRANSLATORS: This is the actual focal length used when
+#. the image was taken.
+#: ../src/iog-properties-dialog.c:232
+#, c-format
+msgid "%.1f (lens)"
+msgstr "%.1f (렌즈)"
+
+#. Print as float to get a similar look as above.
+#. TRANSLATORS: This is the equivalent focal length assuming
+#. a 35mm film camera.
+#: ../src/iog-properties-dialog.c:243
+#, c-format
+msgid "%.1f (35mm film)"
+msgstr "%.1f (35mm 필름)"
+
+#: ../src/iog-save-as-dialog-helper.c:161
+msgid "as is"
+msgstr "그대로"
+
+#. Translators: This string is displayed in the statusbar.
+#. * The first token is the image number, the second is total image
+#. * count.
+#. *
+#. * Translate to "%Id" if you want to use localized digits, or
+#. * translate to "%d" otherwise.
+#. *
+#. * Note that translating this doesn't guarantee that you get localized
+#. * digits. That needs support from your system and locale definition
+#. * too.
+#: ../src/iog-statusbar.c:134
+#, c-format
+msgid "%d / %d"
+msgstr "%d / %d"
+
+#: ../src/iog-thumb-view.c:610
+msgid "Taken on"
+msgstr "가져오기"
+
+#: ../src/iog-uri-converter.c:984
+#, c-format
+msgid "At least two file names are equal."
+msgstr "두 파일의 이름이 같습니다."
+
+#: ../src/iog-util.c:68
+msgid "Could not display help for Eye of GDE2"
+msgstr "마테의 눈에 대한 도움말을 표시할 수 없습니다"
+
+#: ../src/iog-util.c:116
+msgid " (invalid Unicode)"
+msgstr " (잘못된 유니코드)"
+
+#. Translators: This is the string displayed in the statusbar
+#. * The tokens are from left to right:
+#. * - image width
+#. * - image height
+#. * - image size in bytes
+#. * - zoom in percent
+#: ../src/iog-window.c:516
+#, c-format
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] "%i × %i 픽셀  %s    %i%%"
+
+#: ../src/iog-window.c:817
+msgid "_Reload"
+msgstr "다시 읽기(_R)"
+
+#: ../src/iog-window.c:819 ../src/iog-window.c:2717
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr "숨기기(_D)"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:829
+#, c-format
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr "\"%s\" 그림을 외부 프로그램에서 수정했습니다.\n다시 읽으시겠습니까?"
+
+#: ../src/iog-window.c:1002
+#, c-format
+msgid "Use \"%s\" to open the selected image"
+msgstr "선택한 그림을 열기위해 \"%s\"(을)를 사용합니다"
+
+#. Translators: This string is displayed in the statusbar
+#. * while saving images. The tokens are from left to right:
+#. * - the original filename
+#. * - the current image's position in the queue
+#. * - the total number of images queued for saving
+#: ../src/iog-window.c:1158
+#, c-format
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "\"%s\" 그림을 저장하는 중 (%u/%u)"
+
+#: ../src/iog-window.c:1516
+#, c-format
+msgid "Opening image \"%s\""
+msgstr "\"%s\" 그림 여는중"
+
+#: ../src/iog-window.c:2214
+#, c-format
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr "파일을 인쇄하는 데 오류가 발생했습니다:\n%s"
+
+#: ../src/iog-window.c:2476
+msgid "Toolbar Editor"
+msgstr "도구 모음 편집기"
+
+#: ../src/iog-window.c:2479
+msgid "_Reset to Default"
+msgstr "기본값으로 돌아가기(_R)"
+
+#: ../src/iog-window.c:2572
+msgid "translator-credits"
+msgstr "남성현 <namsh@kldp.org>\n차영호 <ganadist@chollian.net>\n류창우 <cwryu@debian.org>\nGDE2 Desktop Environment Team <https://www.transifex.com/gde2/teams/13566/ko/>"
+
+#: ../src/iog-window.c:2575
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr "이 프로그램은 자유 소프트웨어 입니다. 자유 소프트웨어 재단이 발표한 GNU 일반 공중 사용 허가서 버전 2 또는 (선택에 따라) 그 이상의 버전의 조항에 의거하여 재배포하거나 수정할 수 있습니다. \n"
+
+#: ../src/iog-window.c:2579
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr "마테 터미널은 유용하게 사용될 수 있으리라는 희망에서 배포되고 있지만, 특정한 목적에 맞는 적합성 여부나 판매용으로 사용할 수 있으리라는 묵시적인 보증을 포함한 어떠한 형태의 보증도 제공하지 않습니다. 보다 자세한 사항에 대해서는 GNU 일반 공중 사용 허가서를 참고하시기 바랍니다.\n"
+
+#: ../src/iog-window.c:2583
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr "GNU 일반 공중 사용 허가서 사본을 이 프로그램과 받아야 합니다. 못받으셨다면 Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA에 요청하십시오."
+
+#: ../src/iog-window.c:2601
+msgid "The GDE2 image viewer."
+msgstr "마테 그림 뷰어."
+
+#. I18N: When setting mnemonics for these strings, watch out to not
+#. clash with mnemonics from iog's menubar
+#: ../src/iog-window.c:2715
+msgid "_Open Background Preferences"
+msgstr "배경 기본 설정 열기(_O)"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:2731
+#, c-format
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr "\"%s\" 그림을 데스크톱 배경으로 지정했습니다.\n모양을 수정하시겠습니까?"
+
+#: ../src/iog-window.c:3133
+msgid "Saving image locally…"
+msgstr "그림을 로컬에 저장하는 중입니다…"
+
+#: ../src/iog-window.c:3213
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr "정말로 \"%s\"(을)를 \n휴지통에 옮기시겠습니까?"
+
+#: ../src/iog-window.c:3216
+#, c-format
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr "\"%s\"에 대한 휴지통이 없습니다. 이 그림을 완전히 제거하시겠습니까?"
+
+#: ../src/iog-window.c:3221
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] "정말로 선택한 그림 %d개를\n휴지통에 옮기시겠습니까?"
+
+#: ../src/iog-window.c:3226
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr "선택한 그림 중에 휴지통으로 옮기지 못해서 완전히 제거할 파일이 있습니다. 계속 하시겠습니까?"
+
+#: ../src/iog-window.c:3243 ../src/iog-window.c:3727 ../src/iog-window.c:3754
+msgid "Move to _Trash"
+msgstr "휴지통으로 옮기기(_T)"
+
+#: ../src/iog-window.c:3245
+msgid "_Do not ask again during this session"
+msgstr "이 세션에서 다시 묻지 않기(_D)"
+
+#: ../src/iog-window.c:3290 ../src/iog-window.c:3304
+#, c-format
+msgid "Couldn't access trash."
+msgstr "휴지통에 접근할 수 없습니다."
+
+#: ../src/iog-window.c:3312
+#, c-format
+msgid "Couldn't delete file"
+msgstr "파일을 삭제할 수 없습니다"
+
+#: ../src/iog-window.c:3409
+#, c-format
+msgid "Error on deleting image %s"
+msgstr "%s 그림을 삭제하는 데 오류가 발생했습니다"
+
+#: ../src/iog-window.c:3651
+msgid "_Image"
+msgstr "그림(_I)"
+
+#: ../src/iog-window.c:3652
+msgid "_Edit"
+msgstr "편집(_E)"
+
+#: ../src/iog-window.c:3653
+msgid "_View"
+msgstr "보기(_V)"
+
+#: ../src/iog-window.c:3654
+msgid "_Go"
+msgstr "이동(_G)"
+
+#: ../src/iog-window.c:3655
+msgid "_Tools"
+msgstr "도구(_T)"
+
+#: ../src/iog-window.c:3656
+msgid "_Help"
+msgstr "도움말(_H)"
+
+#: ../src/iog-window.c:3658
+msgid "_Open…"
+msgstr "열기(_O)…"
+
+#: ../src/iog-window.c:3659
+msgid "Open a file"
+msgstr "파일을 엽니다"
+
+#: ../src/iog-window.c:3661
+msgid "_Close"
+msgstr "닫기(_C)"
+
+#: ../src/iog-window.c:3662
+msgid "Close window"
+msgstr "창 닫기"
+
+#: ../src/iog-window.c:3664
+msgid "T_oolbar"
+msgstr "도구 모음(_O)"
+
+#: ../src/iog-window.c:3665
+msgid "Edit the application toolbar"
+msgstr "도구 모음을 고칩니다"
+
+#: ../src/iog-window.c:3667
+msgid "Prefere_nces"
+msgstr "기본 설정(_N)"
+
+#: ../src/iog-window.c:3668
+msgid "Preferences for Eye of GDE2"
+msgstr "마테의 눈 기본 설정"
+
+#: ../src/iog-window.c:3670
+msgid "_Contents"
+msgstr "차례(_C)"
+
+#: ../src/iog-window.c:3671
+msgid "Help on this application"
+msgstr "이 프로그램에 대한 정보"
+
+#: ../src/iog-window.c:3674
+msgid "About this application"
+msgstr "이 프로그램 정보"
+
+#: ../src/iog-window.c:3679
+msgid "_Toolbar"
+msgstr "도구 모음(_T)"
+
+#: ../src/iog-window.c:3680
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "현재 창의 도구 모음 표시 여부를 바꿉니다"
+
+#: ../src/iog-window.c:3682
+msgid "_Statusbar"
+msgstr "상태 표시줄(_S)"
+
+#: ../src/iog-window.c:3683
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "현재 창의 상태 표시줄 표시 여부를 바꿉니다"
+
+#: ../src/iog-window.c:3685
+msgid "_Image Collection"
+msgstr "그림 모음(_I)"
+
+#: ../src/iog-window.c:3686
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "현재 창의 그림 모음 창 보기 여부를 바꿉니다"
+
+#: ../src/iog-window.c:3688
+msgid "Side _Pane"
+msgstr "가장자리 창(_P)"
+
+#: ../src/iog-window.c:3689
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "현재 창에서 가장자리 창을 보기 여부를 바꿉니다"
+
+#: ../src/iog-window.c:3694
+msgid "_Save"
+msgstr "저장(_S)"
+
+#: ../src/iog-window.c:3695
+msgid "Save changes in currently selected images"
+msgstr "현재 선택한 그림의 바뀐 사항을 저장합니다"
+
+#: ../src/iog-window.c:3697
+msgid "Open _with"
+msgstr "다른 프로그램으로 열기(_W)"
+
+#: ../src/iog-window.c:3698
+msgid "Open the selected image with a different application"
+msgstr "선택한 그림을 다른 프로그램에서 엽니다"
+
+#: ../src/iog-window.c:3700
+msgid "Save _As…"
+msgstr "다른 이름으로 저장(_A)…"
+
+#: ../src/iog-window.c:3701
+msgid "Save the selected images with a different name"
+msgstr "선택한 그림을 다른 이름으로 저장합니다"
+
+#: ../src/iog-window.c:3703
+msgid "_Print…"
+msgstr "인쇄(_P)…"
+
+#: ../src/iog-window.c:3704
+msgid "Print the selected image"
+msgstr "선택한 그림을 인쇄합니다"
+
+#: ../src/iog-window.c:3706
+msgid "Prope_rties"
+msgstr "속성(_R)"
+
+#: ../src/iog-window.c:3707
+msgid "Show the properties and metadata of the selected image"
+msgstr "선택한 그림의 속성과 메타데이터를 봅니다"
+
+#: ../src/iog-window.c:3709
+msgid "_Undo"
+msgstr "실행 취소(_U)"
+
+#: ../src/iog-window.c:3710
+msgid "Undo the last change in the image"
+msgstr "그림에서 마지막에 바꾼 사항을 실행 취소합니다"
+
+#: ../src/iog-window.c:3712
+msgid "Flip _Horizontal"
+msgstr "가로 방향으로 뒤집기(_H)"
+
+#: ../src/iog-window.c:3713
+msgid "Mirror the image horizontally"
+msgstr "그림을 가로 방향으로 뒤바꿉니다"
+
+#: ../src/iog-window.c:3715
+msgid "Flip _Vertical"
+msgstr "세로 방향으로 뒤집기(_V)"
+
+#: ../src/iog-window.c:3716
+msgid "Mirror the image vertically"
+msgstr "그림을 세로 방향으로 뒤바꿉니다"
+
+#: ../src/iog-window.c:3718
+msgid "_Rotate Clockwise"
+msgstr "시계 방향 회전(_R)"
+
+#: ../src/iog-window.c:3719
+msgid "Rotate the image 90 degrees to the right"
+msgstr "그림을 오른쪽 90도만큼 회전합니다"
+
+#: ../src/iog-window.c:3721
+msgid "Rotate Counterc_lockwise"
+msgstr "시계 반대 방향 회전(_L)"
+
+#: ../src/iog-window.c:3722
+msgid "Rotate the image 90 degrees to the left"
+msgstr "그림을 왼쪽 90도만큼 회전합니다"
+
+#: ../src/iog-window.c:3724
+msgid "Set as _Desktop Background"
+msgstr "바탕 화면 배경으로 설정(_D)"
+
+#: ../src/iog-window.c:3725
+msgid "Set the selected image as the desktop background"
+msgstr "선택한 그림을 바탕 화면 배경으로 설정합니다"
+
+#: ../src/iog-window.c:3728
+msgid "Move the selected image to the trash folder"
+msgstr "선택한 그림을 휴지통 폴더로 옮깁니다"
+
+#: ../src/iog-window.c:3730
+msgid "_Copy"
+msgstr "복사(_C)"
+
+#: ../src/iog-window.c:3731
+msgid "Copy the selected image to the clipboard"
+msgstr "선택한 그림을 클립보드에 복사"
+
+#: ../src/iog-window.c:3733 ../src/iog-window.c:3745 ../src/iog-window.c:3748
+msgid "_Zoom In"
+msgstr "확대(_Z)"
+
+#: ../src/iog-window.c:3734 ../src/iog-window.c:3746
+msgid "Enlarge the image"
+msgstr "그림을 크게 확대해서 봅니다"
+
+#: ../src/iog-window.c:3736 ../src/iog-window.c:3751
+msgid "Zoom _Out"
+msgstr "축소(_O)"
+
+#: ../src/iog-window.c:3737 ../src/iog-window.c:3749 ../src/iog-window.c:3752
+msgid "Shrink the image"
+msgstr "그림을 작게 축소해서 봅니다"
+
+#: ../src/iog-window.c:3739
+msgid "_Normal Size"
+msgstr "보통 크기(_N)"
+
+#: ../src/iog-window.c:3740
+msgid "Show the image at its normal size"
+msgstr "그림을 원래 크기로 봅니다"
+
+#: ../src/iog-window.c:3742
+msgid "_Best Fit"
+msgstr "알맞게 맞추기(_B)"
+
+#: ../src/iog-window.c:3743
+msgid "Fit the image to the window"
+msgstr "그림을 창 크기에 맞춥니다"
+
+#: ../src/iog-window.c:3760
+msgid "_Fullscreen"
+msgstr "전체 화면(_F)"
+
+#: ../src/iog-window.c:3761
+msgid "Show the current image in fullscreen mode"
+msgstr "현재 그림을 전체화면 모드에서 봅니다"
+
+#: ../src/iog-window.c:3763
+msgid "Pause Slideshow"
+msgstr "슬라이드 쇼 일시 정지"
+
+#: ../src/iog-window.c:3764
+msgid "Pause or resume the slideshow"
+msgstr "슬라이드 쇼를 잠시 멈추거나 재개합니다"
+
+#: ../src/iog-window.c:3769 ../src/iog-window.c:3784
+msgid "_Previous Image"
+msgstr "이전 그림(_P)"
+
+#: ../src/iog-window.c:3770
+msgid "Go to the previous image of the collection"
+msgstr "그림 모음의 이전 그림으로 이동합니다"
+
+#: ../src/iog-window.c:3772
+msgid "_Next Image"
+msgstr "다음 그림(_N)"
+
+#: ../src/iog-window.c:3773
+msgid "Go to the next image of the collection"
+msgstr "그림 모음의 다음 그림으로 이동합니다"
+
+#: ../src/iog-window.c:3775 ../src/iog-window.c:3787
+msgid "_First Image"
+msgstr "처음 그림(_F)"
+
+#: ../src/iog-window.c:3776
+msgid "Go to the first image of the collection"
+msgstr "그림 모음의 처음 그림으로 이동합니다"
+
+#: ../src/iog-window.c:3778 ../src/iog-window.c:3790
+msgid "_Last Image"
+msgstr "마지막 그림(_L)"
+
+#: ../src/iog-window.c:3779
+msgid "Go to the last image of the collection"
+msgstr "그림 모음의 마지막 그림으로 이동합니다"
+
+#: ../src/iog-window.c:3781
+msgid "_Random Image"
+msgstr "임의의 그림(_R)"
+
+#: ../src/iog-window.c:3782
+msgid "Go to a random image of the collection"
+msgstr "그림 모음에서 임의의 그림으로 이동합니다"
+
+#: ../src/iog-window.c:3796
+msgid "S_lideshow"
+msgstr "슬라이드 쇼(_L)"
+
+#: ../src/iog-window.c:3797
+msgid "Start a slideshow view of the images"
+msgstr "그림으로 슬라이드 쇼를 시작합니다."
+
+#: ../src/iog-window.c:3863
+msgid "Previous"
+msgstr "이전"
+
+#: ../src/iog-window.c:3867
+msgid "Next"
+msgstr "다음"
+
+#: ../src/iog-window.c:3871
+msgid "Right"
+msgstr "오른쪽"
+
+#: ../src/iog-window.c:3874
+msgid "Left"
+msgstr "왼쪽"
+
+#: ../src/iog-window.c:3877
+msgid "In"
+msgstr "확대"
+
+#: ../src/iog-window.c:3880
+msgid "Out"
+msgstr "축소"
+
+#: ../src/iog-window.c:3883
+msgid "Normal"
+msgstr "보통"
+
+#: ../src/iog-window.c:3886
+msgid "Fit"
+msgstr "맞추기"
+
+#: ../src/iog-window.c:3889
+msgid "Collection"
+msgstr "그림 모음"
+
+#: ../src/iog-window.c:3892
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr "휴지통"
+
+#: ../src/iog-window.c:4245
+#, c-format
+msgid "Edit the current image using %s"
+msgstr "%s 프로그램으로 현재 그림 편집"
+
+#: ../src/iog-window.c:4247
+msgid "Edit Image"
+msgstr "그림 편집"
+
+#: ../src/main.c:80
+msgid "Open in fullscreen mode"
+msgstr "전체화면 모드로 열기"
+
+#: ../src/main.c:81
+msgid "Disable image collection"
+msgstr "그림 모음 사용하지 않음"
+
+#: ../src/main.c:82
+msgid "Open in slideshow mode"
+msgstr "슬라이드쇼 모드로 열기"
+
+#: ../src/main.c:84
+msgid "Start a new instance instead of reusing an existing one"
+msgstr "현재 실행 중인 창을 사용하지 않고 새로 시작합니다"
+
+#: ../src/main.c:87
+msgid "Show the application's version"
+msgstr "프로그램 버전 표시"
+
+#: ../src/main.c:88
+msgid "[FILE…]"
+msgstr "[파일…]"
+
+#. I18N: The '%s' is replaced with iog's command name.
+#: ../src/main.c:219
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "전체 명령어 옵션 목록을 보려면 '%s --help' 명령을 실행하십시오."

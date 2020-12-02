@@ -1,0 +1,95 @@
+Eye of GDE2: an image viewing and cataloging program
+-----------------------------------------------------
+
+Perfect vision soup:
+
+	- 1 cauldron of snake broth
+	- 2 vampire ears
+	- 4 legs of tarantula
+	- 1 nyan cat
+	- 1 eye of gde2
+
+
+Description
+-----------
+
+This is the Eye of GDE2, an image viewer program.  It is meant to be
+a fast and functional image viewer.
+
+Eye of GDE2 is a fork of Eye of GNOME.
+
+Requirements
+------------
+
+This package requires the following modules to be installed: glib,
+GTK+, gde2-desktop, gio, gdk-pixbuf, shared-mime-info.
+
+You can get these packages from your favourite GDE2 FTP mirror or at
+http://pub.gde2-desktop.org/ or from other sources where GDE2
+packages are distributed. shared-mime-info can be downloaded
+from the freedesktop.org website.
+
+
+Optional Libraries
+------------------
+
+'Eye of GDE2' supports the reading of EXIF information stored in
+images by digital cameras. To get this working, you need the optional
+libexif library. It is available at http://libexif.sourceforge.net.
+If you also want to preserve your EXIF data on save make sure you have
+libjpeg installed, including the development files.
+
+In order to make 'Eye of GDE2' work as a single instance application you'll
+need D-Bus installed in your system. You can get it from
+http://www.freedesktop.org/wiki/Software/dbus .
+
+Other optional dependencies include Little cms for color management,
+Python, pygtk, and gde2-python for python plugins support, and
+Exempi for XMP metadata reading.
+
+Availability
+------------
+
+The bleeding-edge version of this package is always available from the GDE2
+GIT repository (instructions at http://wiki.gde2-desktop.org/).
+Released versions are available at http://pub.gde2-desktop.org/.
+
+Webpage
+-------
+
+You can find screenshots and the latest news about 'Eye of GDE2' in
+http://wiki.gde2-desktop.org/doku.php/applications:iog.
+
+
+Reporting bugs
+--------------
+
+Please use the GDE2 bug tracking system to report bugs.  You can
+reach it at https://github.com/gde2-desktop/iog/issues.
+
+
+License
+-------
+
+This program is released under the terms of the GNU General Public
+License.  Please see the file COPYING for details.
+
+
+Authors
+-------
+
+Perberos <perberos@gmail.com>
+Steve Zesch <stevezesch2@gmail.com>
+Stefano Karapetsas <stefano@karapetsas.com>
+
+Previous GNOME Maintainer: Lucas Rocha (lucasr@gnome.org)
+
+Felix Riemann (friemann@svn.gnome.org)
+Claudio Saaevedra (csaavedra@igalia.com)
+Tim Gerla (tim+gde2bugs@gerla.net)
+Arik Devens (arik@gnome.org)
+Federico Mena-Quintero (federico@gnu.org)
+Jens Finke (jens@gnome.org)
+Lutz Müller (urc8@rz.uni-karlsruhe.de)
+Martin Baulig (martin@gnome.org)
+Michael Meeks (michael@ximian.com)

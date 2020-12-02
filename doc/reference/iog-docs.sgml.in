@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+               "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd" [
+<!ENTITY version SYSTEM "version.xml">
+]>
+<book id="index" xmlns:xi="http://www.w3.org/2003/XInclude">
+  <bookinfo>
+    <title>Eye of GDE2 Reference Manual</title>
+    <releaseinfo>
+      for Eye of GDE2 &version;
+    </releaseinfo>
+  </bookinfo>
+  <reference>
+    <title>API Reference</title>
+    <chapter>
+    <title>User Interface</title>
+      <xi:include href="xml/iog-properties-dialog.xml"/>
+      <xi:include href="xml/iog-list-store.xml"/>
+      <xi:include href="xml/iog-file-chooser.xml"/>
+      <xi:include href="xml/iog-thumb-nav.xml"/>
+      <xi:include href="xml/iog-thumb-view.xml"/>
+      <xi:include href="xml/iog-scroll-view.xml"/>
+      <xi:include href="xml/iog-window.xml"/>
+      <xi:include href="xml/iog-statusbar.xml"/>
+      @IOG_DOC_EXIF_START@
+      <xi:include href="xml/iog-exif-details.xml"/>
+      @IOG_DOC_EXIF_STOP@
+      <xi:include href="xml/iog-dialog.xml"/>
+      <xi:include href="xml/iog-sidebar.xml"/>
+      <xi:include href="xml/iog-thumbnail.xml"/>
+      <xi:include href="xml/iog-save-as-dialog-helper.xml"/>
+      <xi:include href="xml/iog-error-message-area.xml"/>
+    </chapter>
+
+    <chapter>
+      <title>Image data and manipulation</title>
+      <xi:include href="xml/iog-image.xml"/>
+      <xi:include href="xml/iog-image-save-info.xml"/>
+      <xi:include href="xml/iog-transform.xml"/>
+      <xi:include href="xml/iog-metadata-reader.xml"/>
+      <xi:include href="xml/iog-metadata-reader-png.xml"/>
+      <xi:include href="xml/iog-metadata-reader-jpg.xml"/>
+      <xi:include href="xml/iog-clipboard-handler.xml"/>
+    </chapter>
+
+    <chapter>
+      <title>Printing</title>
+      <xi:include href="xml/iog-print-preview.xml"/>
+      <xi:include href="xml/iog-print-image-setup.xml"/>
+      <xi:include href="xml/iog-print.xml"/>
+    </chapter>
+
+    <chapter>
+      <title>Application and configuration</title>
+      <xi:include href="xml/iog-preferences-dialog.xml"/>
+      <xi:include href="xml/iog-application.xml"/>
+      <xi:include href="xml/iog-session.xml"/>
+      <xi:include href="xml/iog-config-keys.xml"/>
+    </chapter>
+
+    <chapter>
+      <title>Plugins</title>
+      <xi:include href="xml/iog-plugin.xml"/>
+      <xi:include href="xml/iog-plugin-manager.xml"/>
+      <xi:include href="xml/iog-plugin-engine.xml"/>
+    </chapter>
+
+    <chapter>
+      <title>Utilities</title>
+      <xi:include href="xml/iog-debug.xml"/>
+      <xi:include href="xml/iog-uri-converter.xml"/>
+      <xi:include href="xml/iog-util.xml"/>
+      @IOG_DOC_EXIF_START@
+      <xi:include href="xml/iog-exif-util.xml"/>
+      @IOG_DOC_EXIF_STOP@
+      <xi:include href="xml/iog-pixbuf-util.xml"/>
+      <xi:include href="xml/zoom.xml"/>
+      <xi:include href="xml/uta.xml"/>
+    </chapter>
+
+    <chapter>
+      <title>Asynchronous jobs</title>
+      <xi:include href="xml/iog-jobs.xml"/>
+      <xi:include href="xml/iog-job-queue.xml"/>
+    </chapter>
+  </reference>
+
+  <part>
+    <title>Appendix</title>
+    <index id="api-index">
+      <title>API Index</title>
+      <xi:include href="xml/api-index-full.xml"><xi:fallback /></xi:include>
+    </index>
+  </part>
+</book>

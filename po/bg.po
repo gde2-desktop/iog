@@ -1,0 +1,1503 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Georgi Georgiev <georgiev_1994@abv.bg>, 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-13 16:02+0300\n"
+"PO-Revision-Date: 2016-03-23 13:11+0000\n"
+"Last-Translator: Georgi Georgiev <georgiev_1994@abv.bg>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/gde2/GDE2/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translaters: This string is for a toggle to display a toolbar.
+#. * The name of the toolbar is automatically computed from the widgets
+#. * on the toolbar, and is placed at the %s. Note the _ before the %s
+#. * which is used to add mnemonics. We know that this is likely to
+#. * produce duplicates, but don't worry about it. If your language
+#. * normally has a mnemonic at the start, please use the _. If not,
+#. * please remove.
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:948
+#, c-format
+msgid "Show “_%s”"
+msgstr "Показване на „_%s“"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1416
+msgid "_Move on Toolbar"
+msgstr "_Преместване по лентата с инструменти"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1417
+msgid "Move the selected item on the toolbar"
+msgstr "Преместване на избрания елемент в лентата с инструменти"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1418
+msgid "_Remove from Toolbar"
+msgstr "_Премахване от лентата"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1419
+msgid "Remove the selected item from the toolbar"
+msgstr "Премахване на избрания елемент от лентата с инструменти"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1420
+msgid "_Delete Toolbar"
+msgstr "_Изтриване на лентата с инструменти"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1421
+msgid "Remove the selected toolbar"
+msgstr "Премахване на избраната лента с инструменти"
+
+#: ../cut-n-paste/toolbar-editor/egg-toolbar-editor.c:515
+msgid "Separator"
+msgstr "Разделител"
+
+#: ../data/iog.appdata.xml.in.h:1 ../src/iog-window.c:2596
+msgid "Eye of GDE2"
+msgstr "Eye of GDE2"
+
+#: ../data/iog.appdata.xml.in.h:2
+msgid "Simple image viewer"
+msgstr "Опростен преглед на изображения"
+
+#: ../data/iog.appdata.xml.in.h:3
+msgid ""
+"<p> Eye of GDE2 is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr "<p> Eye of GDE2 е опростена програма за преглед на изображения. Когато изображението е заредено, можете да го приближите или въртите и да преглеждате други изображения от същата директория. </p>"
+
+#: ../data/iog.desktop.in.in.h:1 ../src/main.c:73 ../src/main.c:275
+msgid "Eye of GDE2 Image Viewer"
+msgstr "Програма за преглед на изображения EoG"
+
+#: ../data/iog.desktop.in.in.h:2
+msgid "Browse and rotate images"
+msgstr "Преглед и завъртане на изображения"
+
+#: ../data/iog-image-properties-dialog.ui.h:1
+msgid "Image Properties"
+msgstr "Настройки на изображението"
+
+#: ../data/iog-image-properties-dialog.ui.h:2
+msgid "Name:"
+msgstr "Име:"
+
+#: ../data/iog-image-properties-dialog.ui.h:3
+msgid "Width:"
+msgstr "Широчина:"
+
+#: ../data/iog-image-properties-dialog.ui.h:4
+msgid "Height:"
+msgstr "Височина:"
+
+#: ../data/iog-image-properties-dialog.ui.h:5
+msgid "Type:"
+msgstr "Вид:"
+
+#: ../data/iog-image-properties-dialog.ui.h:6
+msgid "Bytes:"
+msgstr "Байтове:"
+
+#: ../data/iog-image-properties-dialog.ui.h:7
+msgid "Location:"
+msgstr "Местоположение:"
+
+#: ../data/iog-image-properties-dialog.ui.h:8
+msgid "General"
+msgstr "Общи"
+
+#: ../data/iog-image-properties-dialog.ui.h:9
+msgid "Aperture Value:"
+msgstr "Стойност на блендата:"
+
+#: ../data/iog-image-properties-dialog.ui.h:10
+msgid "Exposure Time:"
+msgstr "Време на експозицията:"
+
+#: ../data/iog-image-properties-dialog.ui.h:11
+msgid "Focal Length:"
+msgstr "Фокусно разстояние:"
+
+#: ../data/iog-image-properties-dialog.ui.h:12
+msgid "Flash:"
+msgstr "Светкавица:"
+
+#: ../data/iog-image-properties-dialog.ui.h:13
+msgid "ISO Speed Rating:"
+msgstr "Чувствителност по ISO:"
+
+#: ../data/iog-image-properties-dialog.ui.h:14
+msgid "Metering Mode:"
+msgstr "Режим на мерене:"
+
+#: ../data/iog-image-properties-dialog.ui.h:15
+msgid "Camera Model:"
+msgstr "Модел на фотоапарата:"
+
+#: ../data/iog-image-properties-dialog.ui.h:16
+msgid "Date/Time:"
+msgstr "Дата и час:"
+
+#: ../data/iog-image-properties-dialog.ui.h:17
+msgid "Description:"
+msgstr "Описание:"
+
+#: ../data/iog-image-properties-dialog.ui.h:18
+msgid "Keywords:"
+msgstr "Ключови думи:"
+
+#: ../data/iog-image-properties-dialog.ui.h:19
+msgid "Author:"
+msgstr "Автор:"
+
+#: ../data/iog-image-properties-dialog.ui.h:20
+msgid "Copyright:"
+msgstr "Авторски права:"
+
+#: ../data/iog-image-properties-dialog.ui.h:21
+msgid "Details"
+msgstr "Подробности"
+
+#: ../data/iog-image-properties-dialog.ui.h:22
+msgid "Metadata"
+msgstr "Допълнителни данни"
+
+#: ../data/iog-image-properties-dialog.ui.h:23
+msgid "_Previous"
+msgstr "_Предишно"
+
+#: ../data/iog-image-properties-dialog.ui.h:24
+msgid "_Next"
+msgstr "_Следващо"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:1
+msgid "Save As"
+msgstr "Запазване като"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:3
+#, no-c-format
+msgid "<b>%f:</b> original filename"
+msgstr "<b>%f:</b> оригинално име на файла"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:5
+#, no-c-format
+msgid "<b>%n:</b> counter"
+msgstr "<b>%n:</b> брояч"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:6
+msgid "Filename format:"
+msgstr "Формат на името:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:7
+msgid "Choose a folder"
+msgstr "Изберете папка"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:8
+msgid "Destination folder:"
+msgstr "Целева папка:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:9
+msgid "File Path Specifications"
+msgstr "Характеристики на файловия път"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:10
+msgid "Start counter at:"
+msgstr "Стартиране брояча на:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:11
+msgid "Replace spaces with underscores"
+msgstr "Замяна на интервалите с долни черти"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:12
+msgid "Options"
+msgstr "Настройки"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:13
+msgid "Rename from:"
+msgstr "Преименуване от:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:14
+msgid "To:"
+msgstr "На:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:15
+msgid "File Name Preview"
+msgstr "Преглед на файловото име"
+
+#: ../data/iog-preferences-dialog.ui.h:1
+msgid "Eye of GDE2 Preferences"
+msgstr "Настройки на програмата"
+
+#: ../data/iog-preferences-dialog.ui.h:2
+msgid "Image Enhancements"
+msgstr "Подобряване на изображението"
+
+#: ../data/iog-preferences-dialog.ui.h:3
+msgid "Smooth images when zoomed-_out"
+msgstr "Заглаждане при _намаляване"
+
+#: ../data/iog-preferences-dialog.ui.h:4
+msgid "Smooth images when zoomed-_in"
+msgstr "Заглаждане при _увеличаване"
+
+#: ../data/iog-preferences-dialog.ui.h:5
+msgid "_Automatic orientation"
+msgstr "_Автоматично завъртане"
+
+#: ../data/iog-preferences-dialog.ui.h:6
+msgid "Background"
+msgstr "Фон"
+
+#: ../data/iog-preferences-dialog.ui.h:7
+msgid "As custom color:"
+msgstr "Като цвят:"
+
+#: ../data/iog-preferences-dialog.ui.h:8
+#: ../data/org.gde2.iog.gschema.xml.in.h:3
+msgid "Background Color"
+msgstr "Цвят на фона"
+
+#: ../data/iog-preferences-dialog.ui.h:9
+msgid "Transparent Parts"
+msgstr "Прозрачни части"
+
+#: ../data/iog-preferences-dialog.ui.h:10
+msgid "As check _pattern"
+msgstr "Като _шахматна дъска"
+
+#: ../data/iog-preferences-dialog.ui.h:11
+msgid "As custom c_olor:"
+msgstr "Като _цвят:"
+
+#: ../data/iog-preferences-dialog.ui.h:12
+msgid "Color for Transparent Areas"
+msgstr "Оцветяване на прозрачните зони"
+
+#: ../data/iog-preferences-dialog.ui.h:13
+msgid "As _background"
+msgstr "Като _фон"
+
+#: ../data/iog-preferences-dialog.ui.h:14
+msgid "Image View"
+msgstr "Преглед на изображения"
+
+#: ../data/iog-preferences-dialog.ui.h:15
+msgid "Image Zoom"
+msgstr "Мащаб"
+
+#: ../data/iog-preferences-dialog.ui.h:16
+msgid "E_xpand images to fit screen"
+msgstr "Раз_ширяване на изображенията за напасване към екрана"
+
+#: ../data/iog-preferences-dialog.ui.h:17
+msgid "Sequence"
+msgstr "Последователност"
+
+#: ../data/iog-preferences-dialog.ui.h:18
+msgid "_Switch image after:"
+msgstr "_Смяна на изображението след:"
+
+#: ../data/iog-preferences-dialog.ui.h:19
+msgid "seconds"
+msgstr "секунди"
+
+#: ../data/iog-preferences-dialog.ui.h:20
+msgid "_Random sequence"
+msgstr "Случайна последователност"
+
+#: ../data/iog-preferences-dialog.ui.h:21
+msgid "_Loop sequence"
+msgstr "П_оследователност на завъртанията"
+
+#: ../data/iog-preferences-dialog.ui.h:22
+msgid "Slideshow"
+msgstr "Прожекция"
+
+#: ../data/iog-preferences-dialog.ui.h:23
+msgid "Plugins"
+msgstr "Приставки"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:1
+msgid "Automatic orientation"
+msgstr "Автоматично завъртане"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:2
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr "Дали изображението да бъде завъртано автоматично в зависимост на ориентацията в EXIF."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:4
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr "Цветът, който се използва за запълване на областта зад изображението. Ако ключът use-background-color е лъжа, цветът се определя от текущата тема на GTK+."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:5
+msgid "Use a custom background color"
+msgstr "Използване на цвят на фона, избран от потребителя"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:6
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr "Ако е истина, цветът зададен чрез ключа background-color, ще се използва за запълване на областта зад изображението. Ако е лъжа, цветът ще се определи от текущата тема на GTK+."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:7
+msgid "Interpolate Image"
+msgstr "Интерполиране на изображението"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:8
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr "Дали изображението да бъде интерполирано при увеличение или не. Това води до по-добро качество и по-бавно показване."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:9
+msgid "Extrapolate Image"
+msgstr "Екстраполиране на изображението"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:10
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr "Дали изображението да бъде екстраполирано при увеличение или не. Това води до по-мъгляво качество при големи увеличения и по-бавно показване."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:11
+msgid "Transparency indicator"
+msgstr "Индикатор на прозрачността"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:12
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr "Определя как прозрачността да бъде показвана. Проверява се валидността на стойностите - цвят и без определение. Ако цвят е избран, копчето за транс-цветността определя величината на цвета."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:13
+msgid "Scroll wheel zoom"
+msgstr "Увеличение с колелцето на мишката"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:14
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr "Включване на възможност за увеличение с колелцето на мишката."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:15
+msgid "Zoom multiplier"
+msgstr "Коефициент на увеличение"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:17
+#, no-c-format
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr "Коефициентът, който да се използва при увеличение с колелцето на мишката. Тази стойност определя стъпката за увеличение при всяко движение на колелцето. Например 0.05 означава коефициент 5% увеличение или намаляване при движение на колелцето, а 1.00 означава 100% промяна на увеличението."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:18
+msgid "Transparency color"
+msgstr "Цвят на прозрачността"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:19
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "Ако ключът за прозрачността има стойността „COLOR“, тогава той определя цвета, който ще бъде използван за изобразяване на прозрачността."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:20
+msgid "Randomize the image sequence"
+msgstr "Случайно повторение на изображенията"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:21
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr "Дали последователността от изображения да бъде показвана чрез случаен процес на повтаряне."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:22
+msgid "Loop through the image sequence"
+msgstr "Повтаряне на последователността на изображенията"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:23
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr "Дали последователността от изображения да бъде показвана чрез безкраен процес на повтаряне."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:25
+#, no-c-format
+msgid "Allow zoom greater than 100% initially"
+msgstr "Позволяване на по-голям мащаб от 100%"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:26
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "Ако тук е ЛЪЖА, малките изображения няма да бъдат разтягани, за да паснат на големината на екрана."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:27
+msgid "Delay in seconds until showing the next image"
+msgstr "Секунди между показване на изображенията"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:28
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "Стойност, по-голяма от 0, определя секундите, в които изображението да стои на екрана докато не бъде заменено от следващото. 0 спира автоматичното разглеждане."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:29
+msgid "Show/Hide the window toolbar."
+msgstr "Показване/скриване на лентата с инструментите."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:30
+msgid "Show/Hide the window statusbar."
+msgstr "Показване/скриване на лентата за състоянието."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:31
+msgid "Show/Hide the image collection pane."
+msgstr "Показване/скриване на панела за колекцията."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:32
+msgid "Image collection pane position."
+msgstr "Позиция на панела за колекцията."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:33
+msgid "Whether the image collection pane should be resizable."
+msgstr "Дали панелът на колекциите да се преоразмерява или не."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:34
+msgid "Show/Hide the window side pane."
+msgstr "Показване/скриване на страничния панел."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:35
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr "Показване/скриване на плъзгачите на панела за колекцията."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:36
+msgid "Close main window without asking to save changes."
+msgstr "Затвори главния прозорец без запазване на промените."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:37
+msgid "Trash images without asking"
+msgstr "Преместване в кошчето без питане"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:38
+msgid ""
+"If activated, Eye of GDE2 won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr "Ако е истина, програмата няма да пита за потвърждение при преместване на изображенията в кошчето. Когато поради някаква причина изображенията не могат да бъдат преместени в кошчето, а ще бъдат изтрити, все пак ще се иска потвърждение."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:39
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr "Дали допълнителните подробни данни от прозореца с информация за изображението да се преместят на собствена страница."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:40
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr "Ако е истина, допълнителните подробни за изображението ще бъдат преместени в собствен прозорец. Така програмата ще се ползва по-лесно на малки екрани (напр. при ултра преносими компютри). Ако е лъжа, данните се показват в страницата „Допълнителни данни“."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:41
+msgid "External program to use for editing images"
+msgstr "Изполване на външна програма за редактиране на изображения."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:42
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr "Името на иконката на десктопа (включително \".desktop\") на програмата за редактиране на изображения (когато \"редактирай изображението\" е натиснат). Остави празно за да изключиш тази опция."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:43
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr "Дали прозорецът за избор на изображения ще показва потребителската папка за изображения, ако не е заредено изображение."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:44
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr "Ако е истина и в активния прозорец не е заредено изображение, прозорецът за избор на изображения ще показва потребителската папка за изображения според XDG. Ако е лъжа или не е настроена папка за изображения, ще се покаже текущата работна папка."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:45
+msgid "Active plugins"
+msgstr "Включени приставки"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:46
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .iog-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr "Списък с включените приставки. Не съдържа „местоположението“ на включените приставки. За да разберете къде е дадена приставка, проверете във файла .iog-plugin."
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:1
+msgid "Fullscreen with double-click"
+msgstr "Цял екран с двойно натискане с мишката"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:2
+msgid "Activate fullscreen mode with double-click"
+msgstr "Активиране на режим на цял екран чрез двойно натискане с мишката"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:1
+msgid "Reload Image"
+msgstr "Презареждане на изображението"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:2
+msgid "Reload current image"
+msgstr "Презареждане на текущото изображение"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:1
+msgid "Date in statusbar"
+msgstr "Показване дата в лентата за състояние"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:2
+msgid "Shows the image date in the window statusbar"
+msgstr "Показва датата на изображението в лентата за състояние"
+
+#: ../src/iog-application.c:124
+msgid "Running in fullscreen mode"
+msgstr "Изпълнение в режим на цял екран"
+
+#: ../src/iog-close-confirmation-dialog.c:164
+msgid "Close _without Saving"
+msgstr "Затваряне _без запазване"
+
+#: ../src/iog-close-confirmation-dialog.c:197
+msgid "Question"
+msgstr "Въпрос"
+
+#: ../src/iog-close-confirmation-dialog.c:378
+msgid "If you don't save, your changes will be lost."
+msgstr "Ако не запазите промените, те ще бъдат изгубени."
+
+#: ../src/iog-close-confirmation-dialog.c:421
+#, c-format
+msgid "Save changes to image \"%s\" before closing?"
+msgstr "Запазване на промените в „%s“ преди затваряне?"
+
+#: ../src/iog-close-confirmation-dialog.c:628
+#, c-format
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] "Има %d изображение с незапазени промени. Да се запазят ли промените преди затваряне?"
+msgstr[1] "Има %d изображения с незапазени промени. Да се запазят ли промените преди затваряне?"
+
+#: ../src/iog-close-confirmation-dialog.c:645
+msgid "S_elect the images you want to save:"
+msgstr "И_зберете изображенията, които искате да се запазят:"
+
+#. Secondary label
+#: ../src/iog-close-confirmation-dialog.c:667
+msgid "If you don't save, all your changes will be lost."
+msgstr "Ако не запазите промените, те ще бъдат изгубени."
+
+#: ../src/iog-file-chooser.c:132
+msgid "File format is unknown or unsupported"
+msgstr "Файловият формат е непознат или неподдържан"
+
+#: ../src/iog-file-chooser.c:137
+msgid ""
+"Eye of GDE2 could not determine a supported writable file format based on "
+"the filename."
+msgstr "Програмата не може да определи поддържан файлов формат на основата на файловото име."
+
+#: ../src/iog-file-chooser.c:138
+msgid "Please try a different file extension like .png or .jpg."
+msgstr "Опитайте с различно разширение, като .png или .jpg."
+
+#: ../src/iog-file-chooser.c:170
+msgid "All Files"
+msgstr "Всички файлове"
+
+#: ../src/iog-file-chooser.c:175
+msgid "All Images"
+msgstr "Всички изображения"
+
+#. Filter name: First description then file extension, eg. "The PNG-Format
+#. (*.png)".
+#: ../src/iog-file-chooser.c:196
+#, c-format
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+#. Pixel size of image: width x height in pixel
+#: ../src/iog-file-chooser.c:292 ../src/iog-properties-dialog.c:137
+#: ../src/iog-properties-dialog.c:139 ../src/iog-thumb-view.c:582
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "пиксел"
+msgstr[1] "пиксела"
+
+#: ../src/iog-file-chooser.c:443
+msgid "Open Image"
+msgstr "Отваряне на изображение"
+
+#: ../src/iog-file-chooser.c:451
+msgid "Save Image"
+msgstr "Запазване на изображение"
+
+#: ../src/iog-file-chooser.c:459
+msgid "Open Folder"
+msgstr "Отваряне на папка"
+
+#: ../src/iog-image.c:562
+#, c-format
+msgid "Transformation on unloaded image."
+msgstr "Преобразуване на незаредено изображение."
+
+#: ../src/iog-image.c:590
+#, c-format
+msgid "Transformation failed."
+msgstr "Неуспешно преобразуване."
+
+#: ../src/iog-image.c:1000
+#, c-format
+msgid "EXIF not supported for this file format."
+msgstr "За този файлов формат не се поддържа EXIF."
+
+#: ../src/iog-image.c:1123
+#, c-format
+msgid "Image loading failed."
+msgstr "Неуспех при зареждане на изображението"
+
+#: ../src/iog-image.c:1652 ../src/iog-image.c:1754
+#, c-format
+msgid "No image loaded."
+msgstr "Няма заредено изображение."
+
+#: ../src/iog-image.c:1662 ../src/iog-image.c:1766
+#, c-format
+msgid "Temporary file creation failed."
+msgstr "Създаването на временния файл е неуспешно."
+
+#: ../src/iog-image-jpeg.c:384
+#, c-format
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "Временният файл за запазването на %s не може да бъде създаден"
+
+#: ../src/iog-image-jpeg.c:395
+#, c-format
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "Недостатъчна свободна памет за зареждане на файла във формат JPEG"
+
+#: ../src/iog-error-message-area.c:124
+msgid "_Retry"
+msgstr "_Нов опит"
+
+#: ../src/iog-error-message-area.c:167
+#, c-format
+msgid "Could not load image '%s'."
+msgstr "Неуспех при зареждане на изображението „%s“."
+
+#: ../src/iog-error-message-area.c:209
+#, c-format
+msgid "No images found in '%s'."
+msgstr "Не са открити изображения в „%s“."
+
+#: ../src/iog-error-message-area.c:216
+msgid "The given locations contain no images."
+msgstr "Указаното местоположение не съдържа изображения."
+
+#: ../src/iog-exif-details.c:68
+msgid "Camera"
+msgstr "Фотоапарат"
+
+#: ../src/iog-exif-details.c:69
+msgid "Image Data"
+msgstr "Данни на изображението"
+
+#: ../src/iog-exif-details.c:70
+msgid "Image Taking Conditions"
+msgstr "Условия за заснемане"
+
+#: ../src/iog-exif-details.c:71
+msgid "Maker Note"
+msgstr "Бележка на създателя"
+
+#: ../src/iog-exif-details.c:72
+msgid "Other"
+msgstr "Друг"
+
+#: ../src/iog-exif-details.c:74
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+#: ../src/iog-exif-details.c:75
+msgid "XMP IPTC"
+msgstr "XMP IPTC"
+
+#: ../src/iog-exif-details.c:76
+msgid "XMP Rights Management"
+msgstr "Управление на правата по XMP"
+
+#: ../src/iog-exif-details.c:77
+msgid "XMP Other"
+msgstr "Друго в XMP"
+
+#: ../src/iog-exif-details.c:251
+msgid "Tag"
+msgstr "Етикет"
+
+#: ../src/iog-exif-details.c:258
+msgid "Value"
+msgstr "Стойност"
+
+#. A strftime-formatted string, to display the date the image was taken.
+#: ../src/iog-exif-util.c:121 ../src/iog-exif-util.c:161
+msgid "%a, %d %B %Y  %X"
+msgstr "%A, %d %B %Y %X"
+
+#. A strftime-formatted string, to display the date the image was taken, for
+#. the case we don't have the time.
+#: ../src/iog-exif-util.c:155
+msgid "%a, %d %B %Y"
+msgstr "%A, %d %B %Y"
+
+#: ../src/iog-plugin-manager.c:55
+msgid "Plugin"
+msgstr "Приставка"
+
+#: ../src/iog-plugin-manager.c:56
+msgid "Enabled"
+msgstr "Включено"
+
+#: ../src/iog-plugin-manager.c:509 ../src/iog-window.c:3673
+msgid "_About"
+msgstr "_Относно"
+
+#: ../src/iog-plugin-manager.c:517
+msgid "C_onfigure"
+msgstr "_Настройки"
+
+#: ../src/iog-plugin-manager.c:527
+msgid "A_ctivate"
+msgstr "_Включване"
+
+#: ../src/iog-plugin-manager.c:539
+msgid "Ac_tivate All"
+msgstr "Включване на в_сички"
+
+#: ../src/iog-plugin-manager.c:544
+msgid "_Deactivate All"
+msgstr "И_зключване на всички"
+
+#: ../src/iog-plugin-manager.c:853
+msgid "Active _Plugins:"
+msgstr "_Включени приставки:"
+
+#: ../src/iog-plugin-manager.c:890
+msgid "_About Plugin"
+msgstr "_Относно приставката"
+
+#: ../src/iog-plugin-manager.c:897
+msgid "C_onfigure Plugin"
+msgstr "_Настройки на приставката"
+
+#: ../src/iog-print.c:219
+msgid "Image Settings"
+msgstr "Настройки"
+
+#: ../src/iog-print-image-setup.c:873
+msgid "Image"
+msgstr "Изображение"
+
+#: ../src/iog-print-image-setup.c:874
+msgid "The image whose printing properties will be set up"
+msgstr "Изображението, за което ще бъдат задавани настройки за печат"
+
+#: ../src/iog-print-image-setup.c:880
+msgid "Page Setup"
+msgstr "Настройки на страницата"
+
+#: ../src/iog-print-image-setup.c:881
+msgid "The information for the page where the image will be printed"
+msgstr "Информация за страницата, където ще се печата изображението"
+
+#: ../src/iog-print-image-setup.c:914 ../src/iog-print-image-setup.c:928
+msgid "Position"
+msgstr "Позиция"
+
+#: ../src/iog-print-image-setup.c:918 ../src/iog-print-image-setup.c:933
+msgid "_Left:"
+msgstr "_Ляво:"
+
+#: ../src/iog-print-image-setup.c:920 ../src/iog-print-image-setup.c:934
+msgid "_Right:"
+msgstr "_Дясно:"
+
+#: ../src/iog-print-image-setup.c:921 ../src/iog-print-image-setup.c:935
+msgid "_Top:"
+msgstr "_Горе:"
+
+#: ../src/iog-print-image-setup.c:922 ../src/iog-print-image-setup.c:936
+msgid "_Bottom:"
+msgstr "Дол_у:"
+
+#: ../src/iog-print-image-setup.c:939
+msgid "C_enter:"
+msgstr "_Центриране:"
+
+#: ../src/iog-print-image-setup.c:948
+msgid "None"
+msgstr "Никакво"
+
+#: ../src/iog-print-image-setup.c:950
+msgid "Horizontal"
+msgstr "Хоризонтално"
+
+#: ../src/iog-print-image-setup.c:952
+msgid "Vertical"
+msgstr "Вертикално"
+
+#: ../src/iog-print-image-setup.c:954
+msgid "Both"
+msgstr "По двете оси"
+
+#: ../src/iog-print-image-setup.c:980 ../src/iog-print-image-setup.c:991
+msgid "Size"
+msgstr "Размер"
+
+#: ../src/iog-print-image-setup.c:983 ../src/iog-print-image-setup.c:996
+msgid "_Width:"
+msgstr "_Ширина:"
+
+#: ../src/iog-print-image-setup.c:985 ../src/iog-print-image-setup.c:998
+msgid "_Height:"
+msgstr "_Височина:"
+
+#: ../src/iog-print-image-setup.c:1002
+msgid "_Scaling:"
+msgstr "Ма_щабиране:"
+
+#: ../src/iog-print-image-setup.c:1026
+msgid "_Unit:"
+msgstr "_Единица:"
+
+#: ../src/iog-print-image-setup.c:1035
+msgid "Millimeters"
+msgstr "Милиметри"
+
+#: ../src/iog-print-image-setup.c:1037
+msgid "Inches"
+msgstr "Инчове"
+
+#: ../src/iog-print-image-setup.c:1074
+msgid "Preview"
+msgstr "Мостра"
+
+#: ../src/iog-properties-dialog.c:154
+msgid "Unknown"
+msgstr "Непознато"
+
+#. TRANSLATORS: This is the actual focal length used when
+#. the image was taken.
+#: ../src/iog-properties-dialog.c:232
+#, c-format
+msgid "%.1f (lens)"
+msgstr "%.1f (mm)"
+
+#. Print as float to get a similar look as above.
+#. TRANSLATORS: This is the equivalent focal length assuming
+#. a 35mm film camera.
+#: ../src/iog-properties-dialog.c:243
+#, c-format
+msgid "%.1f (35mm film)"
+msgstr "%.1f (mm приравнено)"
+
+#: ../src/iog-save-as-dialog-helper.c:161
+msgid "as is"
+msgstr "както е"
+
+#. Translators: This string is displayed in the statusbar.
+#. * The first token is the image number, the second is total image
+#. * count.
+#. *
+#. * Translate to "%Id" if you want to use localized digits, or
+#. * translate to "%d" otherwise.
+#. *
+#. * Note that translating this doesn't guarantee that you get localized
+#. * digits. That needs support from your system and locale definition
+#. * too.
+#: ../src/iog-statusbar.c:134
+#, c-format
+msgid "%d / %d"
+msgstr "%d / %d"
+
+#: ../src/iog-thumb-view.c:610
+msgid "Taken on"
+msgstr "Заснето на"
+
+#: ../src/iog-uri-converter.c:984
+#, c-format
+msgid "At least two file names are equal."
+msgstr "Поне два файла имат еднакви имена."
+
+#: ../src/iog-util.c:68
+msgid "Could not display help for Eye of GDE2"
+msgstr "Ръководството на Eye of GDE2 не може да бъде показано"
+
+#: ../src/iog-util.c:116
+msgid " (invalid Unicode)"
+msgstr " (невалиден Уникод)"
+
+#. Translators: This is the string displayed in the statusbar
+#. * The tokens are from left to right:
+#. * - image width
+#. * - image height
+#. * - image size in bytes
+#. * - zoom in percent
+#: ../src/iog-window.c:516
+#, c-format
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] "%i×%i пиксел, %s — %i%%"
+msgstr[1] "%i×%i пиксела, %s — %i%%"
+
+#: ../src/iog-window.c:817
+msgid "_Reload"
+msgstr "_Презареждане"
+
+#: ../src/iog-window.c:819 ../src/iog-window.c:2717
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr "_Скриване"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:829
+#, c-format
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr "Изображението „%s“ е променено от друга програма.\nИскате ли да то да бъде заредено отново?"
+
+#: ../src/iog-window.c:1002
+#, c-format
+msgid "Use \"%s\" to open the selected image"
+msgstr "Използвайте „%s“ за отваряне на избраното изображение"
+
+#. Translators: This string is displayed in the statusbar
+#. * while saving images. The tokens are from left to right:
+#. * - the original filename
+#. * - the current image's position in the queue
+#. * - the total number of images queued for saving
+#: ../src/iog-window.c:1158
+#, c-format
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "Запазване на изображението „%s“ (%u/%u)"
+
+#: ../src/iog-window.c:1516
+#, c-format
+msgid "Opening image \"%s\""
+msgstr "Отваряне на изображението „%s“"
+
+#: ../src/iog-window.c:2214
+#, c-format
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr "Грешка при печата на файла:\n%s"
+
+#: ../src/iog-window.c:2476
+msgid "Toolbar Editor"
+msgstr "Редактор на лентата с инструменти"
+
+#: ../src/iog-window.c:2479
+msgid "_Reset to Default"
+msgstr "_Обратно към стандартните настройки"
+
+#: ../src/iog-window.c:2572
+msgid "translator-credits"
+msgstr "Ясен Праматаров <yasen@lindeas.com>\nВладимир „Kaladan“ Петков <kaladan@gmail.com>\nКрасимир „bfaf“ Чонов <mk2616@abv.bg>\nАлександър Шопов <ash@kambanaria.org>\nИвайло Вълков <ivaylo@e-valkov.org>\nГеорги Георгиев <georgiev_1994@abv.bg>\nБорислав Александров\n\nПроектът за превод на GDE2 има нужда от подкрепа.\nНаучете повече за нас на http://gde2.cult.bg\nДокладвайте за грешки на http://gde2.cult.bg/bugs"
+
+#: ../src/iog-window.c:2575
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr "Тази програма (Eye of GDE2) е свободен софтуер. Можете да я разпространявате и/или променяте под условията на Общия публичен лиценз на GNU (GNU GPL), както е публикуван от Фондацията за свободен софтуер — версия 2 на лиценза или (по ваше решение) по-късна версия.\n"
+
+#: ../src/iog-window.c:2579
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr "Тази програма се разпространява с надеждата, че ще бъде полезна, но БЕЗ НИКАКВИ ГАРАНЦИИ, дори и косвените за ПРОДАЖБА или СЪОТВЕТСТВИЕ С КАКВАТО И ДА Е УПОТРЕБА. За подробности погледнете Общия публичен лиценз на GNU.\n"
+
+#: ../src/iog-window.c:2583
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr "Трябва да сте получили копие от Общия публичен лиценз на GNU GPL заедно с тази програма. Ако не сте, пишете до Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+
+#: ../src/iog-window.c:2601
+msgid "The GDE2 image viewer."
+msgstr "Програма за преглед на изображения."
+
+#. I18N: When setting mnemonics for these strings, watch out to not
+#. clash with mnemonics from iog's menubar
+#: ../src/iog-window.c:2715
+msgid "_Open Background Preferences"
+msgstr "_Настройки на фона"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:2731
+#, c-format
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr "Изображението „%s“ се използва за фон на плота.\nИскате ли да го редактирате?"
+
+#: ../src/iog-window.c:3133
+msgid "Saving image locally…"
+msgstr "Запазване на изображението локално…"
+
+#: ../src/iog-window.c:3213
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr "Сигурни ли сте, че искате да преместите\n„%s“ в кошчето?"
+
+#: ../src/iog-window.c:3216
+#, c-format
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr "Не може да бъде открито кошче, където „%s“ да бъде преместено. Искате ли да премахнете това изображение завинаги?"
+
+#: ../src/iog-window.c:3221
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] "Сигурни ли сте, че искате да преместите\nизбраното изображение в кошчето?"
+msgstr[1] "Сигурни ли сте, че искате да преместите\nизбраните %d изображения в кошчето?"
+
+#: ../src/iog-window.c:3226
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr "Някои от избраните изображения не могат да бъдат преместени в кошчето и ще бъдат премахнати завинаги. Искате ли да продължите?"
+
+#: ../src/iog-window.c:3243 ../src/iog-window.c:3727 ../src/iog-window.c:3754
+msgid "Move to _Trash"
+msgstr "Преместване в _кошчето"
+
+#: ../src/iog-window.c:3245
+msgid "_Do not ask again during this session"
+msgstr "_Без повторно запитване през тази сесия"
+
+#: ../src/iog-window.c:3290 ../src/iog-window.c:3304
+#, c-format
+msgid "Couldn't access trash."
+msgstr "Нямате достъп до кошчето."
+
+#: ../src/iog-window.c:3312
+#, c-format
+msgid "Couldn't delete file"
+msgstr "Файлът не може да бъде изтрит"
+
+#: ../src/iog-window.c:3409
+#, c-format
+msgid "Error on deleting image %s"
+msgstr "Грешка при изтриването на изображението %s"
+
+#: ../src/iog-window.c:3651
+msgid "_Image"
+msgstr "_Изображение"
+
+#: ../src/iog-window.c:3652
+msgid "_Edit"
+msgstr "_Редактиране"
+
+#: ../src/iog-window.c:3653
+msgid "_View"
+msgstr "Из_глед"
+
+#: ../src/iog-window.c:3654
+msgid "_Go"
+msgstr "_Начало"
+
+#: ../src/iog-window.c:3655
+msgid "_Tools"
+msgstr "_Инструменти"
+
+#: ../src/iog-window.c:3656
+msgid "_Help"
+msgstr "Помо_щ"
+
+#: ../src/iog-window.c:3658
+msgid "_Open…"
+msgstr "_Отваряне…"
+
+#: ../src/iog-window.c:3659
+msgid "Open a file"
+msgstr "Отваряне на файл"
+
+#: ../src/iog-window.c:3661
+msgid "_Close"
+msgstr "_Затваряне"
+
+#: ../src/iog-window.c:3662
+msgid "Close window"
+msgstr "Затваряне на прозореца"
+
+#: ../src/iog-window.c:3664
+msgid "T_oolbar"
+msgstr "_Лента с инструменти"
+
+#: ../src/iog-window.c:3665
+msgid "Edit the application toolbar"
+msgstr "Редактиране лентата с инструменти на програмата"
+
+#: ../src/iog-window.c:3667
+msgid "Prefere_nces"
+msgstr "_Настройки"
+
+#: ../src/iog-window.c:3668
+msgid "Preferences for Eye of GDE2"
+msgstr "Настройки на Eye of GDE2"
+
+#: ../src/iog-window.c:3670
+msgid "_Contents"
+msgstr "_Ръководство"
+
+#: ../src/iog-window.c:3671
+msgid "Help on this application"
+msgstr "Помощ за тази програма"
+
+#: ../src/iog-window.c:3674
+msgid "About this application"
+msgstr "Относно тази програма"
+
+#: ../src/iog-window.c:3679
+msgid "_Toolbar"
+msgstr "_Лента с инструменти"
+
+#: ../src/iog-window.c:3680
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "Промяна видимостта на лентата с инструментите на текущия прозорец"
+
+#: ../src/iog-window.c:3682
+msgid "_Statusbar"
+msgstr "Лента за _състоянието"
+
+#: ../src/iog-window.c:3683
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "Промяна видимостта на лентата за състоянието на текущия прозорец"
+
+#: ../src/iog-window.c:3685
+msgid "_Image Collection"
+msgstr "_Колекция от изображения"
+
+#: ../src/iog-window.c:3686
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "Промяна видимостта на панела с колекцията в текущия прозорец"
+
+#: ../src/iog-window.c:3688
+msgid "Side _Pane"
+msgstr "_Страничен панел"
+
+#: ../src/iog-window.c:3689
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "Промяна видимостта на страничния панел на текущия прозорец"
+
+#: ../src/iog-window.c:3694
+msgid "_Save"
+msgstr "З_апазване"
+
+#: ../src/iog-window.c:3695
+msgid "Save changes in currently selected images"
+msgstr "Запазване на промените на избраните изображения"
+
+#: ../src/iog-window.c:3697
+msgid "Open _with"
+msgstr "Отваряне _с"
+
+#: ../src/iog-window.c:3698
+msgid "Open the selected image with a different application"
+msgstr "Отваряне на избраното изображение с друга програма"
+
+#: ../src/iog-window.c:3700
+msgid "Save _As…"
+msgstr "Запазване _като…"
+
+#: ../src/iog-window.c:3701
+msgid "Save the selected images with a different name"
+msgstr "Запазване на избраните изображения под друго име"
+
+#: ../src/iog-window.c:3703
+msgid "_Print…"
+msgstr "_Печат…"
+
+#: ../src/iog-window.c:3704
+msgid "Print the selected image"
+msgstr "Разпечатване на избраното изображение"
+
+#: ../src/iog-window.c:3706
+msgid "Prope_rties"
+msgstr "Под_робности"
+
+#: ../src/iog-window.c:3707
+msgid "Show the properties and metadata of the selected image"
+msgstr "Показване на допълнителните данни на избраното изображение"
+
+#: ../src/iog-window.c:3709
+msgid "_Undo"
+msgstr "_Възстановяване"
+
+#: ../src/iog-window.c:3710
+msgid "Undo the last change in the image"
+msgstr "Възстановяване на последната промяна по изображението"
+
+#: ../src/iog-window.c:3712
+msgid "Flip _Horizontal"
+msgstr "_Хоризонтално обръщане"
+
+#: ../src/iog-window.c:3713
+msgid "Mirror the image horizontally"
+msgstr "Хоризонтален огледален образ"
+
+#: ../src/iog-window.c:3715
+msgid "Flip _Vertical"
+msgstr "_Вертикално обръщане"
+
+#: ../src/iog-window.c:3716
+msgid "Mirror the image vertically"
+msgstr "Вертикален огледален образ"
+
+#: ../src/iog-window.c:3718
+msgid "_Rotate Clockwise"
+msgstr "Завъртане на_дясно"
+
+#: ../src/iog-window.c:3719
+msgid "Rotate the image 90 degrees to the right"
+msgstr "Завъртане на изображението 90° надясно"
+
+#: ../src/iog-window.c:3721
+msgid "Rotate Counterc_lockwise"
+msgstr "Завъртане на_ляво"
+
+#: ../src/iog-window.c:3722
+msgid "Rotate the image 90 degrees to the left"
+msgstr "Завъртане на изображението 90° наляво"
+
+#: ../src/iog-window.c:3724
+msgid "Set as _Desktop Background"
+msgstr "Задаване като _фон"
+
+#: ../src/iog-window.c:3725
+msgid "Set the selected image as the desktop background"
+msgstr "Задаване на избраното изображение като фон на работния плот"
+
+#: ../src/iog-window.c:3728
+msgid "Move the selected image to the trash folder"
+msgstr "Преместване на избраното изображение в кошчето"
+
+#: ../src/iog-window.c:3730
+msgid "_Copy"
+msgstr "_Копиране"
+
+#: ../src/iog-window.c:3731
+msgid "Copy the selected image to the clipboard"
+msgstr "Копиране на избраното изображение в буфера за обмен"
+
+#: ../src/iog-window.c:3733 ../src/iog-window.c:3745 ../src/iog-window.c:3748
+msgid "_Zoom In"
+msgstr "_Увеличаване"
+
+#: ../src/iog-window.c:3734 ../src/iog-window.c:3746
+msgid "Enlarge the image"
+msgstr "Увеличаване на изображението"
+
+#: ../src/iog-window.c:3736 ../src/iog-window.c:3751
+msgid "Zoom _Out"
+msgstr "На_маляване"
+
+#: ../src/iog-window.c:3737 ../src/iog-window.c:3749 ../src/iog-window.c:3752
+msgid "Shrink the image"
+msgstr "Смаляване на изображението"
+
+#: ../src/iog-window.c:3739
+msgid "_Normal Size"
+msgstr "Но_рмален размер"
+
+#: ../src/iog-window.c:3740
+msgid "Show the image at its normal size"
+msgstr "Показване на изображението в нормалния му размер"
+
+#: ../src/iog-window.c:3742
+msgid "_Best Fit"
+msgstr "Напасване по _екрана"
+
+#: ../src/iog-window.c:3743
+msgid "Fit the image to the window"
+msgstr "Вместване на изображението съобразно прозореца"
+
+#: ../src/iog-window.c:3760
+msgid "_Fullscreen"
+msgstr "На _цял екран"
+
+#: ../src/iog-window.c:3761
+msgid "Show the current image in fullscreen mode"
+msgstr "Показване на текущото изображение на цял екран"
+
+#: ../src/iog-window.c:3763
+msgid "Pause Slideshow"
+msgstr "Временно спиране на прожекцията"
+
+#: ../src/iog-window.c:3764
+msgid "Pause or resume the slideshow"
+msgstr "Продължаване или временно спиране на прожекцията"
+
+#: ../src/iog-window.c:3769 ../src/iog-window.c:3784
+msgid "_Previous Image"
+msgstr "_Предишно изображение"
+
+#: ../src/iog-window.c:3770
+msgid "Go to the previous image of the collection"
+msgstr "Отиване на предишното изображение от колекцията"
+
+#: ../src/iog-window.c:3772
+msgid "_Next Image"
+msgstr "_Следващо изображение"
+
+#: ../src/iog-window.c:3773
+msgid "Go to the next image of the collection"
+msgstr "Отиване на следващото изображение от колекцията"
+
+#: ../src/iog-window.c:3775 ../src/iog-window.c:3787
+msgid "_First Image"
+msgstr "Пър_во изображение"
+
+#: ../src/iog-window.c:3776
+msgid "Go to the first image of the collection"
+msgstr "Отиване на първото изображение от колекцията"
+
+#: ../src/iog-window.c:3778 ../src/iog-window.c:3790
+msgid "_Last Image"
+msgstr "П_оследно изображение"
+
+#: ../src/iog-window.c:3779
+msgid "Go to the last image of the collection"
+msgstr "Отиване на последното изображение от колекцията"
+
+#: ../src/iog-window.c:3781
+msgid "_Random Image"
+msgstr "Слу_чайно изображение"
+
+#: ../src/iog-window.c:3782
+msgid "Go to a random image of the collection"
+msgstr "Отиване на случайно изображение от колекцията"
+
+#: ../src/iog-window.c:3796
+msgid "S_lideshow"
+msgstr "С_лайдшоу"
+
+#: ../src/iog-window.c:3797
+msgid "Start a slideshow view of the images"
+msgstr "Прожектиране на изображенията"
+
+#: ../src/iog-window.c:3863
+msgid "Previous"
+msgstr "Предишно"
+
+#: ../src/iog-window.c:3867
+msgid "Next"
+msgstr "Следващо"
+
+#: ../src/iog-window.c:3871
+msgid "Right"
+msgstr "Надясно"
+
+#: ../src/iog-window.c:3874
+msgid "Left"
+msgstr "Наляво"
+
+#: ../src/iog-window.c:3877
+msgid "In"
+msgstr "Увеличаване"
+
+#: ../src/iog-window.c:3880
+msgid "Out"
+msgstr "Намаляване"
+
+#: ../src/iog-window.c:3883
+msgid "Normal"
+msgstr "Нормално"
+
+#: ../src/iog-window.c:3886
+msgid "Fit"
+msgstr "Наместване"
+
+#: ../src/iog-window.c:3889
+msgid "Collection"
+msgstr "Колекция"
+
+#: ../src/iog-window.c:3892
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr "Кошче"
+
+#: ../src/iog-window.c:4245
+#, c-format
+msgid "Edit the current image using %s"
+msgstr "Обработи сегашното изображение, използвайки %s"
+
+#: ../src/iog-window.c:4247
+msgid "Edit Image"
+msgstr "Редактиране на изображението"
+
+#: ../src/main.c:80
+msgid "Open in fullscreen mode"
+msgstr "Зареждане в режим на цял екран"
+
+#: ../src/main.c:81
+msgid "Disable image collection"
+msgstr "Изключване на колекцията от изображения"
+
+#: ../src/main.c:82
+msgid "Open in slideshow mode"
+msgstr "Зареждане в режим на прожекция"
+
+#: ../src/main.c:84
+msgid "Start a new instance instead of reusing an existing one"
+msgstr "Стартиране на нов процес вместо преизползване на съществуващ"
+
+#: ../src/main.c:87
+msgid "Show the application's version"
+msgstr "Показване на версията на програмата"
+
+#: ../src/main.c:88
+msgid "[FILE…]"
+msgstr "[ФАЙЛ…]"
+
+#. I18N: The '%s' is replaced with iog's command name.
+#: ../src/main.c:219
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "Изпълнете „%s --help“, за да видите списък с наличните опции за командния ред."

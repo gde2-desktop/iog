@@ -1,0 +1,1503 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Ivar Smolin <okul@linux.ee>, 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-13 16:02+0300\n"
+"PO-Revision-Date: 2015-12-31 02:11+0000\n"
+"Last-Translator: Ivar Smolin <okul@linux.ee>\n"
+"Language-Team: Estonian (http://www.transifex.com/gde2/GDE2/language/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translaters: This string is for a toggle to display a toolbar.
+#. * The name of the toolbar is automatically computed from the widgets
+#. * on the toolbar, and is placed at the %s. Note the _ before the %s
+#. * which is used to add mnemonics. We know that this is likely to
+#. * produce duplicates, but don't worry about it. If your language
+#. * normally has a mnemonic at the start, please use the _. If not,
+#. * please remove.
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:948
+#, c-format
+msgid "Show “_%s”"
+msgstr "Näita „_%s”"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1416
+msgid "_Move on Toolbar"
+msgstr "_Tõsta tööriistaribale"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1417
+msgid "Move the selected item on the toolbar"
+msgstr "Valitud kirje tõstmine tööriistaribale"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1418
+msgid "_Remove from Toolbar"
+msgstr "_Eemalda tööriistaribalt"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1419
+msgid "Remove the selected item from the toolbar"
+msgstr "Valitud kirje eemaldamine tööriistaribalt"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1420
+msgid "_Delete Toolbar"
+msgstr "_Kustuta tööriistariba"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1421
+msgid "Remove the selected toolbar"
+msgstr "Valitud tööriistariba eemaldamine"
+
+#: ../cut-n-paste/toolbar-editor/egg-toolbar-editor.c:515
+msgid "Separator"
+msgstr "Eraldaja"
+
+#: ../data/iog.appdata.xml.in.h:1 ../src/iog-window.c:2596
+msgid "Eye of GDE2"
+msgstr "Eye of GDE2 (gnoomi silm)"
+
+#: ../data/iog.appdata.xml.in.h:2
+msgid "Simple image viewer"
+msgstr "Lihtne pildinäitaja"
+
+#: ../data/iog.appdata.xml.in.h:3
+msgid ""
+"<p> Eye of GDE2 is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr "<p> Eye of GDE2 on lihtne vahend pildifailide näitamiseks. Näitamiseks laaditud pilti on võimalik suurendada ja pöörata, samuti saab pildikataloogi esitada slaidiseansina. </p>"
+
+#: ../data/iog.desktop.in.in.h:1 ../src/main.c:73 ../src/main.c:275
+msgid "Eye of GDE2 Image Viewer"
+msgstr "Eye of GDE2 pildinäitaja"
+
+#: ../data/iog.desktop.in.in.h:2
+msgid "Browse and rotate images"
+msgstr "Piltide sirvimine ja pööramine"
+
+#: ../data/iog-image-properties-dialog.ui.h:1
+msgid "Image Properties"
+msgstr "Pildi omadused"
+
+#: ../data/iog-image-properties-dialog.ui.h:2
+msgid "Name:"
+msgstr "Nimi:"
+
+#: ../data/iog-image-properties-dialog.ui.h:3
+msgid "Width:"
+msgstr "Laius:"
+
+#: ../data/iog-image-properties-dialog.ui.h:4
+msgid "Height:"
+msgstr "Kõrgus:"
+
+#: ../data/iog-image-properties-dialog.ui.h:5
+msgid "Type:"
+msgstr "Liik:"
+
+#: ../data/iog-image-properties-dialog.ui.h:6
+msgid "Bytes:"
+msgstr "Baite:"
+
+#: ../data/iog-image-properties-dialog.ui.h:7
+msgid "Location:"
+msgstr "Asukoht:"
+
+#: ../data/iog-image-properties-dialog.ui.h:8
+msgid "General"
+msgstr "Üldine"
+
+#: ../data/iog-image-properties-dialog.ui.h:9
+msgid "Aperture Value:"
+msgstr "Ava suurus:"
+
+#: ../data/iog-image-properties-dialog.ui.h:10
+msgid "Exposure Time:"
+msgstr "Säriaeg:"
+
+#: ../data/iog-image-properties-dialog.ui.h:11
+msgid "Focal Length:"
+msgstr "Fookuskaugus:"
+
+#: ../data/iog-image-properties-dialog.ui.h:12
+msgid "Flash:"
+msgstr "Välklamp:"
+
+#: ../data/iog-image-properties-dialog.ui.h:13
+msgid "ISO Speed Rating:"
+msgstr "ISO tundlikkus"
+
+#: ../data/iog-image-properties-dialog.ui.h:14
+msgid "Metering Mode:"
+msgstr "Mõõterežiim:"
+
+#: ../data/iog-image-properties-dialog.ui.h:15
+msgid "Camera Model:"
+msgstr "Kaamera mudel:"
+
+#: ../data/iog-image-properties-dialog.ui.h:16
+msgid "Date/Time:"
+msgstr "Kuupäev/kellaaeg:"
+
+#: ../data/iog-image-properties-dialog.ui.h:17
+msgid "Description:"
+msgstr "Kirjeldus:"
+
+#: ../data/iog-image-properties-dialog.ui.h:18
+msgid "Keywords:"
+msgstr "Võtmesõnad:"
+
+#: ../data/iog-image-properties-dialog.ui.h:19
+msgid "Author:"
+msgstr "Autor:"
+
+#: ../data/iog-image-properties-dialog.ui.h:20
+msgid "Copyright:"
+msgstr "Autoriõigused:"
+
+#: ../data/iog-image-properties-dialog.ui.h:21
+msgid "Details"
+msgstr "Üksikasjad"
+
+#: ../data/iog-image-properties-dialog.ui.h:22
+msgid "Metadata"
+msgstr "Metaandmed"
+
+#: ../data/iog-image-properties-dialog.ui.h:23
+msgid "_Previous"
+msgstr "_Eelmine"
+
+#: ../data/iog-image-properties-dialog.ui.h:24
+msgid "_Next"
+msgstr "_Järgmine"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:1
+msgid "Save As"
+msgstr "Salvestamine teise nimega"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:3
+#, no-c-format
+msgid "<b>%f:</b> original filename"
+msgstr "<b>%f:</b> algupärane failinimi"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:5
+#, no-c-format
+msgid "<b>%n:</b> counter"
+msgstr "<b>%n:</b> loendur"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:6
+msgid "Filename format:"
+msgstr "Failinime vorming:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:7
+msgid "Choose a folder"
+msgstr "Kataloogi valimine"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:8
+msgid "Destination folder:"
+msgstr "Sihtkataloog:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:9
+msgid "File Path Specifications"
+msgstr "Failiraja määrangud"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:10
+msgid "Start counter at:"
+msgstr "Loendamise algus:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:11
+msgid "Replace spaces with underscores"
+msgstr "Tühikute asendamine alakriipsudega"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:12
+msgid "Options"
+msgstr "Valikud"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:13
+msgid "Rename from:"
+msgstr "Algne nimi:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:14
+msgid "To:"
+msgstr "Uus nimi:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:15
+msgid "File Name Preview"
+msgstr "Failinime eelvaade"
+
+#: ../data/iog-preferences-dialog.ui.h:1
+msgid "Eye of GDE2 Preferences"
+msgstr "Eye of GDE2 (gnoomi silma) eelistused"
+
+#: ../data/iog-preferences-dialog.ui.h:2
+msgid "Image Enhancements"
+msgstr "Pildivaatamise täiustused"
+
+#: ../data/iog-preferences-dialog.ui.h:3
+msgid "Smooth images when zoomed-_out"
+msgstr "Piltide pehmendamine _vähendamisel"
+
+#: ../data/iog-preferences-dialog.ui.h:4
+msgid "Smooth images when zoomed-_in"
+msgstr "Piltide pehmendamine _suurendamisel"
+
+#: ../data/iog-preferences-dialog.ui.h:5
+msgid "_Automatic orientation"
+msgstr "_Automaatne suund"
+
+#: ../data/iog-preferences-dialog.ui.h:6
+msgid "Background"
+msgstr "Taust"
+
+#: ../data/iog-preferences-dialog.ui.h:7
+msgid "As custom color:"
+msgstr "Kohandatud värvusega:"
+
+#: ../data/iog-preferences-dialog.ui.h:8
+#: ../data/org.gde2.iog.gschema.xml.in.h:3
+msgid "Background Color"
+msgstr "Taustavärvus"
+
+#: ../data/iog-preferences-dialog.ui.h:9
+msgid "Transparent Parts"
+msgstr "Läbipaistvad osad"
+
+#: ../data/iog-preferences-dialog.ui.h:10
+msgid "As check _pattern"
+msgstr "_Malelauamustriga"
+
+#: ../data/iog-preferences-dialog.ui.h:11
+msgid "As custom c_olor:"
+msgstr "Kohandatud _värvusega:"
+
+#: ../data/iog-preferences-dialog.ui.h:12
+msgid "Color for Transparent Areas"
+msgstr "Läbipaistva osa värvus"
+
+#: ../data/iog-preferences-dialog.ui.h:13
+msgid "As _background"
+msgstr "_Taustana"
+
+#: ../data/iog-preferences-dialog.ui.h:14
+msgid "Image View"
+msgstr "Pildivaatlus"
+
+#: ../data/iog-preferences-dialog.ui.h:15
+msgid "Image Zoom"
+msgstr "Pildisuurendus"
+
+#: ../data/iog-preferences-dialog.ui.h:16
+msgid "E_xpand images to fit screen"
+msgstr "Pildid suurendatakse kogu _ekraani ulatuses"
+
+#: ../data/iog-preferences-dialog.ui.h:17
+msgid "Sequence"
+msgstr "Pildijada"
+
+#: ../data/iog-preferences-dialog.ui.h:18
+msgid "_Switch image after:"
+msgstr "Pilt _vahetatakse pärast:"
+
+#: ../data/iog-preferences-dialog.ui.h:19
+msgid "seconds"
+msgstr "sekundit"
+
+#: ../data/iog-preferences-dialog.ui.h:20
+msgid "_Random sequence"
+msgstr "_Juhuslik järjestus"
+
+#: ../data/iog-preferences-dialog.ui.h:21
+msgid "_Loop sequence"
+msgstr "_Pildijada korratakse"
+
+#: ../data/iog-preferences-dialog.ui.h:22
+msgid "Slideshow"
+msgstr "Slaidiesitlus"
+
+#: ../data/iog-preferences-dialog.ui.h:23
+msgid "Plugins"
+msgstr "Pluginad"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:1
+msgid "Automatic orientation"
+msgstr "Automaatne suund"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:2
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr "Kas pilti tuleb automaatselt pöörata EXIF-andmetes kirjeldatud suunas või mitte."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:4
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr "Pildi taha jääva piirkonna katmise värvus. Kui võtmega use-background-color pole ühtegi värvust määratud, siis võetakse värvus aktiivsest GTK+ teemast."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:5
+msgid "Use a custom background color"
+msgstr "Kohandatud taustavärvuse kasutamine"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:6
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr "Kui see on märgitud. siis kasutatakse pildi taha jääva piirkonna katmiseks võtmega background-color määratud värvust. Kui see pole määratud, siis otsustab selle värvuse aktiivne GTK+ teema."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:7
+msgid "Interpolate Image"
+msgstr "Pildi interpoleerimine"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:8
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr "Kas pilti tuleks suuruse vähendamisel interpoleerida või mitte. Interpoleeritud piltidel on parem pildikvaliteet, kuid kuvamine on mõnevõrra aeglasem kui interpoleerimata piltide puhul."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:9
+msgid "Extrapolate Image"
+msgstr "Pildi ekstrapoleerimine"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:10
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr "Kas pilti tuleks suurendamisel ekstrapoleerida või mitte. Ekstrapoleeritud pildid on udusemad ja kuvamine on mõnevõrra aeglasem kui ekstrapoleerimata piltide puhul."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:11
+msgid "Transparency indicator"
+msgstr "Läbipaistvuse indikaator"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:12
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr "See võti määrab kuidas läbipaistvust näidatakse. Lubatud väärtused on 'checked' (malelauamuster), 'color' (määratud värvus) ja 'none' (puudub). Väärtuse 'color' korral määrab kasutatava värvuse väärtuse võti 'trans-color'."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:13
+msgid "Scroll wheel zoom"
+msgstr "Kerimisratta suurendus"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:14
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr "Kas hiire ratast kasutatakse suurendamiseks ja vähendamiseks või mitte."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:15
+msgid "Zoom multiplier"
+msgstr "Suurendustegur"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:17
+#, no-c-format
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr "Seda tegurit rakendatakse hiireratta kerimisel suurendamiseks ja vähendamiseks. Väärtus kirjeldab iga ratta sündmuse korral tehtavat suurenduse/vähenduse sammu. Näiteks väärtus 0.05 väljendab iga sündmuse korral suurenduse muutust 5% võrra, 1.00 aga 100% võrra."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:18
+msgid "Transparency color"
+msgstr "Läbipaistvuse värv"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:19
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "Kui transparency võti sisaldab värvi COLOR, siis see võti määrab määrab läbipaistvust kujutamiseks kasutatava värvuse."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:20
+msgid "Randomize the image sequence"
+msgstr "Piltide järjekord juhuslikuks"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:21
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr "Kas pildijada näidatakse juhuslikus järjestuses või mitte."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:22
+msgid "Loop through the image sequence"
+msgstr "Pildiseeria lõppemisel uuesti alustamine"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:23
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr "Kas pildiseerias olevaid pilte tuleb näidata lõpmatu tsüklina."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:25
+#, no-c-format
+msgid "Allow zoom greater than 100% initially"
+msgstr "Üle 100% algsuurendus lubatud"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:26
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "Kui see on märkimata, siis väikeseid pilte algseisul ei venitata akna suurusega sobivaks."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:27
+msgid "Delay in seconds until showing the next image"
+msgstr "Viivituse kestus sekundites enne järgmise pildi näitamist"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:28
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "Nullist suurem väärtus tähendab, et pilti kuvatakse ainult selle arvu sekundeid ja pärast seda kuvatakse automaatselt järgmist pilti. Väärtuse 0 puhul on automaatne pildivahetus keelatud."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:29
+msgid "Show/Hide the window toolbar."
+msgstr "Akna tööriistariba näitamine või peitmine."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:30
+msgid "Show/Hide the window statusbar."
+msgstr "Akna olekuriba näitamine või peitmine."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:31
+msgid "Show/Hide the image collection pane."
+msgstr "Pildikogumiku paani näitamine või peitmine."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:32
+msgid "Image collection pane position."
+msgstr "Pildikogumiku paani asukoht."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:33
+msgid "Whether the image collection pane should be resizable."
+msgstr "Kas pildikogumiku paani suurust peab olema võimalik muuta või mitte."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:34
+msgid "Show/Hide the window side pane."
+msgstr "Akna külgpaani näitamine või peitmine."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:35
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr "Pildikogumiku paani kerimisnuppude näitamine või peitmine."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:36
+msgid "Close main window without asking to save changes."
+msgstr "Peaakna sulgemine ilma muutuste salvestamise küsimuseta."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:37
+msgid "Trash images without asking"
+msgstr "Piltide viskamine prügikasti ilma kinnituse küsimiseta"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:38
+msgid ""
+"If activated, Eye of GDE2 won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr "Kui määratud, siis pildinäitaja ei küsi piltide prügikasti viskamise korral kinnitust. Siiski küsitakse kinnitust juhul, kui faile pole võimalik prügikasti visata ja selle asemel tahetakse need kustutada."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:39
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr "Kas omaduste dialoogis asuv metaandmete nimekiri peab olema eraldi lehel või mitte."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:40
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr "Kui märgitud, siis luuakse pildi omaduste dialoogis olevale metaandmete nimekirjale eraldi leht. See muudab omaduste dialoogi väikse ekraani korral paremini kasutatavaks. Kui see valik on märkimata, siis põimitakse metaandmed pildi omaduste dialoogis teiste andmete hulka."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:41
+msgid "External program to use for editing images"
+msgstr "Väline programm piltide muutmiseks"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:42
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr "Piltide redigeerimiseks kasutatava rakenduse töölauafaili nimi (koos laiendiga \".desktop\") juhuks, kui tööriistaribal vajutatakse nuppu \"Redigeeri pilti\". Redigeerimise funktsionaalsuse keelamiseks määra siia tühi string."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:43
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr "Kas failivalijas peaks kasutaja piltide kataloogi näitama, kui pilte pole laaditud."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:44
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr "Kui märgitud ja kui ühtegi pilti pole aktiivsesse aknasse laaditud, siis kuvab failivalija kasutajat piltide kataloogi (mille kohta hangitakse andmed XDG kasutaja erikataloogide hulgast). Kui märkimata või kui pildikataloog on määramata, siis kuvatakse hetke töökataloog."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:45
+msgid "Active plugins"
+msgstr "Aktiivsed pluginad"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:46
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .iog-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr "Aktiivsete pluginate nimekiri. See ei sisalda aktiivsete pluginate \"Asukohta\". Plugina asukoha teadasaamiseks vaata faili .iog-plugin."
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:1
+msgid "Fullscreen with double-click"
+msgstr "Täisekraan topeltklõpsuga"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:2
+msgid "Activate fullscreen mode with double-click"
+msgstr "Täisekraanirežiimi aktiveerimine topeltklõpsuga"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:1
+msgid "Reload Image"
+msgstr "Laadi pildt uuesti"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:2
+msgid "Reload current image"
+msgstr "Käesoleva pildi uuesti laadimine"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:1
+msgid "Date in statusbar"
+msgstr "Kuupäev olekuribal"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:2
+msgid "Shows the image date in the window statusbar"
+msgstr "Pildi kuupäeva näitamine akna olekuribal"
+
+#: ../src/iog-application.c:124
+msgid "Running in fullscreen mode"
+msgstr "Töötamine täisekraanivaates"
+
+#: ../src/iog-close-confirmation-dialog.c:164
+msgid "Close _without Saving"
+msgstr "Sulge _ilma salvestamata"
+
+#: ../src/iog-close-confirmation-dialog.c:197
+msgid "Question"
+msgstr "Küsimus"
+
+#: ../src/iog-close-confirmation-dialog.c:378
+msgid "If you don't save, your changes will be lost."
+msgstr "Kui sa ei salvesta, lähevad muudatused jäädavalt kaotsi."
+
+#: ../src/iog-close-confirmation-dialog.c:421
+#, c-format
+msgid "Save changes to image \"%s\" before closing?"
+msgstr "Kas salvestada enne sulgemist pildile \"%s\" tehtud muudatused?"
+
+#: ../src/iog-close-confirmation-dialog.c:628
+#, c-format
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] "%d pilt on muudetud. Kas muudatused tuleb enne sulgemist salvestada?"
+msgstr[1] "%d pilti on muudetud. Kas muudatused tuleb enne sulgemist salvestada?"
+
+#: ../src/iog-close-confirmation-dialog.c:645
+msgid "S_elect the images you want to save:"
+msgstr "Salvestatavate piltide _valimine:"
+
+#. Secondary label
+#: ../src/iog-close-confirmation-dialog.c:667
+msgid "If you don't save, all your changes will be lost."
+msgstr "Kui sa ei salvesta, lähevad kõik muudatused jäädavalt kaotsi."
+
+#: ../src/iog-file-chooser.c:132
+msgid "File format is unknown or unsupported"
+msgstr "Failivorming on tundmatu või toetamata"
+
+#: ../src/iog-file-chooser.c:137
+msgid ""
+"Eye of GDE2 could not determine a supported writable file format based on "
+"the filename."
+msgstr "Eye of GDE2 ei suuda tuvastada sellel failinimel põhinevat kirjutatavat failivormingut."
+
+#: ../src/iog-file-chooser.c:138
+msgid "Please try a different file extension like .png or .jpg."
+msgstr "Palun proovi mõnda teist faililaiendit, näiteks .png or .jpg."
+
+#: ../src/iog-file-chooser.c:170
+msgid "All Files"
+msgstr "Kõik failid"
+
+#: ../src/iog-file-chooser.c:175
+msgid "All Images"
+msgstr "Kõik pildid"
+
+#. Filter name: First description then file extension, eg. "The PNG-Format
+#. (*.png)".
+#: ../src/iog-file-chooser.c:196
+#, c-format
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+#. Pixel size of image: width x height in pixel
+#: ../src/iog-file-chooser.c:292 ../src/iog-properties-dialog.c:137
+#: ../src/iog-properties-dialog.c:139 ../src/iog-thumb-view.c:582
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "piksel"
+msgstr[1] "pikslit"
+
+#: ../src/iog-file-chooser.c:443
+msgid "Open Image"
+msgstr "Pildi avamine"
+
+#: ../src/iog-file-chooser.c:451
+msgid "Save Image"
+msgstr "Pildi salvestamine"
+
+#: ../src/iog-file-chooser.c:459
+msgid "Open Folder"
+msgstr "Kataloogi avamine"
+
+#: ../src/iog-image.c:562
+#, c-format
+msgid "Transformation on unloaded image."
+msgstr "Laadimata pildi transformeerimine."
+
+#: ../src/iog-image.c:590
+#, c-format
+msgid "Transformation failed."
+msgstr "Transformeerimine nurjus."
+
+#: ../src/iog-image.c:1000
+#, c-format
+msgid "EXIF not supported for this file format."
+msgstr "Selle failivormingu puhul pole EXIF toetatud."
+
+#: ../src/iog-image.c:1123
+#, c-format
+msgid "Image loading failed."
+msgstr "Pildi laadimine nurjus."
+
+#: ../src/iog-image.c:1652 ../src/iog-image.c:1754
+#, c-format
+msgid "No image loaded."
+msgstr "Pilti ei ole laetud."
+
+#: ../src/iog-image.c:1662 ../src/iog-image.c:1766
+#, c-format
+msgid "Temporary file creation failed."
+msgstr "Tõrge ajutise faili loomisel."
+
+#: ../src/iog-image-jpeg.c:384
+#, c-format
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "Salvestamise ajutist faili pole võimalik luua: %s"
+
+#: ../src/iog-image-jpeg.c:395
+#, c-format
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "JPEG faili laadimiseks pole võimalik mälu eraldada"
+
+#: ../src/iog-error-message-area.c:124
+msgid "_Retry"
+msgstr "P_roovi uuesti"
+
+#: ../src/iog-error-message-area.c:167
+#, c-format
+msgid "Could not load image '%s'."
+msgstr "Pilti '%s' pole võimalik laadida."
+
+#: ../src/iog-error-message-area.c:209
+#, c-format
+msgid "No images found in '%s'."
+msgstr "'%s' alt pilte ei leitud."
+
+#: ../src/iog-error-message-area.c:216
+msgid "The given locations contain no images."
+msgstr "Määratud asukohtades pole pilte."
+
+#: ../src/iog-exif-details.c:68
+msgid "Camera"
+msgstr "Kaamera"
+
+#: ../src/iog-exif-details.c:69
+msgid "Image Data"
+msgstr "Pildi andmed"
+
+#: ../src/iog-exif-details.c:70
+msgid "Image Taking Conditions"
+msgstr "Pildistamise tingimused"
+
+#: ../src/iog-exif-details.c:71
+msgid "Maker Note"
+msgstr "Autori märkus"
+
+#: ../src/iog-exif-details.c:72
+msgid "Other"
+msgstr "Muu"
+
+#: ../src/iog-exif-details.c:74
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+#: ../src/iog-exif-details.c:75
+msgid "XMP IPTC"
+msgstr "XMP IPTC"
+
+#: ../src/iog-exif-details.c:76
+msgid "XMP Rights Management"
+msgstr "XMP õigustehaldus"
+
+#: ../src/iog-exif-details.c:77
+msgid "XMP Other"
+msgstr "XMP muu"
+
+#: ../src/iog-exif-details.c:251
+msgid "Tag"
+msgstr "Silt"
+
+#: ../src/iog-exif-details.c:258
+msgid "Value"
+msgstr "Väärtus"
+
+#. A strftime-formatted string, to display the date the image was taken.
+#: ../src/iog-exif-util.c:121 ../src/iog-exif-util.c:161
+msgid "%a, %d %B %Y  %X"
+msgstr "%a, %d. %B %Y  %X"
+
+#. A strftime-formatted string, to display the date the image was taken, for
+#. the case we don't have the time.
+#: ../src/iog-exif-util.c:155
+msgid "%a, %d %B %Y"
+msgstr "%a, %d. %B %Y"
+
+#: ../src/iog-plugin-manager.c:55
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../src/iog-plugin-manager.c:56
+msgid "Enabled"
+msgstr "Lubatud"
+
+#: ../src/iog-plugin-manager.c:509 ../src/iog-window.c:3673
+msgid "_About"
+msgstr "_Programmist lähemalt"
+
+#: ../src/iog-plugin-manager.c:517
+msgid "C_onfigure"
+msgstr "_Seadista"
+
+#: ../src/iog-plugin-manager.c:527
+msgid "A_ctivate"
+msgstr "_Aktiveeri"
+
+#: ../src/iog-plugin-manager.c:539
+msgid "Ac_tivate All"
+msgstr "Aktiveeri _kõik"
+
+#: ../src/iog-plugin-manager.c:544
+msgid "_Deactivate All"
+msgstr "_Deaktiveeri kõik"
+
+#: ../src/iog-plugin-manager.c:853
+msgid "Active _Plugins:"
+msgstr "Aktiivsed _pluginad:"
+
+#: ../src/iog-plugin-manager.c:890
+msgid "_About Plugin"
+msgstr "_Pluginast lähemalt"
+
+#: ../src/iog-plugin-manager.c:897
+msgid "C_onfigure Plugin"
+msgstr "_Seadista pluginat"
+
+#: ../src/iog-print.c:219
+msgid "Image Settings"
+msgstr "Pildi sätted"
+
+#: ../src/iog-print-image-setup.c:873
+msgid "Image"
+msgstr "Pilt"
+
+#: ../src/iog-print-image-setup.c:874
+msgid "The image whose printing properties will be set up"
+msgstr "Pilt, mille printimisomadusi määratakse"
+
+#: ../src/iog-print-image-setup.c:880
+msgid "Page Setup"
+msgstr "Lehe sätted"
+
+#: ../src/iog-print-image-setup.c:881
+msgid "The information for the page where the image will be printed"
+msgstr "Andmed lehekülje kohta, millele pilt prinditakse"
+
+#: ../src/iog-print-image-setup.c:914 ../src/iog-print-image-setup.c:928
+msgid "Position"
+msgstr "Asukoht"
+
+#: ../src/iog-print-image-setup.c:918 ../src/iog-print-image-setup.c:933
+msgid "_Left:"
+msgstr "_Vasak:"
+
+#: ../src/iog-print-image-setup.c:920 ../src/iog-print-image-setup.c:934
+msgid "_Right:"
+msgstr "_Parem:"
+
+#: ../src/iog-print-image-setup.c:921 ../src/iog-print-image-setup.c:935
+msgid "_Top:"
+msgstr "Ül_eval:"
+
+#: ../src/iog-print-image-setup.c:922 ../src/iog-print-image-setup.c:936
+msgid "_Bottom:"
+msgstr "_All:"
+
+#: ../src/iog-print-image-setup.c:939
+msgid "C_enter:"
+msgstr "_Keskel:"
+
+#: ../src/iog-print-image-setup.c:948
+msgid "None"
+msgstr "Puudub"
+
+#: ../src/iog-print-image-setup.c:950
+msgid "Horizontal"
+msgstr "Horisontaalne"
+
+#: ../src/iog-print-image-setup.c:952
+msgid "Vertical"
+msgstr "Vertikaalne"
+
+#: ../src/iog-print-image-setup.c:954
+msgid "Both"
+msgstr "Mõlemad"
+
+#: ../src/iog-print-image-setup.c:980 ../src/iog-print-image-setup.c:991
+msgid "Size"
+msgstr "Suurus"
+
+#: ../src/iog-print-image-setup.c:983 ../src/iog-print-image-setup.c:996
+msgid "_Width:"
+msgstr "_Laius:"
+
+#: ../src/iog-print-image-setup.c:985 ../src/iog-print-image-setup.c:998
+msgid "_Height:"
+msgstr "_Kõrgus:"
+
+#: ../src/iog-print-image-setup.c:1002
+msgid "_Scaling:"
+msgstr "_Skaleerumine:"
+
+#: ../src/iog-print-image-setup.c:1026
+msgid "_Unit:"
+msgstr "Ü_hik:"
+
+#: ../src/iog-print-image-setup.c:1035
+msgid "Millimeters"
+msgstr "Millimeetrid"
+
+#: ../src/iog-print-image-setup.c:1037
+msgid "Inches"
+msgstr "Tollid"
+
+#: ../src/iog-print-image-setup.c:1074
+msgid "Preview"
+msgstr "Eelvaade"
+
+#: ../src/iog-properties-dialog.c:154
+msgid "Unknown"
+msgstr "Tundmatu"
+
+#. TRANSLATORS: This is the actual focal length used when
+#. the image was taken.
+#: ../src/iog-properties-dialog.c:232
+#, c-format
+msgid "%.1f (lens)"
+msgstr "%.1f (läätsega)"
+
+#. Print as float to get a similar look as above.
+#. TRANSLATORS: This is the equivalent focal length assuming
+#. a 35mm film camera.
+#: ../src/iog-properties-dialog.c:243
+#, c-format
+msgid "%.1f (35mm film)"
+msgstr "%.1f (35mm film)"
+
+#: ../src/iog-save-as-dialog-helper.c:161
+msgid "as is"
+msgstr "nagu on"
+
+#. Translators: This string is displayed in the statusbar.
+#. * The first token is the image number, the second is total image
+#. * count.
+#. *
+#. * Translate to "%Id" if you want to use localized digits, or
+#. * translate to "%d" otherwise.
+#. *
+#. * Note that translating this doesn't guarantee that you get localized
+#. * digits. That needs support from your system and locale definition
+#. * too.
+#: ../src/iog-statusbar.c:134
+#, c-format
+msgid "%d / %d"
+msgstr "%d / %d"
+
+#: ../src/iog-thumb-view.c:610
+msgid "Taken on"
+msgstr "Pildistatud"
+
+#: ../src/iog-uri-converter.c:984
+#, c-format
+msgid "At least two file names are equal."
+msgstr "Vähemasti kaks faili on sama nimega."
+
+#: ../src/iog-util.c:68
+msgid "Could not display help for Eye of GDE2"
+msgstr "Eye of GDE2 abiteavet pole võimalik kuvada"
+
+#: ../src/iog-util.c:116
+msgid " (invalid Unicode)"
+msgstr " (vigane Unicode)"
+
+#. Translators: This is the string displayed in the statusbar
+#. * The tokens are from left to right:
+#. * - image width
+#. * - image height
+#. * - image size in bytes
+#. * - zoom in percent
+#: ../src/iog-window.c:516
+#, c-format
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] "%i × %i pikslit  %s    %i%%"
+msgstr[1] "%i × %i pikslit  %s    %i%%"
+
+#: ../src/iog-window.c:817
+msgid "_Reload"
+msgstr "Laadi _uuesti"
+
+#: ../src/iog-window.c:819 ../src/iog-window.c:2717
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr "_Peida"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:829
+#, c-format
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr "Pilti \"%s\" on mõne teise rakenduse poolt muudetud.\nKas soovid seda uuesti laadida?"
+
+#: ../src/iog-window.c:1002
+#, c-format
+msgid "Use \"%s\" to open the selected image"
+msgstr "Programmi \"%s\" kasutamine valitud pildi avamiseks"
+
+#. Translators: This string is displayed in the statusbar
+#. * while saving images. The tokens are from left to right:
+#. * - the original filename
+#. * - the current image's position in the queue
+#. * - the total number of images queued for saving
+#: ../src/iog-window.c:1158
+#, c-format
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "Pildi \"%s\" (%u/%u) salvestamine"
+
+#: ../src/iog-window.c:1516
+#, c-format
+msgid "Opening image \"%s\""
+msgstr "Pildi \"%s\" avamine"
+
+#: ../src/iog-window.c:2214
+#, c-format
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr "Viga faili printimisel:\n%s"
+
+#: ../src/iog-window.c:2476
+msgid "Toolbar Editor"
+msgstr "Tööriistariba redaktor"
+
+#: ../src/iog-window.c:2479
+msgid "_Reset to Default"
+msgstr "_Taasta vaikeseaded"
+
+#: ../src/iog-window.c:2572
+msgid "translator-credits"
+msgstr "Lauris Kaplinski <lauris ariman ee>, 2000.\nIvar Smolin <okul linux ee>, 2005-2010, 2014.\nPriit Laes <amd store20 com>, 2005-2007"
+
+#: ../src/iog-window.c:2575
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr "Käesolev programm on vaba tarkvara; Te võite seda levitada ja/või muuta vastavalt GNU üldise avaliku litsentsi tingimustele, nagu need on sõnastanud Vaba Tarkvara Fond; kas litsentsi versioonis number 2 või (vastavalt Teie valikule) ükskõik millises hilisemas versioonis.\n"
+
+#: ../src/iog-window.c:2579
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr "Seda programmi levitatakse lootuses, et see on kasulik, kuid ILMA IGASUGUSE GARANTIITA; isegi KESKMISE/TAVALISE KVALITEEDI GARANTIITA või SOBIVUSELE TEATUD KINDLAKS EESMÄRGIKS. Üksikasjade suhtes vaata GNU Üldist Avalikku Litsentsi.\n"
+
+#: ../src/iog-window.c:2583
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr "Te peaks olema saanud GNU Üldise Avaliku Litsentsi koopia koos käesoleva programmiga; kui ei, siis võtke ühendust Free Software Foundation'iga, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA."
+
+#: ../src/iog-window.c:2601
+msgid "The GDE2 image viewer."
+msgstr "GDE2 pildinäitaja."
+
+#. I18N: When setting mnemonics for these strings, watch out to not
+#. clash with mnemonics from iog's menubar
+#: ../src/iog-window.c:2715
+msgid "_Open Background Preferences"
+msgstr "Ava _taustaeelistused"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:2731
+#, c-format
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr "Pilt \"%s\" määrati töölaua taustaks.\nKas soovid selle välimust muuta?"
+
+#: ../src/iog-window.c:3133
+msgid "Saving image locally…"
+msgstr "Pildi salvestamine kohalikule kettale…"
+
+#: ../src/iog-window.c:3213
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr "Soovid sa tõsta \"%s\" prügikasti?"
+
+#: ../src/iog-window.c:3216
+#, c-format
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr "Pildi \"%s\" jaoks pole võimalik prügikasti leida. Kas soovid selle pildi jäädavalt kustutada?"
+
+#: ../src/iog-window.c:3221
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] "Soovid sa tõsta valitud pildi prügikasti?"
+msgstr[1] "Soovid sa tõsta %d valitud pilti prügikasti?"
+
+#: ../src/iog-window.c:3226
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr "Osasid valitud pilte pole võimalik prügikasti visata ja need kustutatakse jäädavalt. Kas soovid kustutamisega jätkata?"
+
+#: ../src/iog-window.c:3243 ../src/iog-window.c:3727 ../src/iog-window.c:3754
+msgid "Move to _Trash"
+msgstr "_Viska prügikasti"
+
+#: ../src/iog-window.c:3245
+msgid "_Do not ask again during this session"
+msgstr "Seda _küsimust selle seansi vältel enam ei küsita"
+
+#: ../src/iog-window.c:3290 ../src/iog-window.c:3304
+#, c-format
+msgid "Couldn't access trash."
+msgstr "Prügikasti pole võimalik kasutada."
+
+#: ../src/iog-window.c:3312
+#, c-format
+msgid "Couldn't delete file"
+msgstr "Faili pole võimalik kustutada"
+
+#: ../src/iog-window.c:3409
+#, c-format
+msgid "Error on deleting image %s"
+msgstr "Viga pildi %s kustutamisel"
+
+#: ../src/iog-window.c:3651
+msgid "_Image"
+msgstr "_Pilt"
+
+#: ../src/iog-window.c:3652
+msgid "_Edit"
+msgstr "_Redaktor"
+
+#: ../src/iog-window.c:3653
+msgid "_View"
+msgstr "_Vaade"
+
+#: ../src/iog-window.c:3654
+msgid "_Go"
+msgstr "_Liikumine"
+
+#: ../src/iog-window.c:3655
+msgid "_Tools"
+msgstr "_Tööriistad"
+
+#: ../src/iog-window.c:3656
+msgid "_Help"
+msgstr "A_bi"
+
+#: ../src/iog-window.c:3658
+msgid "_Open…"
+msgstr "_Ava…"
+
+#: ../src/iog-window.c:3659
+msgid "Open a file"
+msgstr "Faili avamine"
+
+#: ../src/iog-window.c:3661
+msgid "_Close"
+msgstr "_Sulge"
+
+#: ../src/iog-window.c:3662
+msgid "Close window"
+msgstr "Akna sulgemine"
+
+#: ../src/iog-window.c:3664
+msgid "T_oolbar"
+msgstr "Töö_riistariba"
+
+#: ../src/iog-window.c:3665
+msgid "Edit the application toolbar"
+msgstr "Rakenduse tööriistariba redigeerimine"
+
+#: ../src/iog-window.c:3667
+msgid "Prefere_nces"
+msgstr "_Eelistused"
+
+#: ../src/iog-window.c:3668
+msgid "Preferences for Eye of GDE2"
+msgstr "Eye of Gde2 (gnoomi silma) eelistused"
+
+#: ../src/iog-window.c:3670
+msgid "_Contents"
+msgstr "_Sisukord"
+
+#: ../src/iog-window.c:3671
+msgid "Help on this application"
+msgstr "Selle rakenduse kohta käiv abiteave"
+
+#: ../src/iog-window.c:3674
+msgid "About this application"
+msgstr "Info selle programmi kohta"
+
+#: ../src/iog-window.c:3679
+msgid "_Toolbar"
+msgstr "Töö_riistariba"
+
+#: ../src/iog-window.c:3680
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "Käesoleva akna tööriistariba nähtavaloleku muutmine"
+
+#: ../src/iog-window.c:3682
+msgid "_Statusbar"
+msgstr "_Olekuriba"
+
+#: ../src/iog-window.c:3683
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "Käesoleva akna olekuriba nähtavaloleku muutmine"
+
+#: ../src/iog-window.c:3685
+msgid "_Image Collection"
+msgstr "_Pildikogumik"
+
+#: ../src/iog-window.c:3686
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "Pildikogumiku paani nähtavuse muutmine aktiivses aknas"
+
+#: ../src/iog-window.c:3688
+msgid "Side _Pane"
+msgstr "Külg_paan"
+
+#: ../src/iog-window.c:3689
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "Käesoleva akna külgpaani nähtavaloleku muutmine"
+
+#: ../src/iog-window.c:3694
+msgid "_Save"
+msgstr "Sa_lvesta"
+
+#: ../src/iog-window.c:3695
+msgid "Save changes in currently selected images"
+msgstr "Hetkel valitud piltides tehtud muudatuste salvestamine"
+
+#: ../src/iog-window.c:3697
+msgid "Open _with"
+msgstr "Ava _programmiga"
+
+#: ../src/iog-window.c:3698
+msgid "Open the selected image with a different application"
+msgstr "Valitud pildi avamine teise rakendusega"
+
+#: ../src/iog-window.c:3700
+msgid "Save _As…"
+msgstr "Salvesta _kui…"
+
+#: ../src/iog-window.c:3701
+msgid "Save the selected images with a different name"
+msgstr "Valitud piltide salvestamine teise nimega"
+
+#: ../src/iog-window.c:3703
+msgid "_Print…"
+msgstr "_Prindi…"
+
+#: ../src/iog-window.c:3704
+msgid "Print the selected image"
+msgstr "Valitud pildi printimine"
+
+#: ../src/iog-window.c:3706
+msgid "Prope_rties"
+msgstr "_Omadused"
+
+#: ../src/iog-window.c:3707
+msgid "Show the properties and metadata of the selected image"
+msgstr "Valitud pildi omaduste ja metaandmete näitamine"
+
+#: ../src/iog-window.c:3709
+msgid "_Undo"
+msgstr "_Tühista"
+
+#: ../src/iog-window.c:3710
+msgid "Undo the last change in the image"
+msgstr "Pildile tehtud viimase muudatuse unustamine"
+
+#: ../src/iog-window.c:3712
+msgid "Flip _Horizontal"
+msgstr "Peegelda _horisontaalselt"
+
+#: ../src/iog-window.c:3713
+msgid "Mirror the image horizontally"
+msgstr "Pildi peegeldamine rõhtsuunas"
+
+#: ../src/iog-window.c:3715
+msgid "Flip _Vertical"
+msgstr "Pee_gelda vertikaalselt"
+
+#: ../src/iog-window.c:3716
+msgid "Mirror the image vertically"
+msgstr "Pildi peegeldamine püstsuunas"
+
+#: ../src/iog-window.c:3718
+msgid "_Rotate Clockwise"
+msgstr "Pööra _päripäeva"
+
+#: ../src/iog-window.c:3719
+msgid "Rotate the image 90 degrees to the right"
+msgstr "Pildi pööramine 90 kraadi paremale"
+
+#: ../src/iog-window.c:3721
+msgid "Rotate Counterc_lockwise"
+msgstr "Pööra _vastupäeva"
+
+#: ../src/iog-window.c:3722
+msgid "Rotate the image 90 degrees to the left"
+msgstr "Pildi pööramine 90 kraadi vasakule"
+
+#: ../src/iog-window.c:3724
+msgid "Set as _Desktop Background"
+msgstr "Määra töölaua _taustaks"
+
+#: ../src/iog-window.c:3725
+msgid "Set the selected image as the desktop background"
+msgstr "Valitud pildi määramine töölaua taustapildiks"
+
+#: ../src/iog-window.c:3728
+msgid "Move the selected image to the trash folder"
+msgstr "Valitud pildi tõstmine prügikasti"
+
+#: ../src/iog-window.c:3730
+msgid "_Copy"
+msgstr "_Kopeeri"
+
+#: ../src/iog-window.c:3731
+msgid "Copy the selected image to the clipboard"
+msgstr "Valitud pildi kopeerimine lõikelauale"
+
+#: ../src/iog-window.c:3733 ../src/iog-window.c:3745 ../src/iog-window.c:3748
+msgid "_Zoom In"
+msgstr "S_uurenda"
+
+#: ../src/iog-window.c:3734 ../src/iog-window.c:3746
+msgid "Enlarge the image"
+msgstr "Pildi suurendamine"
+
+#: ../src/iog-window.c:3736 ../src/iog-window.c:3751
+msgid "Zoom _Out"
+msgstr "_Vähenda"
+
+#: ../src/iog-window.c:3737 ../src/iog-window.c:3749 ../src/iog-window.c:3752
+msgid "Shrink the image"
+msgstr "Pildi vähendamine"
+
+#: ../src/iog-window.c:3739
+msgid "_Normal Size"
+msgstr "_Normaalsuurus"
+
+#: ../src/iog-window.c:3740
+msgid "Show the image at its normal size"
+msgstr "Pildi normaalsuuruses näitamine"
+
+#: ../src/iog-window.c:3742
+msgid "_Best Fit"
+msgstr "Pa_rim sobitus"
+
+#: ../src/iog-window.c:3743
+msgid "Fit the image to the window"
+msgstr "Pildi sobitamine aknasse"
+
+#: ../src/iog-window.c:3760
+msgid "_Fullscreen"
+msgstr "_Täisekraan"
+
+#: ../src/iog-window.c:3761
+msgid "Show the current image in fullscreen mode"
+msgstr "Käesoleva pildi näitamine täisekraanil"
+
+#: ../src/iog-window.c:3763
+msgid "Pause Slideshow"
+msgstr "Pausi slaidiesitlus"
+
+#: ../src/iog-window.c:3764
+msgid "Pause or resume the slideshow"
+msgstr "Slaidiesituse pausimine/pausi lõpetamine"
+
+#: ../src/iog-window.c:3769 ../src/iog-window.c:3784
+msgid "_Previous Image"
+msgstr "_Eelmine pilt"
+
+#: ../src/iog-window.c:3770
+msgid "Go to the previous image of the collection"
+msgstr "Liikumine kogumiku eelmisele pildile"
+
+#: ../src/iog-window.c:3772
+msgid "_Next Image"
+msgstr "_Järgmine pilt"
+
+#: ../src/iog-window.c:3773
+msgid "Go to the next image of the collection"
+msgstr "Liikumine kogumiku järgmisele pildile"
+
+#: ../src/iog-window.c:3775 ../src/iog-window.c:3787
+msgid "_First Image"
+msgstr "E_simene pilt"
+
+#: ../src/iog-window.c:3776
+msgid "Go to the first image of the collection"
+msgstr "Liikumine kogumiku esimesele pildile"
+
+#: ../src/iog-window.c:3778 ../src/iog-window.c:3790
+msgid "_Last Image"
+msgstr "_Viimane pilt"
+
+#: ../src/iog-window.c:3779
+msgid "Go to the last image of the collection"
+msgstr "Liikumine kogumiku viimasele pildile"
+
+#: ../src/iog-window.c:3781
+msgid "_Random Image"
+msgstr "_Juhuslik pilt"
+
+#: ../src/iog-window.c:3782
+msgid "Go to a random image of the collection"
+msgstr "Liikumine juhuslikule kogumiku pildile"
+
+#: ../src/iog-window.c:3796
+msgid "S_lideshow"
+msgstr "S_laidiesitus"
+
+#: ../src/iog-window.c:3797
+msgid "Start a slideshow view of the images"
+msgstr "Piltide vaatamiseks slaidiesituse käivitamine"
+
+#: ../src/iog-window.c:3863
+msgid "Previous"
+msgstr "Eelmine"
+
+#: ../src/iog-window.c:3867
+msgid "Next"
+msgstr "Järgmine"
+
+#: ../src/iog-window.c:3871
+msgid "Right"
+msgstr "Paremale"
+
+#: ../src/iog-window.c:3874
+msgid "Left"
+msgstr "Vasakule"
+
+#: ../src/iog-window.c:3877
+msgid "In"
+msgstr "Suurenda"
+
+#: ../src/iog-window.c:3880
+msgid "Out"
+msgstr "Vähenda"
+
+#: ../src/iog-window.c:3883
+msgid "Normal"
+msgstr "Üksühele"
+
+#: ../src/iog-window.c:3886
+msgid "Fit"
+msgstr "Sobita"
+
+#: ../src/iog-window.c:3889
+msgid "Collection"
+msgstr "Kogumik"
+
+#: ../src/iog-window.c:3892
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr "Viska prügikasti"
+
+#: ../src/iog-window.c:4245
+#, c-format
+msgid "Edit the current image using %s"
+msgstr "Käesoleva pildi muutmine programmiga %s"
+
+#: ../src/iog-window.c:4247
+msgid "Edit Image"
+msgstr "Redigeeri pilti"
+
+#: ../src/main.c:80
+msgid "Open in fullscreen mode"
+msgstr "Avamine täisekraanivaates"
+
+#: ../src/main.c:81
+msgid "Disable image collection"
+msgstr "Pildikogumiku keelamine"
+
+#: ../src/main.c:82
+msgid "Open in slideshow mode"
+msgstr "Avamine slaidiesitlusena"
+
+#: ../src/main.c:84
+msgid "Start a new instance instead of reusing an existing one"
+msgstr "Uue instantsi käivitamine vana taaskasutamise põhjal"
+
+#: ../src/main.c:87
+msgid "Show the application's version"
+msgstr "Rakenduse versiooni näitamine"
+
+#: ../src/main.c:88
+msgid "[FILE…]"
+msgstr "[FAIL…]"
+
+#. I18N: The '%s' is replaced with iog's command name.
+#: ../src/main.c:219
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "Kõigi saadaolevate käsureavalikute nägemiseks käivita '%s --help'."

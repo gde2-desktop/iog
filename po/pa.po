@@ -1,0 +1,1502 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-13 16:02+0300\n"
+"PO-Revision-Date: 2014-11-10 14:27+0000\n"
+"Last-Translator: infirit <inactive+infirit@transifex.com>\n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/gde2/GDE2/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Translaters: This string is for a toggle to display a toolbar.
+#. * The name of the toolbar is automatically computed from the widgets
+#. * on the toolbar, and is placed at the %s. Note the _ before the %s
+#. * which is used to add mnemonics. We know that this is likely to
+#. * produce duplicates, but don't worry about it. If your language
+#. * normally has a mnemonic at the start, please use the _. If not,
+#. * please remove.
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:948
+#, c-format
+msgid "Show “_%s”"
+msgstr "“_%s” ਵੇਖੋ"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1416
+msgid "_Move on Toolbar"
+msgstr "ਟੂਲਬਾਰ ਉੱਤੇ ਭੇਜੋ(_M)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1417
+msgid "Move the selected item on the toolbar"
+msgstr "ਟੂਲਬਾਰ ਉੱਤੇ ਚੁਣੀ ਆਈਟਮ ਹਿਲਾਓ"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1418
+msgid "_Remove from Toolbar"
+msgstr "ਟੂਲਬਾਰ ਤੋਂ ਹਟਾਓ(_R)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1419
+msgid "Remove the selected item from the toolbar"
+msgstr "ਟੂਲਬਾਰ ਤੋਂ ਚੁਣੀ ਆਈਟਮ ਹਟਾਓ"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1420
+msgid "_Delete Toolbar"
+msgstr "ਟੂਲਬਾਰ ਹਟਾਓ(_D)"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1421
+msgid "Remove the selected toolbar"
+msgstr "ਚੁਣੀ ਟੂਲਬਾਰ ਹਟਾਓ"
+
+#: ../cut-n-paste/toolbar-editor/egg-toolbar-editor.c:515
+msgid "Separator"
+msgstr "ਵੱਖਰੇਵਾਂ"
+
+#: ../data/iog.appdata.xml.in.h:1 ../src/iog-window.c:2596
+msgid "Eye of GDE2"
+msgstr "ਗਨੋਮ ਦੀ ਅੱਖ"
+
+#: ../data/iog.appdata.xml.in.h:2
+msgid "Simple image viewer"
+msgstr ""
+
+#: ../data/iog.appdata.xml.in.h:3
+msgid ""
+"<p> Eye of GDE2 is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr ""
+
+#: ../data/iog.desktop.in.in.h:1 ../src/main.c:73 ../src/main.c:275
+msgid "Eye of GDE2 Image Viewer"
+msgstr "ਗਨੋਮ ਅੱਖ ਚਿੱਤਰ ਦਰਸ਼ਕ"
+
+#: ../data/iog.desktop.in.in.h:2
+msgid "Browse and rotate images"
+msgstr "ਝਲਕ ਅਤੇ ਚਿੱਤਰ ਘੁੰਮਾਓ"
+
+#: ../data/iog-image-properties-dialog.ui.h:1
+msgid "Image Properties"
+msgstr "ਚਿੱਤਰ ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: ../data/iog-image-properties-dialog.ui.h:2
+msgid "Name:"
+msgstr "ਨਾਂ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:3
+msgid "Width:"
+msgstr "ਚੌੜਾਈ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:4
+msgid "Height:"
+msgstr "ਉਚਾਈ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:5
+msgid "Type:"
+msgstr "ਕਿਸਮ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:6
+msgid "Bytes:"
+msgstr "ਬਾਇਟ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:7
+msgid "Location:"
+msgstr "ਟਿਕਾਣਾ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:8
+msgid "General"
+msgstr "ਸਧਾਰਨ"
+
+#: ../data/iog-image-properties-dialog.ui.h:9
+msgid "Aperture Value:"
+msgstr "ਅਪਰਚਰ ਮੁੱਲ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:10
+msgid "Exposure Time:"
+msgstr "ਐਕਸ਼ਪੋਜ਼ਰ ਸਮਾਂ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:11
+msgid "Focal Length:"
+msgstr "ਫੋਕਲ ਲੰਬਾਈ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:12
+msgid "Flash:"
+msgstr "ਫਲੈਸ਼:"
+
+#: ../data/iog-image-properties-dialog.ui.h:13
+msgid "ISO Speed Rating:"
+msgstr "ISO ਸਪੀਡ ਰੇਟਿੰਗ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:14
+msgid "Metering Mode:"
+msgstr "ਮੀਟਰਿੰਗ ਮੋਡ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:15
+msgid "Camera Model:"
+msgstr "ਕੈਮਰਾ ਮਾਡਲ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:16
+msgid "Date/Time:"
+msgstr "ਮਿਤੀ/ਸਮਾਂ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:17
+msgid "Description:"
+msgstr "ਜਾਣਕਾਰੀ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:18
+msgid "Keywords:"
+msgstr "ਸ਼ਬਦ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:19
+msgid "Author:"
+msgstr "ਲੇਖਕ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:20
+msgid "Copyright:"
+msgstr "ਕਾਪੀਰਾਈਟ:"
+
+#: ../data/iog-image-properties-dialog.ui.h:21
+msgid "Details"
+msgstr "ਵੇਰਵਾ"
+
+#: ../data/iog-image-properties-dialog.ui.h:22
+msgid "Metadata"
+msgstr "ਮੇਟਾਡਾਟਾ"
+
+#: ../data/iog-image-properties-dialog.ui.h:23
+msgid "_Previous"
+msgstr "ਪਿੱਛੇ(_P)"
+
+#: ../data/iog-image-properties-dialog.ui.h:24
+msgid "_Next"
+msgstr "ਅੱਗੇ(_N)"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:1
+msgid "Save As"
+msgstr "ਇੰਝ ਸੰਭਾਲੋ"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:3
+#, no-c-format
+msgid "<b>%f:</b> original filename"
+msgstr "<b>%f:</b> ਅਸਲੀ ਫਾਇਲ ਨਾਂ"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:5
+#, no-c-format
+msgid "<b>%n:</b> counter"
+msgstr "<b>%n:</b> ਕਾਊਂਟਰ"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:6
+msgid "Filename format:"
+msgstr "ਫਾਇਲ ਨਾਂ ਫਾਰਮੈਟ:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:7
+msgid "Choose a folder"
+msgstr "ਇੱਕ ਫੋਲਡਰ ਚੁਣੋ"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:8
+msgid "Destination folder:"
+msgstr "ਟਿਕਾਣਾ ਫੋਲਡਰ:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:9
+msgid "File Path Specifications"
+msgstr "ਫਾਇਲ ਮਾਰਗ ਹਦਾਇਤਾਂ"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:10
+msgid "Start counter at:"
+msgstr "ਇਥੋਂ ਗਿਣਤੀ ਸ਼ੁਰੂ:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:11
+msgid "Replace spaces with underscores"
+msgstr "ਖਾਲੀ ਥਾਂ ਹੇਠਾਂ ਹੇਠ ਰੇਖਾ ਨਾਲ ਭਰੋ"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:12
+msgid "Options"
+msgstr "ਚੋਣ"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:13
+msgid "Rename from:"
+msgstr "ਇਸ ਤੋਂ ਨਾਂ ਬਦਲੋ:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:14
+msgid "To:"
+msgstr "ਤੋਂ:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:15
+msgid "File Name Preview"
+msgstr "ਫਾਇਲ ਨਾਂ ਝਲਕ"
+
+#: ../data/iog-preferences-dialog.ui.h:1
+msgid "Eye of GDE2 Preferences"
+msgstr "ਗਨੋਮ ਅੱਖ ਲਈ ਪਸੰਦ"
+
+#: ../data/iog-preferences-dialog.ui.h:2
+msgid "Image Enhancements"
+msgstr "ਚਿੱਤਰ ਸੁਧਾਰ"
+
+#: ../data/iog-preferences-dialog.ui.h:3
+msgid "Smooth images when zoomed-_out"
+msgstr "ਜ਼ੂਮ ਆਉਟ ਕਰਨ ਸਮੇਂ ਚਿੱਤਰ ਮੁਲਾਇਮ ਕਰੋ(_o)"
+
+#: ../data/iog-preferences-dialog.ui.h:4
+msgid "Smooth images when zoomed-_in"
+msgstr "ਜ਼ੂਮ ਇਨ ਕਰਨ ਸਮੇਂ ਚਿੱਤਰ ਮੁਲਾਇਮ ਕਰੋ(_i)"
+
+#: ../data/iog-preferences-dialog.ui.h:5
+msgid "_Automatic orientation"
+msgstr "ਆਟੋਮੈਟਿਕ ਸਥਿਤੀ(_A)"
+
+#: ../data/iog-preferences-dialog.ui.h:6
+msgid "Background"
+msgstr "ਬੈਕਗਰਾਊਂਡ"
+
+#: ../data/iog-preferences-dialog.ui.h:7
+msgid "As custom color:"
+msgstr "ਕਸਟਮ ਰੰਗ ਵਜੋਂ:"
+
+#: ../data/iog-preferences-dialog.ui.h:8
+#: ../data/org.gde2.iog.gschema.xml.in.h:3
+msgid "Background Color"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਰੰਗ"
+
+#: ../data/iog-preferences-dialog.ui.h:9
+msgid "Transparent Parts"
+msgstr "ਪਾਰਦਰਸ਼ੀ ਹਿੱਸੇ"
+
+#: ../data/iog-preferences-dialog.ui.h:10
+msgid "As check _pattern"
+msgstr "ਡੱਬੀਦਾਰ ਪੈਟਰਨ ਵਾਂਗ(_p)"
+
+#: ../data/iog-preferences-dialog.ui.h:11
+msgid "As custom c_olor:"
+msgstr "ਕਸਟਮ ਰੰਗ ਵਾਂਗ(_o):"
+
+#: ../data/iog-preferences-dialog.ui.h:12
+msgid "Color for Transparent Areas"
+msgstr "ਪਾਰਦਰਸ਼ੀ ਖੇਤਰਾਂ ਲਈ ਰੰਗ"
+
+#: ../data/iog-preferences-dialog.ui.h:13
+msgid "As _background"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਵਾਂਗ(_b)"
+
+#: ../data/iog-preferences-dialog.ui.h:14
+msgid "Image View"
+msgstr "ਚਿੱਤਰ ਝਲਕ"
+
+#: ../data/iog-preferences-dialog.ui.h:15
+msgid "Image Zoom"
+msgstr "ਚਿੱਤਰ ਜ਼ੂਮ"
+
+#: ../data/iog-preferences-dialog.ui.h:16
+msgid "E_xpand images to fit screen"
+msgstr "ਚਿੱਤਰ ਸਕਰੀਨ ਉੱਤੇ ਫਿੱਟ ਕਰਨ ਲਈ ਫੈਲਾਓ(_x)"
+
+#: ../data/iog-preferences-dialog.ui.h:17
+msgid "Sequence"
+msgstr "ਤਰਤੀਬ"
+
+#: ../data/iog-preferences-dialog.ui.h:18
+msgid "_Switch image after:"
+msgstr "ਚਿੱਤਰ ਸਵਿੱਚ ਕਰੋ(_S):"
+
+#: ../data/iog-preferences-dialog.ui.h:19
+msgid "seconds"
+msgstr "ਸਕਿੰਟ"
+
+#: ../data/iog-preferences-dialog.ui.h:20
+msgid "_Random sequence"
+msgstr ""
+
+#: ../data/iog-preferences-dialog.ui.h:21
+msgid "_Loop sequence"
+msgstr "ਲੂਪ ਕ੍ਰਮ(_L)"
+
+#: ../data/iog-preferences-dialog.ui.h:22
+msgid "Slideshow"
+msgstr "ਸਲਾਇਡ ਸ਼ੋ"
+
+#: ../data/iog-preferences-dialog.ui.h:23
+msgid "Plugins"
+msgstr "ਪਲੱਗਇਨ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:1
+msgid "Automatic orientation"
+msgstr "ਆਟੋਮੈਟਿਕ ਸਥਿਤੀ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:2
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr "ਕੀ EXIF ਸਥਿਤੀ ਦੇ ਮੁਤਾਬਕ ਚਿੱਤਰ ਨੂੰ ਆਟੋਮੈਟਿਕ ਹੀ ਘੁੰਮਾਇਆ ਜਾਵੇ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:4
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr "ਚਿੱਤਰ ਦੇ ਪਿੱਛੇ ਖੇਤਰ ਨੂੰ ਭਰਨ ਲਈ ਵਰਤਿਆ ਜਾਣ ਵਾਲਾ ਰੰਗ ਹੈ। ਜਦੋਂ use-background-color ਕੁੰਜੀ ਸੈੱਟ ਨਹੀਂ ਹੁੰਦੀ ਹੈ ਤਾਂ ਰੰਗ ਨੂੰ ਐਕਟਿਵ GTK+ ਥੀਮ ਤੋਂ ਲੈ ਕੇ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:5
+msgid "Use a custom background color"
+msgstr "ਪਸੰਦੀਦਾ ਬੈਕਗਰਾਊਂਡ ਰੰਗ ਵਰਤੋਂ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:6
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr "ਜੇ ਇਹ ਸਰਗਰਮ ਰੰਗ ਬੈਕਗਰਾਊਂਡ ਵਲੋਂ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਤਾਂ- ਰੰਗ ਕੁੰਜੀ ਨੂੰ ਚਿੱਤਰ ਦੇ ਪਿੱਛੇ ਖੇਤਰ ਭਰਨ ਲਈ ਵਰਤਿਆ ਜਾਵੇਗਾ। ਜੇ ਇਹ ਸੈੱਟ ਨਾ ਕੀਤਾ ਗਿਆ ਤਾਂ ਮੌਜੂਦਾ GTK+ ਥੀਮ ਰੰਗ ਭਰਨ ਲਈ ਵਰਤਿਆ ਜਾਵੇਗਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:7
+msgid "Interpolate Image"
+msgstr "ਚਿੱਤਰ ਇੰਟਰਪੋਲਟ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:8
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr "ਕੀ ਚਿੱਤਰ ਨੂੰ ਜ਼ੂਮ ਆਉਟ ਕਰਨ ਸਮੇਂ ਇੰਟਰਪੋਲੇਟ ਕੀਤਾ ਜਾਵੇ ਜਾਂ ਨਾ। ਇਸ ਨਾਲ ਚਿੱਤਰ ਦਾ ਸਰੂਪ ਤਾਂ ਹੋਰ ਨਿਖਰ ਜਾਵੇਗਾ, ਪਰ ਨਾ-ਇੰਟਰਪੋਲੇਟਡ ਚਿੱਤਰ ਦੇ ਮੁਕਾਬਲੇ ਥੋੜਾ ਜਿਹਾ ਹੌਲੀ ਹੋ ਜਾਵੇਗਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:9
+msgid "Extrapolate Image"
+msgstr "ਚਿੱਤਰ ਇੰਟਰਪੋਲੇਟ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:10
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr "ਕੀ ਚਿੱਤਰ ਨੂੰ ਜ਼ੂਮ ਇਨ ਕਰਨ ਸਮੇਂ ਐਕਸਟਰਾਪੋਲੇਟਡ ਕਰਨਾ ਹੈ ਜਾਂ ਨਹੀਂ। ਇਸ ਨਾਲ ਚਿੱਤਰ ਦਾ ਸਰੂਪ ਤਾਂ ਹੋਰ ਨਿਖਰ ਜਾਵੇਗਾ, ਪਰ ਨਾ-ਐਕਸਟਰਾਪੋਲੇਟਡ ਚਿੱਤਰਾਂ ਦੇ ਮੁਕਾਬਲੇ ਥੋੜਾ ਜਿਹਾ ਹੌਲੀ ਹੋ ਜਾਵੇਗਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:11
+msgid "Transparency indicator"
+msgstr "ਪਾਰਦਰਸ਼ੀ ਇੰਡੀਕੇਟਰ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:12
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:13
+msgid "Scroll wheel zoom"
+msgstr "ਸਕਰੋਲ ਵੀਲ ਜ਼ੂਮ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:14
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr "ਕੀ ਸਕਰੋਲ ਵੀਲ ਨੂੰ ਜ਼ੂਮ ਲਈ ਵਰਤਿਆ ਜਾਵੇ ਕਿ ਨਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:15
+msgid "Zoom multiplier"
+msgstr "ਜ਼ੂਮ ਮਲਟੀਪਲਾਇਰ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:17
+#, no-c-format
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr "ਮਲਟੀਪਲਾਈਰ ਨੂੰ ਮਾਊਸ ਸਕਰੋਲ ਵੀਲ ਨਾਲ ਜ਼ੂਮ ਕਰਨ ਦੌਰਾਨ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ। ਇਹ ਮੁੱਲ ਨੂੰ ਹਰੇਕ ਸਕਰੋਲ ਈਵੈਂਟ ਲਈ ਜ਼ੂਮਿੰਗ ਦੇਣ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ। ਉਦਾਹਰਨ ਵਾਸਤੇ, 0.05 ਹਰੇਕ ਸਕਰੋਲ ਈਵੈਂਟ ਲਈ 5% ਜ਼ੂਮ ਵਧਾ ਕਰੇਗਾ ਅਤੇ 1.00 ਦੇ ਨਤੀਜੇ ਵਜੋਂ 100% ਜ਼ੂਮ ਵਾਧਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:18
+msgid "Transparency color"
+msgstr "ਪਾਰਦਰਸ਼ੀ ਰੰਗ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:19
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "ਜੇਕਰ ਪਾਰਦਰਸ਼ੀ ਕੁੰਜੀ ਦਾ ਮੁੱਲ ਰੰਗ (COLOR) ਹੈ ਤਾਂ ਇਹ ਕੁੰਜੀ ਜਾਣੇਗੀ ਕਿ ਕਿਹੜਾ ਰੰਗ ਪਾਰਦਰਸ਼ਤਾ ਵੇਖਾਉਣ ਲਈ ਵਰਤਣ ਹੈ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:20
+msgid "Randomize the image sequence"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:21
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:22
+msgid "Loop through the image sequence"
+msgstr "ਚਿੱਤਰ ਤਰਤੀਬ ਇੱਕ ਲੂਪ ਰਾਹੀਂ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:23
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr "ਕੀ ਲਗਾਤਾਰ ਲੂਪ ਵਿੱਚ ਚਿੱਤਰਾਂ ਦਾ ਕ੍ਰਮ ਵੇਖਾਇਆ ਜਾਵੇ ਜਾਂ ਨਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:25
+#, no-c-format
+msgid "Allow zoom greater than 100% initially"
+msgstr "ਮੁੱਢਲਾ ਜ਼ੂਮ ੧੦੦% ਜਿਆਦਾ ਕਰਨਾ ਯੋਗ ਕਰੋ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:26
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "ਜੇਕਰ ਇਸ ਨੂੰ ਗਲਤ ਸੈੱਟ ਕਰ ਦਿੱਤਾ ਗਿਆ ਤਾਂ ਛੋਟੇ ਚਿੱਤਰਾਂ ਨੂੰ ਸਕਰੀਨ ਦੇ ਅਨੁਕੂਲ ਕਰਨ ਲਈ ਖਿੱਚਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:27
+msgid "Delay in seconds until showing the next image"
+msgstr "ਅੰਤਰਾਲ, ਅਗਲਾ ਚਿੱਤਰ ਵੇਖਾਉਣ ਤੋਂ ਪਹਿਲਾਂ (ਸਕਿੰਟਾਂ ਵਿੱਚ)"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:28
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "ਇੱਕ ਮੁੱਲ 0 ਤੋਂ ਵੱਧ ਇਹ ਦੱਸਦਾ ਹੈ ਕਿ ਚਿੱਤਰ ਸਕਰੀਨ ਤੇ ਕਿੰਨਾ ਸਮਾਂ ਰਹੇ, ਅਗਲਾ ਚਿੱਤਰ ਆਟੋਮੈਟਿਕ ਹੀ ਲੋਡ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਸਿਫ਼ਰ ਆਟੋਮੈਟਿਕ ਝਲਕ ਨੂੰ ਬੰਦ ਦੇਵੇਗੀ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:29
+msgid "Show/Hide the window toolbar."
+msgstr "ਵਿੰਡੋ ਟੂਲਬਾਰ ਵੇਖੋ/ਓਹਲੇ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:30
+msgid "Show/Hide the window statusbar."
+msgstr "ਵਿੰਡੋ ਹਾਲਤ-ਪੱਟੀ ਵੇਖੋ/ਓਹਲੇ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:31
+msgid "Show/Hide the image collection pane."
+msgstr "ਚਿੱਤਰ ਭੰਡਾਰ ਪੈਨ ਵੇਖੋ/ਓਹਲੇ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:32
+msgid "Image collection pane position."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:33
+msgid "Whether the image collection pane should be resizable."
+msgstr "ਕੀ ਚਿੱਤਰ ਭੰਡਾਰ ਪੈਨ ਦਾ ਅਕਾਰ ਬਦਲਿਆ ਜਾਵੇ ਕਿ ਨਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:34
+msgid "Show/Hide the window side pane."
+msgstr "ਵਿੰਡੋ ਬਾਹੀ ਵੇਖੋ/ਓਹਲੇ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:35
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr "ਚਿੱਤਰ ਭੰਡਾਰ ਪੈਨ ਸਕਰੋਲ ਬਟਨ ਵੇਖੋ/ਓਹਲੇ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:36
+msgid "Close main window without asking to save changes."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:37
+msgid "Trash images without asking"
+msgstr "ਚਿੱਤਰ ਬਿਨਾਂ ਪੁੱਛੇ ਰੱਦੀ ਵਿੱਚ ਭੇਜੋ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:38
+msgid ""
+"If activated, Eye of GDE2 won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr "ਜਦੋਂ ਐਕਟੀਵੇਟ ਕੀਤਾ ਗਿਆ ਤਾਂ ਗਨੋਮ ਦੀ ਅੱਖ ਚਿੱਤਰਾਂ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਭੇਜਣ ਸਮੇਂ ਪੁਸ਼ਟੀ ਨਹੀਂ ਕਰਵਾਏਗੀ। ਤਾਂ ਵੀ ਇਹ ਪੁੱਛੇਗੀ, ਜੇ ਫਾਇਲ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਨਾ ਭੇਜਿਆ ਜਾ ਸਕਦਾ ਹੋਵੇ ਅਤੇ ਸਿੱਧਾ ਹਟਾਉਣਾ ਹੋਵੇ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:39
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr "ਕੀ ਵਿਸ਼ੇਸ਼ਤਾ ਡਾਈਲਾਗ ਵਿੱਚ ਮੇਟਾਡਾਟਾ ਲਿਸਟ ਨੂੰ ਆਪਣੇ ਪੇਜ਼ ਲਈ ਸੰਭਾਲਿਆ ਜਾਵੇ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:40
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr "ਜੇ ਐਕਟੀਵੇਟ ਕੀਤਾ ਤਾਂ ਵਿਸ਼ੇਸ਼ਤਾ ਡਾਈਲਾਗ ਦਾ ਮੇਟਾਡਾਟਾ ਵੇਰਵਾ ਡਾਈਲਾਗ ਦੇ ਆਪਣੇ ਪੇਜ਼ ਵਿੱਚ ਭੇਜਿਆ ਜਾਵੇਗਾ। ਇਹ ਡਾਈਲਾਗ ਨੂੰ ਛੋਟੀਆਂ ਸਕਰੀਨਾਂ ਲਈ ਵਰਤੋਂਯੋਗ ਬਣਾਉਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਨੈੱਟਬੁੱਕ। ਜੇ ਆਯੋਗ ਹੋਇਆ ਤਾਂ ਵਿਦਜੈੱਟ ਨੂੰ ਮੇਟਾਡਾਟਾ ਪੇਜ਼ ਉੱਤੇ ਸ਼ਾਮਲ ਕੀਤਾ ਜਾਵੇਗਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:41
+msgid "External program to use for editing images"
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:42
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr ""
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:43
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr "ਕੀ ਫਾਇਲ ਚੋਣਕਾਰ ਵਿੱਚ ਯੂਜ਼ਰ ਦਾ ਤਸਵੀਰ ਫੋਲਡਰ ਵੇਖਾਉਣਾ ਹੈ, ਜੇ ਕੋਈ ਵੀ ਚਿੱਤਰ ਲੋਡ ਨਾ ਹੋਵੇ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:44
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr "ਜੇ ਐਕਟੀਵੇਟ ਕੀਤਾ ਅਤੇ ਐਕਟਿਵ ਵਿੰਡੋ ਵਿੱਚ ਕੋਈ ਚਿੱਤਰ ਲੋਡ ਨਾ ਕੀਤਾ ਤਾਂ ਫਾਇਲ ਚੋਣਕਾਰ XDG ਖਾਸ ਯੂਜ਼ਰ ਡਾਇਰੈਕਟਰੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਯੂਜ਼ਰ ਦਾ ਤਸਵੀਰ ਫੋਲਡਰ ਵੇਖਾਏਗਾ। ਜੇ ਡੀ-ਐਕਟੀਵੇਟ ਕੀਤਾ ਜਾਂ ਤਸਵੀਰ ਫੋਲਡਰ ਸੈੱਟਅੱਪ ਨਾ ਕੀਤਾ ਤਾਂ ਇਹ ਮੌਜੂਦਾ ਵਰਕਿੰਗ ਡਾਇਰੈਕਟਰੀ ਵੇਖਾਏਗਾ।"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:45
+msgid "Active plugins"
+msgstr "ਐਕਟਿਵ ਪਲੱਗਇਨ"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:46
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .iog-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr "ਐਕਟਿਵ ਪਲੱਗਇਨਾਂ ਦੀ ਲਿਸਟ ਹੈ। ਇਸ ਵਿੱਚ ਐਕਟਿਵ ਪਲੱਗਇਨਾਂ ਦਾ \"ਟਿਕਾਣਾ\" ਨਹੀਂ ਹੈ। ਦਿੱਤੀ ਪਲੱਗਇਨ ਦਾ \"ਟਿਕਾਣਾ\" ਵੇਖਣ ਲਈ .iog-plugin ਵੇਖੋ।"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:1
+msgid "Fullscreen with double-click"
+msgstr "ਡਬਲ ਕਲਿੱਕ ਨਾਲ ਪੂਰੀ ਸਕਰੀਨ"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:2
+msgid "Activate fullscreen mode with double-click"
+msgstr "ਡਬਲ ਕਲਿੱਕ ਨਾਲ ਪੂਰੀ ਸਕਰੀਨ ਐਕਟੀਵੇਟ ਕਰੋ"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:1
+msgid "Reload Image"
+msgstr "ਚਿੱਤਰ ਲੋਡ ਕਰੋ"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:2
+msgid "Reload current image"
+msgstr "ਮੌਜੂਦਾ ਚਿੱਤਰ ਮੁੜ-ਲੋਡ ਕਰੋ"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:1
+msgid "Date in statusbar"
+msgstr "ਹਾਲਤ-ਪੱਟੀ ਵਿੱਚ ਮਿਤੀ"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:2
+msgid "Shows the image date in the window statusbar"
+msgstr "ਵਿੰਡੋ ਹਾਲਤ-ਪੱਟੀ ਵਿੱਚ ਚਿੱਤਰ ਮਿਤੀ ਵੇਖੋ"
+
+#: ../src/iog-application.c:124
+msgid "Running in fullscreen mode"
+msgstr "ਪੂਰੀ-ਸਕਰੀਨ ਮੋਡ 'ਚ ਚੱਲ ਰਿਹਾ ਹੈ"
+
+#: ../src/iog-close-confirmation-dialog.c:164
+msgid "Close _without Saving"
+msgstr "ਬਿਨਾਂ ਸੰਭਾਲੇ ਬੰਦ ਕਰੋ(_w)"
+
+#: ../src/iog-close-confirmation-dialog.c:197
+msgid "Question"
+msgstr "ਸਵਾਲ"
+
+#: ../src/iog-close-confirmation-dialog.c:378
+msgid "If you don't save, your changes will be lost."
+msgstr "ਜੇ ਤੁਸੀਂ ਨਾ ਸੰਭਾਲੀਆਂ ਤਾਂ ਤੁਹਾਡੀਆਂ ਤਬਦੀਲੀਆਂ ਖਤਮ ਹੋ ਜਾਣਗੀਆਂ।"
+
+#: ../src/iog-close-confirmation-dialog.c:421
+#, c-format
+msgid "Save changes to image \"%s\" before closing?"
+msgstr "ਕੀ \"%s\" ਚਿੱਤਰ ਵਿੱਚ ਕੀਤੀਆਂ ਤਬਦੀਲੀਆਂ ਸੰਭਾਲਣੀਆਂ ਹਨ?"
+
+#: ../src/iog-close-confirmation-dialog.c:628
+#, c-format
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] "%d ਚਿੱਤਰ ਵਿੱਚ ਨਾ-ਸੰਭਾਲੇ ਬਦਲਾਅ ਹਨ। ਕੀ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸੰਭਾਲਣੇ ਹਨ?"
+msgstr[1] "%d ਚਿੱਤਰਾਂ ਵਿੱਚ ਨਾ-ਸੰਭਾਲੇ ਬਦਲਾਅ ਹਨ। ਕੀ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸੰਭਾਲਣੇ ਹਨ?"
+
+#: ../src/iog-close-confirmation-dialog.c:645
+msgid "S_elect the images you want to save:"
+msgstr "ਚਿੱਤਰ ਚੁਣੋ, ਜੋ ਤੁਸੀਂ ਸੰਭਾਲਣਾ ਚਾਹੁੰਦੇ ਹੋ(_e):"
+
+#. Secondary label
+#: ../src/iog-close-confirmation-dialog.c:667
+msgid "If you don't save, all your changes will be lost."
+msgstr "ਜੇ ਤੁਸੀਂ ਨਹੀਂ ਸੰਭਾਲਦੇ, ਤੁਹਾਡੇ ਸਭ ਬਦਲਾਅ ਖਤਮ ਹੋ ਜਾਣਗੇ।"
+
+#: ../src/iog-file-chooser.c:132
+msgid "File format is unknown or unsupported"
+msgstr "ਫਾਇਲ ਫਾਰਮੈਟ ਅਣਜਾਣ ਹੈ ਜਾਂ ਗ਼ੈਰ-ਸਹਾਇਕ ਹੈ"
+
+#: ../src/iog-file-chooser.c:137
+msgid ""
+"Eye of GDE2 could not determine a supported writable file format based on "
+"the filename."
+msgstr "ਗਨੋਮ ਦੀ ਅੱਖ ਫਾਇਲ ਨਾਂ ਦੇ ਅਧਾਰ ਉੱਤੇ ਇੱਕ ਸਹਾਇਕ ਲਿਖਣਯੋਗ ਫਾਇਲ ਫਾਰਮੈਟ ਜਾਣ ਨਹੀਂ ਸਕਿਆ।"
+
+#: ../src/iog-file-chooser.c:138
+msgid "Please try a different file extension like .png or .jpg."
+msgstr "ਇੱਕ ਵੱਖਰੀ ਫਾਇਲ ਐਕਸ਼ਟੈਸ਼ਨ ਜਿਵੇਂ ਕਿ .png ਜਾਂ .jpg ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#: ../src/iog-file-chooser.c:170
+msgid "All Files"
+msgstr "ਸਭ ਫਾਇਲਾਂ"
+
+#: ../src/iog-file-chooser.c:175
+msgid "All Images"
+msgstr "ਸਭ ਚਿੱਤਰ"
+
+#. Filter name: First description then file extension, eg. "The PNG-Format
+#. (*.png)".
+#: ../src/iog-file-chooser.c:196
+#, c-format
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+#. Pixel size of image: width x height in pixel
+#: ../src/iog-file-chooser.c:292 ../src/iog-properties-dialog.c:137
+#: ../src/iog-properties-dialog.c:139 ../src/iog-thumb-view.c:582
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "ਪਿਕਸਲ"
+msgstr[1] "ਪਿਕਸਲ"
+
+#: ../src/iog-file-chooser.c:443
+msgid "Open Image"
+msgstr "ਚਿੱਤਰ ਖੋਲ੍ਹੋ"
+
+#: ../src/iog-file-chooser.c:451
+msgid "Save Image"
+msgstr "ਚਿੱਤਰ ਸੰਭਾਲੋ"
+
+#: ../src/iog-file-chooser.c:459
+msgid "Open Folder"
+msgstr "ਫੋਲਡਰ ਖੋਲ੍ਹੋ"
+
+#: ../src/iog-image.c:562
+#, c-format
+msgid "Transformation on unloaded image."
+msgstr "ਅਣ-ਲੋਡ ਕੀਤੇ ਚਿੱਤਰ ਉੱਤੇ ਟਰਾਂਸਫਰਮੇਸ਼ਨ।"
+
+#: ../src/iog-image.c:590
+#, c-format
+msgid "Transformation failed."
+msgstr "ਟਰਾਂਸਫਰਮੇਸ਼ਨ ਫੇਲ੍ਹ ਹੋਈ।"
+
+#: ../src/iog-image.c:1000
+#, c-format
+msgid "EXIF not supported for this file format."
+msgstr "ਇਸ ਫਾਇਲ ਫਾਰਮੈਟ ਲਈ EXIF ਸਹਾਇਕ ਨਹੀਂ ਹੈ।"
+
+#: ../src/iog-image.c:1123
+#, c-format
+msgid "Image loading failed."
+msgstr "ਚਿੱਤਰ ਲੋਡ ਦੌਰਾਨ ਫੇਲ੍ਹ।"
+
+#: ../src/iog-image.c:1652 ../src/iog-image.c:1754
+#, c-format
+msgid "No image loaded."
+msgstr "ਕੋਈ ਚਿੱਤਰ ਲੋਡ ਨਹੀਂ ਹੋਇਆ।"
+
+#: ../src/iog-image.c:1662 ../src/iog-image.c:1766
+#, c-format
+msgid "Temporary file creation failed."
+msgstr "ਆਰਜ਼ੀ ਫਾਇਲ ਨਿਰਮਾਣ ਫੇਲ੍ਹ ਹੋਇਆ।"
+
+#: ../src/iog-image-jpeg.c:384
+#, c-format
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "ਸੰਭਾਲਣ ਲਈ ਆਰਜ਼ੀ ਫਾਇਲ ਨਹੀਂ ਬਣਾਈ ਜਾ ਸਕੀ ਹੈ: %s"
+
+#: ../src/iog-image-jpeg.c:395
+#, c-format
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "JPEG ਫਾਇਲ ਨੂੰ ਲੋਡ ਕਰਨ ਲਈ ਮੈਮੋਰੀ ਜਾਰੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ"
+
+#: ../src/iog-error-message-area.c:124
+msgid "_Retry"
+msgstr "ਮੁੜ-ਟਰਾਈ(_R)"
+
+#: ../src/iog-error-message-area.c:167
+#, c-format
+msgid "Could not load image '%s'."
+msgstr "'%s' ਚਿੱਤਰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।"
+
+#: ../src/iog-error-message-area.c:209
+#, c-format
+msgid "No images found in '%s'."
+msgstr "'%s' ਵਿੱਚ ਕੋਈ ਚਿੱਤਰ ਨਹੀਂ ਲੱਭਿਆ।"
+
+#: ../src/iog-error-message-area.c:216
+msgid "The given locations contain no images."
+msgstr "ਦਿੱਤੇ ਟਿਕਾਣੇ ਉੱਤੇ ਕੋਈ ਚਿੱਤਰ ਨਹੀਂ ਹੈ।"
+
+#: ../src/iog-exif-details.c:68
+msgid "Camera"
+msgstr "ਕੈਮਰਾ"
+
+#: ../src/iog-exif-details.c:69
+msgid "Image Data"
+msgstr "ਚਿੱਤਰ ਡਾਟਾ"
+
+#: ../src/iog-exif-details.c:70
+msgid "Image Taking Conditions"
+msgstr "ਚਿੱਤਰ ਲੈਣ ਦੀ ਕੰਡੀਸ਼ਨ"
+
+#: ../src/iog-exif-details.c:71
+msgid "Maker Note"
+msgstr "ਮੇਕਰ ਨੋਟ"
+
+#: ../src/iog-exif-details.c:72
+msgid "Other"
+msgstr "ਹੋਰ"
+
+#: ../src/iog-exif-details.c:74
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+#: ../src/iog-exif-details.c:75
+msgid "XMP IPTC"
+msgstr "XMP IPTC"
+
+#: ../src/iog-exif-details.c:76
+msgid "XMP Rights Management"
+msgstr "XMP ਰਾਇਟ ਪਰਬੰਧ"
+
+#: ../src/iog-exif-details.c:77
+msgid "XMP Other"
+msgstr "XMP ਹੋਰ"
+
+#: ../src/iog-exif-details.c:251
+msgid "Tag"
+msgstr "ਟੈਗ"
+
+#: ../src/iog-exif-details.c:258
+msgid "Value"
+msgstr "ਮੁੱਲ"
+
+#. A strftime-formatted string, to display the date the image was taken.
+#: ../src/iog-exif-util.c:121 ../src/iog-exif-util.c:161
+msgid "%a, %d %B %Y  %X"
+msgstr "%a, %d %B %Y  %X"
+
+#. A strftime-formatted string, to display the date the image was taken, for
+#. the case we don't have the time.
+#: ../src/iog-exif-util.c:155
+msgid "%a, %d %B %Y"
+msgstr "%a, %d %B %Y"
+
+#: ../src/iog-plugin-manager.c:55
+msgid "Plugin"
+msgstr "ਪਲੱਗਇਨ"
+
+#: ../src/iog-plugin-manager.c:56
+msgid "Enabled"
+msgstr "ਯੋਗ ਕੀਤੀ"
+
+#: ../src/iog-plugin-manager.c:509 ../src/iog-window.c:3673
+msgid "_About"
+msgstr "ਇਸ ਬਾਰੇ(_A)"
+
+#: ../src/iog-plugin-manager.c:517
+msgid "C_onfigure"
+msgstr "ਸੰਰਚਨਾ(_o)"
+
+#: ../src/iog-plugin-manager.c:527
+msgid "A_ctivate"
+msgstr "ਐਕਟੀਵੇਟ(_c)"
+
+#: ../src/iog-plugin-manager.c:539
+msgid "Ac_tivate All"
+msgstr "ਸਭ ਐਕਟੀਵੇਟ ਕਰੋ(_t)"
+
+#: ../src/iog-plugin-manager.c:544
+msgid "_Deactivate All"
+msgstr "ਸਭ ਡੀ-ਐਕਟੀਵੇਟ ਕਰੋ(_D)"
+
+#: ../src/iog-plugin-manager.c:853
+msgid "Active _Plugins:"
+msgstr "ਐਕਟਿਵ ਪਲੱਗਇਨ(_P):"
+
+#: ../src/iog-plugin-manager.c:890
+msgid "_About Plugin"
+msgstr "ਪਲੱਗਇਨ ਬਾਰੇ(_A)"
+
+#: ../src/iog-plugin-manager.c:897
+msgid "C_onfigure Plugin"
+msgstr "ਪਲੱਗਇਨ ਸੰਰਚਨਾ(_o)"
+
+#: ../src/iog-print.c:219
+msgid "Image Settings"
+msgstr "ਚਿੱਤਰ ਸੈਟਿੰਗ"
+
+#: ../src/iog-print-image-setup.c:873
+msgid "Image"
+msgstr "ਚਿੱਤਰ"
+
+#: ../src/iog-print-image-setup.c:874
+msgid "The image whose printing properties will be set up"
+msgstr "ਚਿੱਤਰ, ਜਿਸ ਦੀਆਂ ਪਰਿੰਟਿੰਗ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਸੈੱਟਅੱਪ ਕੀਤਾ ਜਾਵੇਗਾ"
+
+#: ../src/iog-print-image-setup.c:880
+msgid "Page Setup"
+msgstr "ਸਫ਼ਾ ਸੈੱਟਅੱਪ"
+
+#: ../src/iog-print-image-setup.c:881
+msgid "The information for the page where the image will be printed"
+msgstr "ਸਫ਼ੇ ਬਾਰੇ ਜਾਣਕਾਰੀ, ਜਿੱਥੇ ਕਿ ਚਿੱਤਰ ਪਰਿੰਟ ਕੀਤਾ ਜਾਵੇਗਾ।"
+
+#: ../src/iog-print-image-setup.c:914 ../src/iog-print-image-setup.c:928
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: ../src/iog-print-image-setup.c:918 ../src/iog-print-image-setup.c:933
+msgid "_Left:"
+msgstr "ਖੱਬੇ(_L):"
+
+#: ../src/iog-print-image-setup.c:920 ../src/iog-print-image-setup.c:934
+msgid "_Right:"
+msgstr "ਸੱਜੇ(_R):"
+
+#: ../src/iog-print-image-setup.c:921 ../src/iog-print-image-setup.c:935
+msgid "_Top:"
+msgstr "ਉੱਤੇ(_T):"
+
+#: ../src/iog-print-image-setup.c:922 ../src/iog-print-image-setup.c:936
+msgid "_Bottom:"
+msgstr "ਹੇਠਾਂ(_B):"
+
+#: ../src/iog-print-image-setup.c:939
+msgid "C_enter:"
+msgstr "ਸੈਂਟਰ(_e):"
+
+#: ../src/iog-print-image-setup.c:948
+msgid "None"
+msgstr "ਕੋਈ ਨਹੀਂ"
+
+#: ../src/iog-print-image-setup.c:950
+msgid "Horizontal"
+msgstr "ਹਰੀਜੱਟਲ"
+
+#: ../src/iog-print-image-setup.c:952
+msgid "Vertical"
+msgstr "ਵਰਟੀਕਲ"
+
+#: ../src/iog-print-image-setup.c:954
+msgid "Both"
+msgstr "ਦੋਵੇਂ"
+
+#: ../src/iog-print-image-setup.c:980 ../src/iog-print-image-setup.c:991
+msgid "Size"
+msgstr "ਸਾਈਜ਼"
+
+#: ../src/iog-print-image-setup.c:983 ../src/iog-print-image-setup.c:996
+msgid "_Width:"
+msgstr "ਚੌੜਾਈ(_W):"
+
+#: ../src/iog-print-image-setup.c:985 ../src/iog-print-image-setup.c:998
+msgid "_Height:"
+msgstr "ਉਚਾਈ(_H):"
+
+#: ../src/iog-print-image-setup.c:1002
+msgid "_Scaling:"
+msgstr "ਸਕੇਲਿੰਗ(_S):"
+
+#: ../src/iog-print-image-setup.c:1026
+msgid "_Unit:"
+msgstr "ਯੂਨਿਟ(_U):"
+
+#: ../src/iog-print-image-setup.c:1035
+msgid "Millimeters"
+msgstr "ਮਿਲੀਮੀਟਰ"
+
+#: ../src/iog-print-image-setup.c:1037
+msgid "Inches"
+msgstr "ਇੰਚ"
+
+#: ../src/iog-print-image-setup.c:1074
+msgid "Preview"
+msgstr "ਝਲਕ"
+
+#: ../src/iog-properties-dialog.c:154
+msgid "Unknown"
+msgstr "ਅਣਜਾਣ"
+
+#. TRANSLATORS: This is the actual focal length used when
+#. the image was taken.
+#: ../src/iog-properties-dialog.c:232
+#, c-format
+msgid "%.1f (lens)"
+msgstr "%.1f (ਲੈਨਜ਼)"
+
+#. Print as float to get a similar look as above.
+#. TRANSLATORS: This is the equivalent focal length assuming
+#. a 35mm film camera.
+#: ../src/iog-properties-dialog.c:243
+#, c-format
+msgid "%.1f (35mm film)"
+msgstr "%.1f (35mm ਫਿਲਮ)"
+
+#: ../src/iog-save-as-dialog-helper.c:161
+msgid "as is"
+msgstr "ਇੰਝ"
+
+#. Translators: This string is displayed in the statusbar.
+#. * The first token is the image number, the second is total image
+#. * count.
+#. *
+#. * Translate to "%Id" if you want to use localized digits, or
+#. * translate to "%d" otherwise.
+#. *
+#. * Note that translating this doesn't guarantee that you get localized
+#. * digits. That needs support from your system and locale definition
+#. * too.
+#: ../src/iog-statusbar.c:134
+#, c-format
+msgid "%d / %d"
+msgstr "%d / %d"
+
+#: ../src/iog-thumb-view.c:610
+msgid "Taken on"
+msgstr "ਲਿਆ"
+
+#: ../src/iog-uri-converter.c:984
+#, c-format
+msgid "At least two file names are equal."
+msgstr "ਘੱਟੋ-ਘੱਟ ਦੋ ਫਾਇਲਾਂ ਦੇ ਨਾਂ ਇੱਕੋ ਹੀ ਹਨ।"
+
+#: ../src/iog-util.c:68
+msgid "Could not display help for Eye of GDE2"
+msgstr "ਗਨੋਮ ਦੀ ਅੱਖ ਲਈ ਮੱਦਦ ਨਹੀ ਵੇਖਾਈ ਜਾ ਸਕਦੀ"
+
+#: ../src/iog-util.c:116
+msgid " (invalid Unicode)"
+msgstr " (ਗਲਤ ਯੂਨੀਕੋਡ)"
+
+#. Translators: This is the string displayed in the statusbar
+#. * The tokens are from left to right:
+#. * - image width
+#. * - image height
+#. * - image size in bytes
+#. * - zoom in percent
+#: ../src/iog-window.c:516
+#, c-format
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] "%i x %i ਪਿਕਸਲ  %s    %i%%"
+msgstr[1] "%i x %i ਪਿਕਸਲ  %s    %i%%"
+
+#: ../src/iog-window.c:817
+msgid "_Reload"
+msgstr "ਮੁੜ-ਲੋਡ(_R)"
+
+#: ../src/iog-window.c:819 ../src/iog-window.c:2717
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr "ਓਹਲੇ(_d)"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:829
+#, c-format
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr "ਚਿੱਤਰ \"%s\" ਨੂੰ ਬਾਹਰੀ ਐਪਲੀਕੇਸ਼ਨ ਵਲੋਂ ਸੋਧਿਆ ਗਿਆ ਹੈ।\nਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: ../src/iog-window.c:1002
+#, c-format
+msgid "Use \"%s\" to open the selected image"
+msgstr "ਚੁਣੇ ਚਿੱਤਰ ਖੋਲ੍ਹਣ ਲਈ \"%s\" ਵਰਤੋਂ"
+
+#. Translators: This string is displayed in the statusbar
+#. * while saving images. The tokens are from left to right:
+#. * - the original filename
+#. * - the current image's position in the queue
+#. * - the total number of images queued for saving
+#: ../src/iog-window.c:1158
+#, c-format
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "\"%s\" (%u/%u) ਚਿੱਤਰ ਸੰਭਾਲਿਆ ਜਾ ਰਿਹਾ ਹੈ।"
+
+#: ../src/iog-window.c:1516
+#, c-format
+msgid "Opening image \"%s\""
+msgstr "\"%s\" ਚਿੱਤਰ ਖੋਲ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+#: ../src/iog-window.c:2214
+#, c-format
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr "ਫਾਇਲ ਪਰਿੰਟਿੰਗ ਗਲਤੀ:\n%s"
+
+#: ../src/iog-window.c:2476
+msgid "Toolbar Editor"
+msgstr "ਟੂਲਬਾਰ ਐਡੀਟਰ"
+
+#: ../src/iog-window.c:2479
+msgid "_Reset to Default"
+msgstr "ਡਿਫਾਲਟ ਲਈ ਰੀ-ਸੈੱਟ(_R)"
+
+#: ../src/iog-window.c:2572
+msgid "translator-credits"
+msgstr "ਅਮਨਪਰੀਤ ਸਿੰਘ ਬਰਾੜ ਆਲਮਵਾਲਾ, ੨੦੦੪-੨੦੦੯\nਜਸਵਿੰਦਰ ਸਿੰਘ ਫੂਲੇਵਾਲਾ, ੨੦੦੪\nhttp://www.satluj.com/"
+
+#: ../src/iog-window.c:2575
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr "ਇਹ ਪਰੋਗਰਾਮ ਮੁਫ਼ਤ ਸਾਫਟਵੇਅਰ ਹੈ, ਜੋ ਕਿ ਗਨੂ (ਜਰਨਲ ਪਬਲਿਕ ਲਾਈਸੈਂਸ, ਜੋ ਕਿ ਫਰੀ ਸਾਫਟਵੇਅਰ ਫਾਊਨਡੇਸ਼ਨ ਵਲੋਂ ਪਰਕਾਸ਼ਿਤ ਕੀਤਾ ਗਿਆ ਹੈ) ਦੇ ਵਰਜਨ ੨ ਜਾਂ ਕੋਈ ਵੀ ਨਵੇਂ (ਤੁਹਾਡੀ ਸਹੂਲਤ ਮੁਤਾਬਕ) ਰਾਹੀਂ ਵੰਡਿਆ ਜਾ ਸਕਦਾ ਹੈ।\n"
+
+#: ../src/iog-window.c:2579
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr "ਇਹ ਪ੍ਰੋਗਰਾਮ ਇਹ ਸੋਚ ਕਿ ਵੰਡਿਆ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਇਹ ਲਾਭਦਾਇਕ ਹੋਵੇਗਾ, ਪਰ ਕੋਈ ਵਾਰੰਟੀ ਨਹੀਂ ਦਿੱਤੀ ਜਾ ਰਹੀ ਹੈ, ਕਿਸੇ ਵੀ ਖਾਸ ਮਕਸਦ ਲਈ ਅਨੁਕੂਲ ਹੋਣ ਦੀ ਵੀ ਵਾਰੰਦੀ ਲਾਗੂ ਨਹੀਂ ਹੁੰਦੀ ਹੈ। ਹੋਰ ਵੇਰਵੇਲਈ ਗਨੂ (GNU) ਜਰਨਲ ਪਬਲਿਕ ਲਾਈਸੈਂਸ ਵੇਖ ਲਵੋ।\n"
+
+#: ../src/iog-window.c:2583
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr ""
+
+#: ../src/iog-window.c:2601
+msgid "The GDE2 image viewer."
+msgstr "ਗਨੋਮ ਚਿੱਤਰ ਦਰਸ਼ਕ ਹੈ।"
+
+#. I18N: When setting mnemonics for these strings, watch out to not
+#. clash with mnemonics from iog's menubar
+#: ../src/iog-window.c:2715
+msgid "_Open Background Preferences"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਪਸੰਦ ਖੋਲ੍ਹੋ(_O)"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:2731
+#, c-format
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr "ਚਿੱਤਰ \"%s\" ਨੂੰ ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਂਡ ਵਜੋਂ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ।\nਕੀ ਤੁਸੀਂ ਇਸ ਦੀ ਦਿੱਖ ਬਦਲਣੀ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: ../src/iog-window.c:3133
+msgid "Saving image locally…"
+msgstr "ਚਿੱਤਰ ਲੋਕਲ ਸੰਭਾਲਿਆ ਜਾ ਰਿਹਾ ਹੈ…"
+
+#: ../src/iog-window.c:3213
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr "ਕੀ ਤੁਸੀਂ \"%s\" ਨੂੰ\nਰੱਦੀ 'ਚ ਭੇਜਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: ../src/iog-window.c:3216
+#, c-format
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr "\"%s\" ਲਈ ਰੱਦੀ ਨਹੀਂ ਲੱਭੀ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਹ ਚਿੱਤਰ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: ../src/iog-window.c:3221
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] "ਕੀ ਤੁਸੀਂ ਚੁਣੇ ਚਿੱਤਰ ਨੂੰ ਰੱਦੀ ਵਿੱਚ\nਭੇਜਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+msgstr[1] "ਕੀ ਤੁਸੀਂ %d ਚੁਣੇ ਚਿੱਤਰਾਂ\nਨੂੰ ਰੱਦੀ ਵਿੱਚ ਭੇਜਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: ../src/iog-window.c:3226
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr "ਚੁਣੇ ਚਿੱਤਰਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ ਅਤੇ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਹਟਾਇਆ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: ../src/iog-window.c:3243 ../src/iog-window.c:3727 ../src/iog-window.c:3754
+msgid "Move to _Trash"
+msgstr "ਰੱਦੀ 'ਚ ਭੇਜੋ(_T)"
+
+#: ../src/iog-window.c:3245
+msgid "_Do not ask again during this session"
+msgstr "ਇਸ ਸ਼ੈਸ਼ਨ ਦੌਰਾਨ ਮੁੜ ਨਾ ਪੁੱਛੋ(_D)"
+
+#: ../src/iog-window.c:3290 ../src/iog-window.c:3304
+#, c-format
+msgid "Couldn't access trash."
+msgstr "ਰੱਦੀ ਨੂੰ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।"
+
+#: ../src/iog-window.c:3312
+#, c-format
+msgid "Couldn't delete file"
+msgstr "ਫਾਇਲ ਹਟਾਈ ਨਹੀਂ ਜਾ ਸਕੀ"
+
+#: ../src/iog-window.c:3409
+#, c-format
+msgid "Error on deleting image %s"
+msgstr "ਚਿੱਤਰ %s ਨੂੰ ਹਟਾਉਣ ਵਿੱਚ ਗਲਤੀ"
+
+#: ../src/iog-window.c:3651
+msgid "_Image"
+msgstr "ਚਿੱਤਰ(_I)"
+
+#: ../src/iog-window.c:3652
+msgid "_Edit"
+msgstr "ਸੋਧ(_E)"
+
+#: ../src/iog-window.c:3653
+msgid "_View"
+msgstr "ਵੇਖੋ(_V)"
+
+#: ../src/iog-window.c:3654
+msgid "_Go"
+msgstr "ਜਾਓ(_G)"
+
+#: ../src/iog-window.c:3655
+msgid "_Tools"
+msgstr "ਟੂਲ(_T)"
+
+#: ../src/iog-window.c:3656
+msgid "_Help"
+msgstr "ਮੱਦਦ(_H)"
+
+#: ../src/iog-window.c:3658
+msgid "_Open…"
+msgstr "ਖੋਲ੍ਹੋ(_O)…"
+
+#: ../src/iog-window.c:3659
+msgid "Open a file"
+msgstr "ਇੱਕ ਫਾਇਲ ਖੋਲ੍ਹੋ"
+
+#: ../src/iog-window.c:3661
+msgid "_Close"
+msgstr "ਬੰਦ ਕਰੋ(_C)"
+
+#: ../src/iog-window.c:3662
+msgid "Close window"
+msgstr "ਵਿੰਡੋ ਬੰਦ ਕਰੋ"
+
+#: ../src/iog-window.c:3664
+msgid "T_oolbar"
+msgstr "ਟੂਲਬਾਰ(_o)"
+
+#: ../src/iog-window.c:3665
+msgid "Edit the application toolbar"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਟੂਲਬਾਰ ਸੋਧ"
+
+#: ../src/iog-window.c:3667
+msgid "Prefere_nces"
+msgstr "ਮੇਰੀ ਪਸੰਦ(_n)"
+
+#: ../src/iog-window.c:3668
+msgid "Preferences for Eye of GDE2"
+msgstr "ਗਨੋਮ ਅੱਖ ਲਈ ਮੇਰੀ ਪਸੰਦ"
+
+#: ../src/iog-window.c:3670
+msgid "_Contents"
+msgstr "ਸਮੱਗਰੀ(_C)"
+
+#: ../src/iog-window.c:3671
+msgid "Help on this application"
+msgstr "ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਬਾਰੇ ਮੱਦਦ"
+
+#: ../src/iog-window.c:3674
+msgid "About this application"
+msgstr "ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਬਾਰੇ"
+
+#: ../src/iog-window.c:3679
+msgid "_Toolbar"
+msgstr "ਟੂਲਬਾਰ(_T)"
+
+#: ../src/iog-window.c:3680
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "ਮੌਜੂਦਾ ਵਿੰਡੋ ਵਿੱਚ ਟੂਲਬਾਰ ਦੀ ਦਿੱਖ ਬਦਲੋ"
+
+#: ../src/iog-window.c:3682
+msgid "_Statusbar"
+msgstr "ਹਾਲਤ-ਪੱਟੀ(_S)"
+
+#: ../src/iog-window.c:3683
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "ਮੌਜੂਦਾ ਵਿੰਡੋ ਵਿੱਚ ਹਾਲਤ-ਪੱਟੀ ਦੀ ਦਿੱਖ ਬਦਲੋ"
+
+#: ../src/iog-window.c:3685
+msgid "_Image Collection"
+msgstr "ਚਿੱਤਰ ਭੰਡਾਰ(_I)"
+
+#: ../src/iog-window.c:3686
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "ਮੌਜੂਦਾ ਵਿੰਡੋ ਵਿੱਚ ਚਿੱਤਰ ਭੰਡਾਰ ਬਾਹੀ ਦੀ ਦਿੱਖ ਬਦਲੋ"
+
+#: ../src/iog-window.c:3688
+msgid "Side _Pane"
+msgstr "ਸਾਈਡ ਪੈਨ(_P)"
+
+#: ../src/iog-window.c:3689
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "ਮੌਜੂਦਾ ਵਿੰਡੋ ਵਿੱਚ ਸਾਈਡ-ਪੈਨ ਦੀ ਦਿੱਖ ਬਦਲੋ"
+
+#: ../src/iog-window.c:3694
+msgid "_Save"
+msgstr "ਸੰਭਾਲੋ(_S)"
+
+#: ../src/iog-window.c:3695
+msgid "Save changes in currently selected images"
+msgstr "ਮੌਜੂਦਾ ਚੁਣੇ ਚਿੱਤਰਾਂ ਵਿੱਚ ਬਦਲਾਅ ਸੰਭਾਲੋ"
+
+#: ../src/iog-window.c:3697
+msgid "Open _with"
+msgstr "ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ(_w)"
+
+#: ../src/iog-window.c:3698
+msgid "Open the selected image with a different application"
+msgstr "ਚੁਣੇ ਚਿੱਤਰ ਨੂੰ ਵੱਖਰੀ ਐਪਲੀਕੇਸ਼ਨ ਨਾਲ ਖੋਲ੍ਹੋ"
+
+#: ../src/iog-window.c:3700
+msgid "Save _As…"
+msgstr "ਇੰਝ ਸੰਭਾਲੋ(_A)…"
+
+#: ../src/iog-window.c:3701
+msgid "Save the selected images with a different name"
+msgstr "ਚੁਣੇ ਚਿੱਤਰਾਂ ਨੂੰ ਵੱਖਰੇ ਨਾਂ ਨਾਲ ਸੰਭਾਲੋ"
+
+#: ../src/iog-window.c:3703
+msgid "_Print…"
+msgstr "ਪਰਿੰਟ ਕਰੋ(_P)…"
+
+#: ../src/iog-window.c:3704
+msgid "Print the selected image"
+msgstr "ਚੁਣਿਆ ਚਿੱਤਰ ਪਰਿੰਟ ਕਰੋ"
+
+#: ../src/iog-window.c:3706
+msgid "Prope_rties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ(_r)"
+
+#: ../src/iog-window.c:3707
+msgid "Show the properties and metadata of the selected image"
+msgstr "ਚੁਣੇ ਚਿੱਤਰ ਲਈ ਵਿਸ਼ੇਸ਼ਤਾ ਅਤੇ ਮੇਟਾਡਾਟਾ ਵੇਖੋ"
+
+#: ../src/iog-window.c:3709
+msgid "_Undo"
+msgstr "ਵਾਪਸ(_U)"
+
+#: ../src/iog-window.c:3710
+msgid "Undo the last change in the image"
+msgstr "ਚਿੱਤਰ ਆਖਰੀ ਬਦਲਾਅ ਵਾਪਸ ਲਵੋ"
+
+#: ../src/iog-window.c:3712
+msgid "Flip _Horizontal"
+msgstr "ਖਿਤਿਜੀ ਝਟਕੋ(_H)"
+
+#: ../src/iog-window.c:3713
+msgid "Mirror the image horizontally"
+msgstr "ਚਿੱਤਰ ਹਰੀਜ਼ਟਲ ਮਿੱਰਰ ਕਰੋ"
+
+#: ../src/iog-window.c:3715
+msgid "Flip _Vertical"
+msgstr "ਲੰਬਕਾਰੀ ਝਟਕੋ(_V)"
+
+#: ../src/iog-window.c:3716
+msgid "Mirror the image vertically"
+msgstr "ਚਿੱਤਰ ਵਰਟੀਕਲ ਮਿੱਰਰ ਕਰੋ"
+
+#: ../src/iog-window.c:3718
+msgid "_Rotate Clockwise"
+msgstr "ਸੱਜੇ ਦਾਅ ਘੁੰਮਾਓ(_R)"
+
+#: ../src/iog-window.c:3719
+msgid "Rotate the image 90 degrees to the right"
+msgstr "ਚਿੱਤਰ ੯੦ ਡਿਗਰੀ ਸੱਜੇ ਪਾਸੇ ਘੁੰਮਾਓ"
+
+#: ../src/iog-window.c:3721
+msgid "Rotate Counterc_lockwise"
+msgstr "ਖੱਬੇ ਦਾਅ ਘੁੰਮਾਓ(_l)"
+
+#: ../src/iog-window.c:3722
+msgid "Rotate the image 90 degrees to the left"
+msgstr "ਚਿੱਤਰ ੯੦ ਡਿਗਰੀ ਖੱਬੇ ਘੁੰਮਾਓ"
+
+#: ../src/iog-window.c:3724
+msgid "Set as _Desktop Background"
+msgstr "ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਂਡ ਬਣਾਓ(_D)"
+
+#: ../src/iog-window.c:3725
+msgid "Set the selected image as the desktop background"
+msgstr "ਚੁਣਿਆ ਚਿੱਤਰ ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਂਡ ਵਾਂਗ ਸੈੱਟ ਕਰੋ"
+
+#: ../src/iog-window.c:3728
+msgid "Move the selected image to the trash folder"
+msgstr "ਚੁਣਿਆ ਚਿੱਤਰ ਰੱਦੀ ਫੋਲਡਰ ਵਿੱਚ ਭੇਜੋ"
+
+#: ../src/iog-window.c:3730
+msgid "_Copy"
+msgstr ""
+
+#: ../src/iog-window.c:3731
+msgid "Copy the selected image to the clipboard"
+msgstr ""
+
+#: ../src/iog-window.c:3733 ../src/iog-window.c:3745 ../src/iog-window.c:3748
+msgid "_Zoom In"
+msgstr "ਜ਼ੂਮ ਇਨ(_Z)"
+
+#: ../src/iog-window.c:3734 ../src/iog-window.c:3746
+msgid "Enlarge the image"
+msgstr "ਚਿੱਤਰ ਵੱਡਾ ਕਰੋ"
+
+#: ../src/iog-window.c:3736 ../src/iog-window.c:3751
+msgid "Zoom _Out"
+msgstr "ਜ਼ੂਮ ਆਉਟ(_O)"
+
+#: ../src/iog-window.c:3737 ../src/iog-window.c:3749 ../src/iog-window.c:3752
+msgid "Shrink the image"
+msgstr "ਚਿੱਤਰ ਸੁੰਘੜੋ"
+
+#: ../src/iog-window.c:3739
+msgid "_Normal Size"
+msgstr "ਸਧਾਰਨ ਅਕਾਰ(_N)"
+
+#: ../src/iog-window.c:3740
+msgid "Show the image at its normal size"
+msgstr "ਚਿੱਤਰ ਇਸ ਦੇ ਨਾਰਮਲ ਸਾਈਜ਼ ਉੱਤੇ ਵੇਖੋ"
+
+#: ../src/iog-window.c:3742
+msgid "_Best Fit"
+msgstr ""
+
+#: ../src/iog-window.c:3743
+msgid "Fit the image to the window"
+msgstr "ਚਿੱਤਰ ਵਿੰਡੋ ਵਿੱਚ ਫਿੱਟ ਕਰੋ"
+
+#: ../src/iog-window.c:3760
+msgid "_Fullscreen"
+msgstr "ਪੂਰੀ ਸਕਰੀਨ(_F)"
+
+#: ../src/iog-window.c:3761
+msgid "Show the current image in fullscreen mode"
+msgstr "ਮੌਜੂਦਾ ਚਿੱਤਰ ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਵਿੱਚ ਵੇਖੋ"
+
+#: ../src/iog-window.c:3763
+msgid "Pause Slideshow"
+msgstr "ਸਲਾਇਡ ਸ਼ੋ ਰੋਕੋ"
+
+#: ../src/iog-window.c:3764
+msgid "Pause or resume the slideshow"
+msgstr "ਸਲਾਈਡ-ਸ਼ੋ ਚਲਾਓ ਜਾਂ ਰੋਕੋ"
+
+#: ../src/iog-window.c:3769 ../src/iog-window.c:3784
+msgid "_Previous Image"
+msgstr "ਚਿੱਤਰ ਪਿੱਛੇ(_P)"
+
+#: ../src/iog-window.c:3770
+msgid "Go to the previous image of the collection"
+msgstr " ਭੰਡਾਰ ਵਿੱਚ ਪਿਛਲੇ ਚਿੱਤਰ ਉੱਤੇ ਜਾਓ"
+
+#: ../src/iog-window.c:3772
+msgid "_Next Image"
+msgstr "ਚਿੱਤਰ ਅੱਗੇ(_N)"
+
+#: ../src/iog-window.c:3773
+msgid "Go to the next image of the collection"
+msgstr "ਭੰਡਾਰ ਵਿੱਚ ਅਗਲੇ ਚਿੱਤਰ ਉੱਤੇ ਜਾਓ"
+
+#: ../src/iog-window.c:3775 ../src/iog-window.c:3787
+msgid "_First Image"
+msgstr "ਪਹਿਲਾਂ ਚਿੱਤਰ(_F)"
+
+#: ../src/iog-window.c:3776
+msgid "Go to the first image of the collection"
+msgstr "ਭੰਡਾਰ ਵਿੱਚ ਪਹਿਲੇ ਚਿੱਤਰ ਉੱਤੇ ਜਾਓ"
+
+#: ../src/iog-window.c:3778 ../src/iog-window.c:3790
+msgid "_Last Image"
+msgstr "ਆਖਰੀ ਚਿੱਤਰ(_L)"
+
+#: ../src/iog-window.c:3779
+msgid "Go to the last image of the collection"
+msgstr "ਭੰਡਾਰ ਵਿੱਚ ਆਖਰੀ ਚਿੱਤਰ ਉੱਤੇ ਜਾਓ"
+
+#: ../src/iog-window.c:3781
+msgid "_Random Image"
+msgstr "ਰਲਵਾਂ ਚਿੱਤਰ(_R)"
+
+#: ../src/iog-window.c:3782
+msgid "Go to a random image of the collection"
+msgstr "ਭੰਡਾਰ ਵਿੱਚ ਰਲਵੇਂ ਚਿੱਤਰ ਉੱਤੇ ਜਾਓ"
+
+#: ../src/iog-window.c:3796
+msgid "S_lideshow"
+msgstr ""
+
+#: ../src/iog-window.c:3797
+msgid "Start a slideshow view of the images"
+msgstr "ਚਿੱਤਰਾਂ ਲਈ ਇੱਕ ਸਲਾਇਡ-ਸ਼ੋ ਸਟਾਰਟ ਕਰੋ"
+
+#: ../src/iog-window.c:3863
+msgid "Previous"
+msgstr "ਪਿੱਛੇ"
+
+#: ../src/iog-window.c:3867
+msgid "Next"
+msgstr "ਅੱਗੇ"
+
+#: ../src/iog-window.c:3871
+msgid "Right"
+msgstr "ਸੱਜੇ"
+
+#: ../src/iog-window.c:3874
+msgid "Left"
+msgstr "ਖੱਬੇ"
+
+#: ../src/iog-window.c:3877
+msgid "In"
+msgstr "ਅੰਦਰ"
+
+#: ../src/iog-window.c:3880
+msgid "Out"
+msgstr "ਬਾਹਰ"
+
+#: ../src/iog-window.c:3883
+msgid "Normal"
+msgstr "ਸਧਾਰਨ"
+
+#: ../src/iog-window.c:3886
+msgid "Fit"
+msgstr "ਫਿੱਟ"
+
+#: ../src/iog-window.c:3889
+msgid "Collection"
+msgstr "ਭੰਡਾਰ"
+
+#: ../src/iog-window.c:3892
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr "ਰੱਦੀ"
+
+#: ../src/iog-window.c:4245
+#, c-format
+msgid "Edit the current image using %s"
+msgstr ""
+
+#: ../src/iog-window.c:4247
+msgid "Edit Image"
+msgstr ""
+
+#: ../src/main.c:80
+msgid "Open in fullscreen mode"
+msgstr "ਪੂਰੀ-ਸਕਰੀਨ ਮੋਡ 'ਚ ਖੋਲ੍ਹੋ"
+
+#: ../src/main.c:81
+msgid "Disable image collection"
+msgstr "ਚਿੱਤਰ ਭੰਡਾਰ ਆਯੋਗ ਕਰੋ"
+
+#: ../src/main.c:82
+msgid "Open in slideshow mode"
+msgstr "ਸਲਾਇਡ ਸ਼ੋ ਮੋਡ 'ਚ ਖੋਲ੍ਹੋ"
+
+#: ../src/main.c:84
+msgid "Start a new instance instead of reusing an existing one"
+msgstr "ਮੌਜੂਦਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਬਜਾਏ ਨਵਾਂ ਸ਼ੁਰੂ ਕਰੋ"
+
+#: ../src/main.c:87
+msgid "Show the application's version"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਵਰਜਨ ਵੇਖੋ"
+
+#: ../src/main.c:88
+msgid "[FILE…]"
+msgstr "[FILE…]"
+
+#. I18N: The '%s' is replaced with iog's command name.
+#: ../src/main.c:219
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "ਪੂਰੀਆਂ ਉਪਲੱਬਧ ਕਮਾਂਡ ਲਾਈਨ ਚੋਣਾਂ ਵੇਖਣ ਵਾਸਤੇ '%s --help' ਚਲਾਓ।"

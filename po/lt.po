@@ -1,0 +1,1510 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# brennus <jonas.ska@gmail.com>, 2014
+# Džiugas Grėbliūnas <dziugas.grebliunas@gmail.com>, 2014
+# brennus <jonas.ska@gmail.com>, 2014
+# Moo, 2014-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-13 16:02+0300\n"
+"PO-Revision-Date: 2016-09-07 13:37+0000\n"
+"Last-Translator: Moo\n"
+"Language-Team: Lithuanian (http://www.transifex.com/gde2/GDE2/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Translaters: This string is for a toggle to display a toolbar.
+#. * The name of the toolbar is automatically computed from the widgets
+#. * on the toolbar, and is placed at the %s. Note the _ before the %s
+#. * which is used to add mnemonics. We know that this is likely to
+#. * produce duplicates, but don't worry about it. If your language
+#. * normally has a mnemonic at the start, please use the _. If not,
+#. * please remove.
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:948
+#, c-format
+msgid "Show “_%s”"
+msgstr "Rodyti „_%s“"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1416
+msgid "_Move on Toolbar"
+msgstr "P_erkelti į įrankių juostą"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1417
+msgid "Move the selected item on the toolbar"
+msgstr "Perkelti pasirinktą elementą į įrankių juostą"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1418
+msgid "_Remove from Toolbar"
+msgstr "_Pašalinti iš įrankių juostos"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1419
+msgid "Remove the selected item from the toolbar"
+msgstr "Pašalinti pasirinktą elementą iš įrankių juostos"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1420
+msgid "_Delete Toolbar"
+msgstr "_Ištrinti įrankių juostą"
+
+#: ../cut-n-paste/toolbar-editor/egg-editable-toolbar.c:1421
+msgid "Remove the selected toolbar"
+msgstr "Ištrinti pasirinktą įrankių juostą"
+
+#: ../cut-n-paste/toolbar-editor/egg-toolbar-editor.c:515
+msgid "Separator"
+msgstr "Skirtukas"
+
+#: ../data/iog.appdata.xml.in.h:1 ../src/iog-window.c:2596
+msgid "Eye of GDE2"
+msgstr "Eye of GDE2"
+
+#: ../data/iog.appdata.xml.in.h:2
+msgid "Simple image viewer"
+msgstr "Paprasta atvaizdų peržiūros programa"
+
+#: ../data/iog.appdata.xml.in.h:3
+msgid ""
+"<p> Eye of GDE2 is a simple viewer for browsing images on your computer. "
+"Once an image is loaded, you can zoom and rotate the image, and also view "
+"subsequent images in the directory the image was loaded from. </p>"
+msgstr "<p> Eye of GDE2 yra paprasta paveikslų peržiūros programa, skirta naršyti po paveikslus jūsų kompiuteryje. Kai įkeliamas paveikslas, galite ji didinti/mažinti, pasukti, o taip pat žiūrėti kitus paveikslus esančius tame pačiame, įkelto paveikslo, kataloge. </p>"
+
+#: ../data/iog.desktop.in.in.h:1 ../src/main.c:73 ../src/main.c:275
+msgid "Eye of GDE2 Image Viewer"
+msgstr "Atvaizdų peržiūros programa „Eye of GDE2“"
+
+#: ../data/iog.desktop.in.in.h:2
+msgid "Browse and rotate images"
+msgstr "Naršyti ir vartyti atvaizdus"
+
+#: ../data/iog-image-properties-dialog.ui.h:1
+msgid "Image Properties"
+msgstr "Atvaizdo savybės"
+
+#: ../data/iog-image-properties-dialog.ui.h:2
+msgid "Name:"
+msgstr "Pavadinimas:"
+
+#: ../data/iog-image-properties-dialog.ui.h:3
+msgid "Width:"
+msgstr "Plotis:"
+
+#: ../data/iog-image-properties-dialog.ui.h:4
+msgid "Height:"
+msgstr "Aukštis:"
+
+#: ../data/iog-image-properties-dialog.ui.h:5
+msgid "Type:"
+msgstr "Tipas:"
+
+#: ../data/iog-image-properties-dialog.ui.h:6
+msgid "Bytes:"
+msgstr "Baitai:"
+
+#: ../data/iog-image-properties-dialog.ui.h:7
+msgid "Location:"
+msgstr "Vieta:"
+
+#: ../data/iog-image-properties-dialog.ui.h:8
+msgid "General"
+msgstr "Bendrosios"
+
+#: ../data/iog-image-properties-dialog.ui.h:9
+msgid "Aperture Value:"
+msgstr "Diafragmos reikšmė:"
+
+#: ../data/iog-image-properties-dialog.ui.h:10
+msgid "Exposure Time:"
+msgstr "Išlaikymo laikas:"
+
+#: ../data/iog-image-properties-dialog.ui.h:11
+msgid "Focal Length:"
+msgstr "Židinio nuotolis:"
+
+#: ../data/iog-image-properties-dialog.ui.h:12
+msgid "Flash:"
+msgstr "Blykstė:"
+
+#: ../data/iog-image-properties-dialog.ui.h:13
+msgid "ISO Speed Rating:"
+msgstr "ISO greičio dydis:"
+
+#: ../data/iog-image-properties-dialog.ui.h:14
+msgid "Metering Mode:"
+msgstr "Matavimo veiksena:"
+
+#: ../data/iog-image-properties-dialog.ui.h:15
+msgid "Camera Model:"
+msgstr "Fotoaparato modelis:"
+
+#: ../data/iog-image-properties-dialog.ui.h:16
+msgid "Date/Time:"
+msgstr "Data/laikas:"
+
+#: ../data/iog-image-properties-dialog.ui.h:17
+msgid "Description:"
+msgstr "Aprašymas:"
+
+#: ../data/iog-image-properties-dialog.ui.h:18
+msgid "Keywords:"
+msgstr "Raktažodžiai:"
+
+#: ../data/iog-image-properties-dialog.ui.h:19
+msgid "Author:"
+msgstr "Autorius:"
+
+#: ../data/iog-image-properties-dialog.ui.h:20
+msgid "Copyright:"
+msgstr "Autoriaus teisės:"
+
+#: ../data/iog-image-properties-dialog.ui.h:21
+msgid "Details"
+msgstr "Išsami informacija"
+
+#: ../data/iog-image-properties-dialog.ui.h:22
+msgid "Metadata"
+msgstr "Metaduomenys"
+
+#: ../data/iog-image-properties-dialog.ui.h:23
+msgid "_Previous"
+msgstr "_Ankstesnis"
+
+#: ../data/iog-image-properties-dialog.ui.h:24
+msgid "_Next"
+msgstr "_Kitas"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:1
+msgid "Save As"
+msgstr "Įrašyti kaip"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:3
+#, no-c-format
+msgid "<b>%f:</b> original filename"
+msgstr "<b>%f:</b> pradinis failo vardas"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:5
+#, no-c-format
+msgid "<b>%n:</b> counter"
+msgstr "<b>%n:</b> skaitiklis"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:6
+msgid "Filename format:"
+msgstr "Failo vardo formatas:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:7
+msgid "Choose a folder"
+msgstr "Pasirinkite aplanką"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:8
+msgid "Destination folder:"
+msgstr "Paskirties aplankas:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:9
+msgid "File Path Specifications"
+msgstr "Failų kelio specifikacijos"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:10
+msgid "Start counter at:"
+msgstr "Paleisti skaitliuką nuo:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:11
+msgid "Replace spaces with underscores"
+msgstr "Pakeisti tarpus pabraukimais"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:12
+msgid "Options"
+msgstr "Parinktys"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:13
+msgid "Rename from:"
+msgstr "Pervadinti iš:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:14
+msgid "To:"
+msgstr "Į:"
+
+#: ../data/iog-multiple-save-as-dialog.ui.h:15
+msgid "File Name Preview"
+msgstr "Failų pavadinimų peržiūra"
+
+#: ../data/iog-preferences-dialog.ui.h:1
+msgid "Eye of GDE2 Preferences"
+msgstr "Eye of GDE2 nuostatos"
+
+#: ../data/iog-preferences-dialog.ui.h:2
+msgid "Image Enhancements"
+msgstr "Atvaizdo pagerinimai"
+
+#: ../data/iog-preferences-dialog.ui.h:3
+msgid "Smooth images when zoomed-_out"
+msgstr "_Mažinant glotninti paveikslą"
+
+#: ../data/iog-preferences-dialog.ui.h:4
+msgid "Smooth images when zoomed-_in"
+msgstr "_Didinant glotninti paveikslą"
+
+#: ../data/iog-preferences-dialog.ui.h:5
+msgid "_Automatic orientation"
+msgstr "_Automatinis pasukimas"
+
+#: ../data/iog-preferences-dialog.ui.h:6
+msgid "Background"
+msgstr "Fonas"
+
+#: ../data/iog-preferences-dialog.ui.h:7
+msgid "As custom color:"
+msgstr "Kaip pasirinktinė spalva:"
+
+#: ../data/iog-preferences-dialog.ui.h:8
+#: ../data/org.gde2.iog.gschema.xml.in.h:3
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: ../data/iog-preferences-dialog.ui.h:9
+msgid "Transparent Parts"
+msgstr "Skaidrios dalys"
+
+#: ../data/iog-preferences-dialog.ui.h:10
+msgid "As check _pattern"
+msgstr "Kaip lan_guotas raštas"
+
+#: ../data/iog-preferences-dialog.ui.h:11
+msgid "As custom c_olor:"
+msgstr "Kaip pasirinktinė s_palva:"
+
+#: ../data/iog-preferences-dialog.ui.h:12
+msgid "Color for Transparent Areas"
+msgstr "Skaidrių vietų spalva"
+
+#: ../data/iog-preferences-dialog.ui.h:13
+msgid "As _background"
+msgstr "Kaip _fonas"
+
+#: ../data/iog-preferences-dialog.ui.h:14
+msgid "Image View"
+msgstr "Paveikslo rodinys"
+
+#: ../data/iog-preferences-dialog.ui.h:15
+msgid "Image Zoom"
+msgstr "Paveikslo mastelis"
+
+#: ../data/iog-preferences-dialog.ui.h:16
+msgid "E_xpand images to fit screen"
+msgstr "Ište_mpti atvaizdus, kad užpildytų ekraną"
+
+#: ../data/iog-preferences-dialog.ui.h:17
+msgid "Sequence"
+msgstr "Seka"
+
+#: ../data/iog-preferences-dialog.ui.h:18
+msgid "_Switch image after:"
+msgstr "_Pakeisti paveikslą po:"
+
+#: ../data/iog-preferences-dialog.ui.h:19
+msgid "seconds"
+msgstr "sek."
+
+#: ../data/iog-preferences-dialog.ui.h:20
+msgid "_Random sequence"
+msgstr "_Atsitiktinė seka"
+
+#: ../data/iog-preferences-dialog.ui.h:21
+msgid "_Loop sequence"
+msgstr "_Ciklinė seka"
+
+#: ../data/iog-preferences-dialog.ui.h:22
+msgid "Slideshow"
+msgstr "Skaidrių rodymas"
+
+#: ../data/iog-preferences-dialog.ui.h:23
+msgid "Plugins"
+msgstr "Įskiepiai"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:1
+msgid "Automatic orientation"
+msgstr "Automatinė orientacija"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:2
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr "Ar paveikslas turėtų būti automatiškai paverstas atsižvelgiant į EXIF orientaciją."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:4
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr "Spalva, naudojama plotui už paveikslo užpildyti. Jei fono spalva nenurodyta, ji yra nustatoma iš naudojamos GTK+ temos."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:5
+msgid "Use a custom background color"
+msgstr "Naudoti pasirinktąją fono spalvą"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:6
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr "Jei įjungta, fono spalva bus naudojama plotui už paveikslo užpildyti. Jei išjungta, naudojama GTK+ tema nustatys užpildymo spalvą."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:7
+msgid "Interpolate Image"
+msgstr "Interpoliuoti paveikslą"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:8
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr "Ar mažinant mastelį, paveikslas turėtų būti interpoliuotas. Taip gaunama geresnė kokybė, tačiau tai yra šiek tiek lėčiau už neinterpoliuotus paveikslus."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:9
+msgid "Extrapolate Image"
+msgstr "Ekstrapoliuoti paveikslą"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:10
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr "Ar didinant mastelį, paveikslas turėtų būti ekstrapoliuotas. Taip gaunama prastesnė kokybė ir tai yra šiek tiek lėčiau už neekstrapoliuotus paveikslus."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:11
+msgid "Transparency indicator"
+msgstr "Skaidrumo indikatorius"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:12
+msgid ""
+"Determines how transparency should be indicated. Valid values are checked, "
+"color and none. If color is chosen, then the trans-color key determines the "
+"color value used."
+msgstr "Nustato kaip turėtų būti nurodomas skaidrumas. Teisingos vertės yra languotas raštas, spalva ir niekaip. Jei pasirinkta spalva, tuomet praeinamos spalvos raktas nustato naudojamos spalvos vertę."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:13
+msgid "Scroll wheel zoom"
+msgstr "Slinkties ratuko mastelis"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:14
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr "Ar mastelio keitimui turėtų būti naudojamas slinkties ratukas."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:15
+msgid "Zoom multiplier"
+msgstr "Mastelio daugiklis"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:17
+#, no-c-format
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr "Daugiklis taikomas naudojant pelės slinkties ratuką mastelio keitimui. Ši reikšmė apibrėžia mastelio žingnį naudojama kiekvienam slinkties įvykiui. Pavyzdžiui, 0.05 – 5% mastelio didėjimas su kiekvienu slinkties įvykiu, o 1.00 – 100%."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:18
+msgid "Transparency color"
+msgstr "Skaidrumo spalva"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:19
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr "Jeigu skaidrumo raktas turi vertę COLOR, tada šis raktas nurodo spalvą kuri naudojama skaidrumui nustatyti."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:20
+msgid "Randomize the image sequence"
+msgstr "Paveikslų seką sudaryti atsitiktinai"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:21
+msgid "Whether the sequence of images should be shown in an random loop."
+msgstr "Ar atvaizdų seka turi būti rodoma atsitiktinės sekos ciklu."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:22
+msgid "Loop through the image sequence"
+msgstr "Rodyti ciklišką paveikslų seką"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:23
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr "Ar paveikslų seka turi būti rodoma nesibaigiančiu ciklu."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:25
+#, no-c-format
+msgid "Allow zoom greater than 100% initially"
+msgstr "Leisti pradžioje didesnį mastelį negu 100%"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:26
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr "Jeigu ši reikšmė nustatyta į NEIGIAMĄ, maži paveikslai nebus ištempti tam, kad tilptų į ekraną."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:27
+msgid "Delay in seconds until showing the next image"
+msgstr "Delsa prieš parodant kitą paveikslą"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:28
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr "Reikšmė didesnė už 0 nurodo kiek sekundžių paveikslas išlieka ekrane iki parodomas kitas. Nulis – išjungti automatinį naršymą."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:29
+msgid "Show/Hide the window toolbar."
+msgstr "Rodyti/slėpti lango įrankių juostą."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:30
+msgid "Show/Hide the window statusbar."
+msgstr "Rodyti/slėpti lango būsenos juostą."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:31
+msgid "Show/Hide the image collection pane."
+msgstr "Rodyti/slėpti paveikslų kolekcijos polangį."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:32
+msgid "Image collection pane position."
+msgstr "Paveikslų kolekcijos polangio vieta"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:33
+msgid "Whether the image collection pane should be resizable."
+msgstr "Ar paveikslų kolekcijos polangis turi būti keičiamo dydžio."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:34
+msgid "Show/Hide the window side pane."
+msgstr "Rodyti/slėpti lango šoninį polangį."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:35
+msgid "Show/Hide the image collection pane scroll buttons."
+msgstr "Rodyti/slėpti paveikslų kolekcijos polangio slinkties mygtukus."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:36
+msgid "Close main window without asking to save changes."
+msgstr "Užverti pagrindinį langą, neklausiant ar įrašyti pakeitimus."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:37
+msgid "Trash images without asking"
+msgstr "Mesti paveikslus į šiukšlinę, neklausiant"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:38
+msgid ""
+"If activated, Eye of GDE2 won't ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr "Jei įjungta, Eye of GDE2 neklaus patvirtinimo prieš perkeliant paveikslus į šiukšlinę. Bus klausiama patvirtinimo, jei bent vienas iš failų negali būti perkeltas į šiukšlinę, todėl bus ištrintas."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:39
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr "Ar metaduomenų sąrašas savybių dialoge turėtų turėti savo puslapį."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:40
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the \"Metadata\" page."
+msgstr "Jei įjungta, išsamus metaduomenų sąrašas savybių dialoge bus perkeltas į atskirą puslapį dialoge. Toks dialogas turėtų būti patogesnis naudoti mažame ekrane, pvz. internetiniuose kompiuteriuose. Jei išjungta, metaduomenys bus rodomi „Metaduomenų“ puslapyje."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:41
+msgid "External program to use for editing images"
+msgstr "Paveikslų redagavimui skirta išorinė programa"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:42
+msgid ""
+"The desktop file name (including the \".desktop\") of the application to use"
+" for editing images (when the \"Edit Image\" toolbar button is clicked). Set"
+" to the empty string to disable this feature."
+msgstr "Programos, kuri bus naudojama paveikslų redagavimui (kuomet įrankių juostoje bus nuspaudžiamas mygtukas \"Redaguoti paveikslą\") darbalaukio failo pavadinimas (įskaitant \".desktop\"). Palikite tuščią eilutę, norėdami išjungti šią funkciją."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:43
+msgid ""
+"Whether the file chooser should show the user's pictures folder if no images"
+" are loaded."
+msgstr "Ar failų parinkiklis turėtų rodyti naudotojo paveikslų aplanką, jei neįkeltas joks paveikslas."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:44
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user's pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr "Jei įjungta ir aktyviame lange nėra įkelta paveikslų, failų parinkiklis rodys naudotojo paveikslų aplanką naudodamas XDG specialius naudotojų aplankus. Jei išjungta arba paveikslų aplankas nesukonfigūruotas, rodys darbinį katalogą."
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:45
+msgid "Active plugins"
+msgstr "Įjungti įskiepiai"
+
+#: ../data/org.gde2.iog.gschema.xml.in.h:46
+msgid ""
+"List of active plugins. It doesn't contain the \"Location\" of the active "
+"plugins. See the .iog-plugin file for obtaining the \"Location\" of a given "
+"plugin."
+msgstr "Įjungtų įskiepių sąrašas. Jame nėra aktyvių įskiepių „vietos“. Norėdami gauti nurodyto įskiepio „vietą“, žiūrėkite .iog-plugin failą."
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:1
+msgid "Fullscreen with double-click"
+msgstr "Viso ekrano veiksena dvikarčiu spustelėjimu"
+
+#: ../plugins/fullscreen/fullscreen.iog-plugin.desktop.in.h:2
+msgid "Activate fullscreen mode with double-click"
+msgstr "Aktyvuoti viso ekrano veikseną dvikarčiu pelės spustelėjimu"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:1
+msgid "Reload Image"
+msgstr "Įkelti iš naujo"
+
+#: ../plugins/reload/iog-reload-plugin.c:38
+#: ../plugins/reload/reload.iog-plugin.desktop.in.h:2
+msgid "Reload current image"
+msgstr "Įkelti iš naujo esamą atvaizdą"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:1
+msgid "Date in statusbar"
+msgstr "Data būsenos juostoje"
+
+#: ../plugins/statusbar-date/statusbar-date.iog-plugin.desktop.in.h:2
+msgid "Shows the image date in the window statusbar"
+msgstr "Parodo atvaizdo datą lango būsenos juostoje"
+
+#: ../src/iog-application.c:124
+msgid "Running in fullscreen mode"
+msgstr "Veikia viso ekrano veiksenoje"
+
+#: ../src/iog-close-confirmation-dialog.c:164
+msgid "Close _without Saving"
+msgstr "Užverti _neįrašant"
+
+#: ../src/iog-close-confirmation-dialog.c:197
+msgid "Question"
+msgstr "Klausimas"
+
+#: ../src/iog-close-confirmation-dialog.c:378
+msgid "If you don't save, your changes will be lost."
+msgstr "Jei neįrašysite, jūsų atlikti pakeitimai bus prarasti."
+
+#: ../src/iog-close-confirmation-dialog.c:421
+#, c-format
+msgid "Save changes to image \"%s\" before closing?"
+msgstr "Įrašyti paveikslo „%s“ pakeitimus prieš užveriant?"
+
+#: ../src/iog-close-confirmation-dialog.c:628
+#, c-format
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] "Yra %d paveikslas, turintis neįrašytų pakeitimų. Įrašyti pakeitimus prieš užveriant?"
+msgstr[1] "Yra %d paveikslai, turintys neįrašytų pakeitimų. Įrašyti pakeitimus prieš užveriant?"
+msgstr[2] "Yra %d paveikslų, turinčių neįrašytų pakeitimų. Įrašyti pakeitimus prieš užveriant?"
+
+#: ../src/iog-close-confirmation-dialog.c:645
+msgid "S_elect the images you want to save:"
+msgstr "_Pasirinkite paveikslus, kuriuos norite įrašyti:"
+
+#. Secondary label
+#: ../src/iog-close-confirmation-dialog.c:667
+msgid "If you don't save, all your changes will be lost."
+msgstr "Jei neįrašysite, visi jūsų atlikti pakeitimai bus prarasti."
+
+#: ../src/iog-file-chooser.c:132
+msgid "File format is unknown or unsupported"
+msgstr "Failo formatas nežinomas arba nepalaikomas"
+
+#: ../src/iog-file-chooser.c:137
+msgid ""
+"Eye of GDE2 could not determine a supported writable file format based on "
+"the filename."
+msgstr "Eye of GDE2 nepavyko pagal failo vardą nustatyti palaikomo įrašomo failo formato."
+
+#: ../src/iog-file-chooser.c:138
+msgid "Please try a different file extension like .png or .jpg."
+msgstr "Bandykite kitą failo plėtinį, pvz., .png arba .jpg."
+
+#: ../src/iog-file-chooser.c:170
+msgid "All Files"
+msgstr "Visi failai"
+
+#: ../src/iog-file-chooser.c:175
+msgid "All Images"
+msgstr "Visi paveikslai"
+
+#. Filter name: First description then file extension, eg. "The PNG-Format
+#. (*.png)".
+#: ../src/iog-file-chooser.c:196
+#, c-format
+msgid "%s (*.%s)"
+msgstr "%s (*.%s)"
+
+#. Pixel size of image: width x height in pixel
+#: ../src/iog-file-chooser.c:292 ../src/iog-properties-dialog.c:137
+#: ../src/iog-properties-dialog.c:139 ../src/iog-thumb-view.c:582
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "taškas"
+msgstr[1] "taškai"
+msgstr[2] "taškų"
+
+#: ../src/iog-file-chooser.c:443
+msgid "Open Image"
+msgstr "Atverti paveikslą"
+
+#: ../src/iog-file-chooser.c:451
+msgid "Save Image"
+msgstr "Įrašyti paveikslą"
+
+#: ../src/iog-file-chooser.c:459
+msgid "Open Folder"
+msgstr "Atverti aplanką"
+
+#: ../src/iog-image.c:562
+#, c-format
+msgid "Transformation on unloaded image."
+msgstr "Neįkelto paveikslo transformacija."
+
+#: ../src/iog-image.c:590
+#, c-format
+msgid "Transformation failed."
+msgstr "Transformuoti nepavyko."
+
+#: ../src/iog-image.c:1000
+#, c-format
+msgid "EXIF not supported for this file format."
+msgstr "Šiam failo formatui EXIF nepalaikomas."
+
+#: ../src/iog-image.c:1123
+#, c-format
+msgid "Image loading failed."
+msgstr "Nepavyko įkelti paveikslo."
+
+#: ../src/iog-image.c:1652 ../src/iog-image.c:1754
+#, c-format
+msgid "No image loaded."
+msgstr "Neįkeltas joks paveikslas."
+
+#: ../src/iog-image.c:1662 ../src/iog-image.c:1766
+#, c-format
+msgid "Temporary file creation failed."
+msgstr "Laikino failo sukūrimas nepavyko."
+
+#: ../src/iog-image-jpeg.c:384
+#, c-format
+msgid "Couldn't create temporary file for saving: %s"
+msgstr "Nepavyko sukurti laikino failo įrašymui: %s"
+
+#: ../src/iog-image-jpeg.c:395
+#, c-format
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "Nepavyko išskirti atminties JPEG failo įkėlimui"
+
+#: ../src/iog-error-message-area.c:124
+msgid "_Retry"
+msgstr "_Kartoti"
+
+#: ../src/iog-error-message-area.c:167
+#, c-format
+msgid "Could not load image '%s'."
+msgstr "Nepavyko įkelti paveikslo „%s“."
+
+#: ../src/iog-error-message-area.c:209
+#, c-format
+msgid "No images found in '%s'."
+msgstr "„%s“ paveikslų nerasta."
+
+#: ../src/iog-error-message-area.c:216
+msgid "The given locations contain no images."
+msgstr "Nurodytose vietose paveikslų nėra."
+
+#: ../src/iog-exif-details.c:68
+msgid "Camera"
+msgstr "Kamera"
+
+#: ../src/iog-exif-details.c:69
+msgid "Image Data"
+msgstr "Paveikslo duomenys"
+
+#: ../src/iog-exif-details.c:70
+msgid "Image Taking Conditions"
+msgstr "Paveikslų darymo sąlygos"
+
+#: ../src/iog-exif-details.c:71
+msgid "Maker Note"
+msgstr "Kūrėjo pastabos"
+
+#: ../src/iog-exif-details.c:72
+msgid "Other"
+msgstr "Kita"
+
+#: ../src/iog-exif-details.c:74
+msgid "XMP Exif"
+msgstr "XMP Exif"
+
+#: ../src/iog-exif-details.c:75
+msgid "XMP IPTC"
+msgstr "XMP IPTC"
+
+#: ../src/iog-exif-details.c:76
+msgid "XMP Rights Management"
+msgstr "XMP teisių valdymas"
+
+#: ../src/iog-exif-details.c:77
+msgid "XMP Other"
+msgstr "XMP kita"
+
+#: ../src/iog-exif-details.c:251
+msgid "Tag"
+msgstr "Žyma"
+
+#: ../src/iog-exif-details.c:258
+msgid "Value"
+msgstr "Reikšmė"
+
+#. A strftime-formatted string, to display the date the image was taken.
+#: ../src/iog-exif-util.c:121 ../src/iog-exif-util.c:161
+msgid "%a, %d %B %Y  %X"
+msgstr "%Y %B %d (%a) %X"
+
+#. A strftime-formatted string, to display the date the image was taken, for
+#. the case we don't have the time.
+#: ../src/iog-exif-util.c:155
+msgid "%a, %d %B %Y"
+msgstr "%Y %B %d (%a)"
+
+#: ../src/iog-plugin-manager.c:55
+msgid "Plugin"
+msgstr "Įskiepis"
+
+#: ../src/iog-plugin-manager.c:56
+msgid "Enabled"
+msgstr "Įjungtas"
+
+#: ../src/iog-plugin-manager.c:509 ../src/iog-window.c:3673
+msgid "_About"
+msgstr "_Apie"
+
+#: ../src/iog-plugin-manager.c:517
+msgid "C_onfigure"
+msgstr "K_onfigūruoti"
+
+#: ../src/iog-plugin-manager.c:527
+msgid "A_ctivate"
+msgstr "Įj_ungti"
+
+#: ../src/iog-plugin-manager.c:539
+msgid "Ac_tivate All"
+msgstr "Į_jungti visus"
+
+#: ../src/iog-plugin-manager.c:544
+msgid "_Deactivate All"
+msgstr "Išjun_gti visus"
+
+#: ../src/iog-plugin-manager.c:853
+msgid "Active _Plugins:"
+msgstr "Aktyvūs įs_kiepiai:"
+
+#: ../src/iog-plugin-manager.c:890
+msgid "_About Plugin"
+msgstr "_Apie įskiepį"
+
+#: ../src/iog-plugin-manager.c:897
+msgid "C_onfigure Plugin"
+msgstr "K_onfigūruoti įskiepį"
+
+#: ../src/iog-print.c:219
+msgid "Image Settings"
+msgstr "Paveikslo nustatymai"
+
+#: ../src/iog-print-image-setup.c:873
+msgid "Image"
+msgstr "Paveikslas"
+
+#: ../src/iog-print-image-setup.c:874
+msgid "The image whose printing properties will be set up"
+msgstr "Paveikslas, kurio spausdinimo nustatymai bus keičiami"
+
+#: ../src/iog-print-image-setup.c:880
+msgid "Page Setup"
+msgstr "Puslapio sąranka"
+
+#: ../src/iog-print-image-setup.c:881
+msgid "The information for the page where the image will be printed"
+msgstr "Informacija apie puslapį, kuriame bus spausdinamas paveikslas"
+
+#: ../src/iog-print-image-setup.c:914 ../src/iog-print-image-setup.c:928
+msgid "Position"
+msgstr "Pozicija"
+
+#: ../src/iog-print-image-setup.c:918 ../src/iog-print-image-setup.c:933
+msgid "_Left:"
+msgstr "_Kairė:"
+
+#: ../src/iog-print-image-setup.c:920 ../src/iog-print-image-setup.c:934
+msgid "_Right:"
+msgstr "_Dešinė:"
+
+#: ../src/iog-print-image-setup.c:921 ../src/iog-print-image-setup.c:935
+msgid "_Top:"
+msgstr "_Viršus:"
+
+#: ../src/iog-print-image-setup.c:922 ../src/iog-print-image-setup.c:936
+msgid "_Bottom:"
+msgstr "_Apačia:"
+
+#: ../src/iog-print-image-setup.c:939
+msgid "C_enter:"
+msgstr "C_entras:"
+
+#: ../src/iog-print-image-setup.c:948
+msgid "None"
+msgstr "Niekaip"
+
+#: ../src/iog-print-image-setup.c:950
+msgid "Horizontal"
+msgstr "Horizontaliai"
+
+#: ../src/iog-print-image-setup.c:952
+msgid "Vertical"
+msgstr "Vertikaliai"
+
+#: ../src/iog-print-image-setup.c:954
+msgid "Both"
+msgstr "Abu"
+
+#: ../src/iog-print-image-setup.c:980 ../src/iog-print-image-setup.c:991
+msgid "Size"
+msgstr "Dydis"
+
+#: ../src/iog-print-image-setup.c:983 ../src/iog-print-image-setup.c:996
+msgid "_Width:"
+msgstr "_Plotis:"
+
+#: ../src/iog-print-image-setup.c:985 ../src/iog-print-image-setup.c:998
+msgid "_Height:"
+msgstr "_Aukštis:"
+
+#: ../src/iog-print-image-setup.c:1002
+msgid "_Scaling:"
+msgstr "_Didinimas:"
+
+#: ../src/iog-print-image-setup.c:1026
+msgid "_Unit:"
+msgstr "_Vienetai:"
+
+#: ../src/iog-print-image-setup.c:1035
+msgid "Millimeters"
+msgstr "Milimetrai"
+
+#: ../src/iog-print-image-setup.c:1037
+msgid "Inches"
+msgstr "Coliai"
+
+#: ../src/iog-print-image-setup.c:1074
+msgid "Preview"
+msgstr "Peržiūra"
+
+#: ../src/iog-properties-dialog.c:154
+msgid "Unknown"
+msgstr "Nežinoma"
+
+#. TRANSLATORS: This is the actual focal length used when
+#. the image was taken.
+#: ../src/iog-properties-dialog.c:232
+#, c-format
+msgid "%.1f (lens)"
+msgstr "%.1f (lęšis)"
+
+#. Print as float to get a similar look as above.
+#. TRANSLATORS: This is the equivalent focal length assuming
+#. a 35mm film camera.
+#: ../src/iog-properties-dialog.c:243
+#, c-format
+msgid "%.1f (35mm film)"
+msgstr "%.1f (35mm juostelė)"
+
+#: ../src/iog-save-as-dialog-helper.c:161
+msgid "as is"
+msgstr "kaip yra"
+
+#. Translators: This string is displayed in the statusbar.
+#. * The first token is the image number, the second is total image
+#. * count.
+#. *
+#. * Translate to "%Id" if you want to use localized digits, or
+#. * translate to "%d" otherwise.
+#. *
+#. * Note that translating this doesn't guarantee that you get localized
+#. * digits. That needs support from your system and locale definition
+#. * too.
+#: ../src/iog-statusbar.c:134
+#, c-format
+msgid "%d / %d"
+msgstr "%d / %d"
+
+#: ../src/iog-thumb-view.c:610
+msgid "Taken on"
+msgstr "Fotografuota"
+
+#: ../src/iog-uri-converter.c:984
+#, c-format
+msgid "At least two file names are equal."
+msgstr "Mažiausiai du failų pavadinimai yra vienodi."
+
+#: ../src/iog-util.c:68
+msgid "Could not display help for Eye of GDE2"
+msgstr "Nepavyko parodyti Eye of GDE2 žinyno"
+
+#: ../src/iog-util.c:116
+msgid " (invalid Unicode)"
+msgstr " (netaisyklingas unikodas)"
+
+#. Translators: This is the string displayed in the statusbar
+#. * The tokens are from left to right:
+#. * - image width
+#. * - image height
+#. * - image size in bytes
+#. * - zoom in percent
+#: ../src/iog-window.c:516
+#, c-format
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] "%i × %i taško  %s    %i%%"
+msgstr[1] "%i × %i taškų  %s    %i%%"
+msgstr[2] "%i × %i taškų  %s    %i%%"
+
+#: ../src/iog-window.c:817
+msgid "_Reload"
+msgstr "Į_kelti iš naujo"
+
+#: ../src/iog-window.c:819 ../src/iog-window.c:2717
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr "_Slėpti"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:829
+#, c-format
+msgid ""
+"The image \"%s\" has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr "Paveikslas „%s“ pakeistas kitos programos.\nAr norite įkelti jį iš naujo?"
+
+#: ../src/iog-window.c:1002
+#, c-format
+msgid "Use \"%s\" to open the selected image"
+msgstr "Atverti pasirinktą paveikslą su „%s“"
+
+#. Translators: This string is displayed in the statusbar
+#. * while saving images. The tokens are from left to right:
+#. * - the original filename
+#. * - the current image's position in the queue
+#. * - the total number of images queued for saving
+#: ../src/iog-window.c:1158
+#, c-format
+msgid "Saving image \"%s\" (%u/%u)"
+msgstr "Įrašomas paveikslas „%s“ (%u/%u)"
+
+#: ../src/iog-window.c:1516
+#, c-format
+msgid "Opening image \"%s\""
+msgstr "Atveriamas paveikslas „%s“"
+
+#: ../src/iog-window.c:2214
+#, c-format
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr "Klaida spausdintant failą:\n%s"
+
+#: ../src/iog-window.c:2476
+msgid "Toolbar Editor"
+msgstr "Įrankių juostos rengyklė"
+
+#: ../src/iog-window.c:2479
+msgid "_Reset to Default"
+msgstr "_Atkurti numatytuosius"
+
+#: ../src/iog-window.c:2572
+msgid "translator-credits"
+msgstr "Paskutinysis vertėjas:\nŽygimantas Beručka <zygis@gnome.org>,\n\nVertėjai:\nJustina Klingaitė <justina.klingaite@gmail.com>,\nGediminas Paulauskas <menesis@chatsubo.lt>\nMoo"
+
+#: ../src/iog-window.c:2575
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+msgstr "Ši programa yra laisvoji programinė įranga; galite ją platinti ir / arba modifikuoti GNU Bendrosios Viešosios Licencijos sąlygomis, paskelbtomis Laisvosios Programinės Įrangos Fondo; 2-osios arba (jūsų pasirinkimu) bet kurios vėlesnės licencijos versijos sąlygomis.\n"
+
+#: ../src/iog-window.c:2579
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details.\n"
+msgstr "Ši programa yra platinama tikintis, kad ji bus naudinga, tačiau NESUTEIKIANT JOKIŲ GARANTIJŲ; netgi numanomų PARDAVIMO arba TINKAMUMO TAM TIKRAM TIKSLUI garantijų. Išsamesnę informaciją rasite GNU Bendrojoje Viešojoje licencijoje.\n"
+
+#: ../src/iog-window.c:2583
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr "Prie šios programos turėtų būti pridėta GNU Bendroji viešoji licencija; jeigu ne, kreipkitės į Laisvosios programinės įrangos fondą, 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, JAV."
+
+#: ../src/iog-window.c:2601
+msgid "The GDE2 image viewer."
+msgstr "GDE2 atvaizdų peržiūros programa."
+
+#. I18N: When setting mnemonics for these strings, watch out to not
+#. clash with mnemonics from iog's menubar
+#: ../src/iog-window.c:2715
+msgid "_Open Background Preferences"
+msgstr "_Atverti fono nuostatas"
+
+#. The newline character is currently necessary due to a problem
+#. * with the automatic line break.
+#: ../src/iog-window.c:2731
+#, c-format
+msgid ""
+"The image \"%s\" has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr "Paveikslas „%s“ nustatytas kaip darbalaukio fonas.\nAr norite pakeisti jo išvaizdą?"
+
+#: ../src/iog-window.c:3133
+msgid "Saving image locally…"
+msgstr "Paveikslas įrašomas vietiniame diske…"
+
+#: ../src/iog-window.c:3213
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"\"%s\" to the trash?"
+msgstr "Ar tikrai norite perkelti\n„%s“ į šiukšlinę?"
+
+#: ../src/iog-window.c:3216
+#, c-format
+msgid ""
+"A trash for \"%s\" couldn't be found. Do you want to remove this image "
+"permanently?"
+msgstr "„%s“ šiukšlinė nerasta. Ar norite šį paveikslą ištrinti negrįžtamai?"
+
+#: ../src/iog-window.c:3221
+#, c-format
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] "Ar tikrai norite perkelti %d pasirinktą\npaveikslą į šiukšlinę?"
+msgstr[1] "Ar tikrai norite perkelti %d pasirinktus\npaveikslus į šiukšlinę?"
+msgstr[2] "Ar tikrai norite perkelti %d pasirinktų\npaveikslų į šiukšlinę?"
+
+#: ../src/iog-window.c:3226
+msgid ""
+"Some of the selected images can't be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr "Kai kurių pasirinktų paveikslų negalima perkelti į šiukšlinę, tad jie bus ištrinti negrįžtamai. Ar tikrai norite tęsti?"
+
+#: ../src/iog-window.c:3243 ../src/iog-window.c:3727 ../src/iog-window.c:3754
+msgid "Move to _Trash"
+msgstr "Perkelti į ši_ukšlinę"
+
+#: ../src/iog-window.c:3245
+msgid "_Do not ask again during this session"
+msgstr "_Daugiau neklausti šio seanso metu"
+
+#: ../src/iog-window.c:3290 ../src/iog-window.c:3304
+#, c-format
+msgid "Couldn't access trash."
+msgstr "Nepavyko gauti prieigos prie šiukšlinės."
+
+#: ../src/iog-window.c:3312
+#, c-format
+msgid "Couldn't delete file"
+msgstr "Nepavyko ištrinti failo"
+
+#: ../src/iog-window.c:3409
+#, c-format
+msgid "Error on deleting image %s"
+msgstr "Trinant paveikslą %s įvyko klaida"
+
+#: ../src/iog-window.c:3651
+msgid "_Image"
+msgstr "_Paveikslas"
+
+#: ../src/iog-window.c:3652
+msgid "_Edit"
+msgstr "_Taisa"
+
+#: ../src/iog-window.c:3653
+msgid "_View"
+msgstr "R_odymas"
+
+#: ../src/iog-window.c:3654
+msgid "_Go"
+msgstr "_Eiti"
+
+#: ../src/iog-window.c:3655
+msgid "_Tools"
+msgstr "Įran_kiai"
+
+#: ../src/iog-window.c:3656
+msgid "_Help"
+msgstr "_Žinynas"
+
+#: ../src/iog-window.c:3658
+msgid "_Open…"
+msgstr "_Atverti…"
+
+#: ../src/iog-window.c:3659
+msgid "Open a file"
+msgstr "Atverti failą"
+
+#: ../src/iog-window.c:3661
+msgid "_Close"
+msgstr "_Užverti"
+
+#: ../src/iog-window.c:3662
+msgid "Close window"
+msgstr "Užverti langą"
+
+#: ../src/iog-window.c:3664
+msgid "T_oolbar"
+msgstr "Į_rankinė"
+
+#: ../src/iog-window.c:3665
+msgid "Edit the application toolbar"
+msgstr "Keisti programos įrankių juostą"
+
+#: ../src/iog-window.c:3667
+msgid "Prefere_nces"
+msgstr "_Nuostatos"
+
+#: ../src/iog-window.c:3668
+msgid "Preferences for Eye of GDE2"
+msgstr "Eye of GDE2 nuostatos"
+
+#: ../src/iog-window.c:3670
+msgid "_Contents"
+msgstr "_Turinys"
+
+#: ../src/iog-window.c:3671
+msgid "Help on this application"
+msgstr "Šios programos žinynas"
+
+#: ../src/iog-window.c:3674
+msgid "About this application"
+msgstr "Apie šią programą"
+
+#: ../src/iog-window.c:3679
+msgid "_Toolbar"
+msgstr "Į_rankių juosta"
+
+#: ../src/iog-window.c:3680
+msgid "Changes the visibility of the toolbar in the current window"
+msgstr "Keičia įrankių juostos esamame lange matomumą"
+
+#: ../src/iog-window.c:3682
+msgid "_Statusbar"
+msgstr "_Būsenos juosta"
+
+#: ../src/iog-window.c:3683
+msgid "Changes the visibility of the statusbar in the current window"
+msgstr "Keičia būsenos juostos esamame lange matomumą"
+
+#: ../src/iog-window.c:3685
+msgid "_Image Collection"
+msgstr "_Kolekcija"
+
+#: ../src/iog-window.c:3686
+msgid ""
+"Changes the visibility of the image collection pane in the current window"
+msgstr "Keičia esamo lango paveikslų kolekcijos polangio matomumą"
+
+#: ../src/iog-window.c:3688
+msgid "Side _Pane"
+msgstr "Šoninis _polangis"
+
+#: ../src/iog-window.c:3689
+msgid "Changes the visibility of the side pane in the current window"
+msgstr "Keičia esamo lango šoninio polangio matomumą"
+
+#: ../src/iog-window.c:3694
+msgid "_Save"
+msgstr "Į_rašyti"
+
+#: ../src/iog-window.c:3695
+msgid "Save changes in currently selected images"
+msgstr "Įrašyti pažymėtų paveikslų pakeitimus"
+
+#: ../src/iog-window.c:3697
+msgid "Open _with"
+msgstr "Atverti _su"
+
+#: ../src/iog-window.c:3698
+msgid "Open the selected image with a different application"
+msgstr "Atverti pažymėtą paveikslą su kita programa"
+
+#: ../src/iog-window.c:3700
+msgid "Save _As…"
+msgstr "Įrašyti k_aip…"
+
+#: ../src/iog-window.c:3701
+msgid "Save the selected images with a different name"
+msgstr "Įrašyti pažymėtus paveikslus kitu pavadinimu"
+
+#: ../src/iog-window.c:3703
+msgid "_Print…"
+msgstr "S_pausdinti…"
+
+#: ../src/iog-window.c:3704
+msgid "Print the selected image"
+msgstr "Spausdinti pažymėtą paveikslą"
+
+#: ../src/iog-window.c:3706
+msgid "Prope_rties"
+msgstr "Sa_vybės"
+
+#: ../src/iog-window.c:3707
+msgid "Show the properties and metadata of the selected image"
+msgstr "Rodyti pasirinkto paveikslo savybes ir metaduomenis"
+
+#: ../src/iog-window.c:3709
+msgid "_Undo"
+msgstr "_Atšaukti"
+
+#: ../src/iog-window.c:3710
+msgid "Undo the last change in the image"
+msgstr "Atšaukti paskutinį paveikslo pakeitimą"
+
+#: ../src/iog-window.c:3712
+msgid "Flip _Horizontal"
+msgstr "Apversti _horizontaliai"
+
+#: ../src/iog-window.c:3713
+msgid "Mirror the image horizontally"
+msgstr "Atspindėti paveikslą horizontaliai"
+
+#: ../src/iog-window.c:3715
+msgid "Flip _Vertical"
+msgstr "Apversti _vertikaliai"
+
+#: ../src/iog-window.c:3716
+msgid "Mirror the image vertically"
+msgstr "Atspindėti paveikslą vertikaliai"
+
+#: ../src/iog-window.c:3718
+msgid "_Rotate Clockwise"
+msgstr "Pasukti pagal laik_rodžio rodyklę"
+
+#: ../src/iog-window.c:3719
+msgid "Rotate the image 90 degrees to the right"
+msgstr "Pasukti paveikslą 90 laipsnių į dešinę"
+
+#: ../src/iog-window.c:3721
+msgid "Rotate Counterc_lockwise"
+msgstr "Pasukti prieš _laikrodžio rodyklę"
+
+#: ../src/iog-window.c:3722
+msgid "Rotate the image 90 degrees to the left"
+msgstr "Pasukti paveikslą 90 laipsnių į kairę"
+
+#: ../src/iog-window.c:3724
+msgid "Set as _Desktop Background"
+msgstr "Nustatyti kaip _darbalaukio foną"
+
+#: ../src/iog-window.c:3725
+msgid "Set the selected image as the desktop background"
+msgstr "Nustatyti pasirinktą paveikslą kaip darbalaukio foną"
+
+#: ../src/iog-window.c:3728
+msgid "Move the selected image to the trash folder"
+msgstr "Perkelti pasirinktą paveikslą į šiukšlinę"
+
+#: ../src/iog-window.c:3730
+msgid "_Copy"
+msgstr "_Kopijuoti"
+
+#: ../src/iog-window.c:3731
+msgid "Copy the selected image to the clipboard"
+msgstr "Kopijuoti pasirinktą paveikslą į iškarpinę"
+
+#: ../src/iog-window.c:3733 ../src/iog-window.c:3745 ../src/iog-window.c:3748
+msgid "_Zoom In"
+msgstr "_Didinti"
+
+#: ../src/iog-window.c:3734 ../src/iog-window.c:3746
+msgid "Enlarge the image"
+msgstr "Padidinti paveikslą"
+
+#: ../src/iog-window.c:3736 ../src/iog-window.c:3751
+msgid "Zoom _Out"
+msgstr "_Mažinti"
+
+#: ../src/iog-window.c:3737 ../src/iog-window.c:3749 ../src/iog-window.c:3752
+msgid "Shrink the image"
+msgstr "Sumažinti paveikslą"
+
+#: ../src/iog-window.c:3739
+msgid "_Normal Size"
+msgstr "_Normalus dydis"
+
+#: ../src/iog-window.c:3740
+msgid "Show the image at its normal size"
+msgstr "Rodyti paveikslą normaliu dydžiu"
+
+#: ../src/iog-window.c:3742
+msgid "_Best Fit"
+msgstr "_Geriausiai tinka"
+
+#: ../src/iog-window.c:3743
+msgid "Fit the image to the window"
+msgstr "Pritaikyti paveikslo dydį langui"
+
+#: ../src/iog-window.c:3760
+msgid "_Fullscreen"
+msgstr "_Visame ekrane"
+
+#: ../src/iog-window.c:3761
+msgid "Show the current image in fullscreen mode"
+msgstr "Rodyti pasirinktą paveikslą viso ekrano veiksenoje"
+
+#: ../src/iog-window.c:3763
+msgid "Pause Slideshow"
+msgstr "Stabdyti skaidrių rodymas"
+
+#: ../src/iog-window.c:3764
+msgid "Pause or resume the slideshow"
+msgstr "Stabdyti arba pratęsti skaidrių rodymą"
+
+#: ../src/iog-window.c:3769 ../src/iog-window.c:3784
+msgid "_Previous Image"
+msgstr "_Ankstesnis paveikslas"
+
+#: ../src/iog-window.c:3770
+msgid "Go to the previous image of the collection"
+msgstr "Rodyti ankstesnį rinkinio paveikslą"
+
+#: ../src/iog-window.c:3772
+msgid "_Next Image"
+msgstr "_Kitas paveikslas"
+
+#: ../src/iog-window.c:3773
+msgid "Go to the next image of the collection"
+msgstr "Rodyti kitą rinkinio paveikslą"
+
+#: ../src/iog-window.c:3775 ../src/iog-window.c:3787
+msgid "_First Image"
+msgstr "_Pirmas paveikslas"
+
+#: ../src/iog-window.c:3776
+msgid "Go to the first image of the collection"
+msgstr "Rodyti pirmąjį rinkinio paveikslą"
+
+#: ../src/iog-window.c:3778 ../src/iog-window.c:3790
+msgid "_Last Image"
+msgstr "Pas_kutinis paveikslas"
+
+#: ../src/iog-window.c:3779
+msgid "Go to the last image of the collection"
+msgstr "Rodyti paskutinįjį rinkinio paveikslą"
+
+#: ../src/iog-window.c:3781
+msgid "_Random Image"
+msgstr "_Atsitiktinis paveikslas"
+
+#: ../src/iog-window.c:3782
+msgid "Go to a random image of the collection"
+msgstr "Rodyti atsitiktinį rinkinio paveikslą"
+
+#: ../src/iog-window.c:3796
+msgid "S_lideshow"
+msgstr "S_kaidrių rodymas"
+
+#: ../src/iog-window.c:3797
+msgid "Start a slideshow view of the images"
+msgstr "Rodyti paveikslus kaip skaidrių rodymą"
+
+#: ../src/iog-window.c:3863
+msgid "Previous"
+msgstr "Ankstesnis"
+
+#: ../src/iog-window.c:3867
+msgid "Next"
+msgstr "Kitas"
+
+#: ../src/iog-window.c:3871
+msgid "Right"
+msgstr "Dešinėn"
+
+#: ../src/iog-window.c:3874
+msgid "Left"
+msgstr "Kairėn"
+
+#: ../src/iog-window.c:3877
+msgid "In"
+msgstr "Didinti"
+
+#: ../src/iog-window.c:3880
+msgid "Out"
+msgstr "Mažinti"
+
+#: ../src/iog-window.c:3883
+msgid "Normal"
+msgstr "Normalus"
+
+#: ../src/iog-window.c:3886
+msgid "Fit"
+msgstr "Taikyti"
+
+#: ../src/iog-window.c:3889
+msgid "Collection"
+msgstr "Kolekcija"
+
+#: ../src/iog-window.c:3892
+msgctxt "action (to trash)"
+msgid "Trash"
+msgstr "Perkelti į šiukšlinę"
+
+#: ../src/iog-window.c:4245
+#, c-format
+msgid "Edit the current image using %s"
+msgstr "Redaguoti esamą paveikslą naudojant %s"
+
+#: ../src/iog-window.c:4247
+msgid "Edit Image"
+msgstr "Redaguoti paveikslą"
+
+#: ../src/main.c:80
+msgid "Open in fullscreen mode"
+msgstr "Atverti viso ekrano veiksenoje"
+
+#: ../src/main.c:81
+msgid "Disable image collection"
+msgstr "Išjungti paveikslų kolekciją"
+
+#: ../src/main.c:82
+msgid "Open in slideshow mode"
+msgstr "Atverti skaidrių rodymo veiksenoje"
+
+#: ../src/main.c:84
+msgid "Start a new instance instead of reusing an existing one"
+msgstr "Paleisti naują egzempliorių užuot naudojus jau paleistą"
+
+#: ../src/main.c:87
+msgid "Show the application's version"
+msgstr "Rodyti programos versiją"
+
+#: ../src/main.c:88
+msgid "[FILE…]"
+msgstr "[FAILAS…]"
+
+#. I18N: The '%s' is replaced with iog's command name.
+#: ../src/main.c:219
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr "Norėdami pamatyti komandų eilutės parametrų sąrašą, paleiskite „%s --help“."

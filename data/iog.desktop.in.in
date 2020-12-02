@@ -1,0 +1,17 @@
+[Desktop Entry]
+_Name=Eye of GDE2 Image Viewer
+_Comment=Browse and rotate images
+TryExec=iog
+Exec=iog %U
+Icon=iog
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GTK;Graphics;RasterGraphics;Viewer;
+Keywords=image;viewer;JPEG;PNG;TIFF;SVG;GDE2;photos;browse;thumbnails;rotate;
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=IOG
+X-GDE2-Bugzilla-Component=general
+X-GDE2-Bugzilla-Version=@VERSION@
+X-GDE2-DocPath=iog/index.docbook
+MimeType=image/bmp;image/gif;image/jpeg;image/jpg;image/pjpeg;image/png;image/tiff;image/x-bmp;image/x-gray;image/x-icb;image/x-ico;image/x-png;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;image/x-pcx;image/svg+xml;image/svg+xml-compressed;image/vnd.wap.wbmp;
